@@ -11,8 +11,6 @@ Research Question
 Does seasonal variation in PM10 concentrations in Davao City, Philippines significantly correlate with asthma prevalence among school-age children (ages 5–12) from 2013–2022, after controlling for socioeconomic factors?
 
 
-
-
 Repository Structure
 
 pm10-asthma-davao/
