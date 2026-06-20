@@ -5,12 +5,21 @@ process_acag_pm25.py
 ====================================================================
 Build a subnational PM2.5 exposure panel for the Philippines (2013-2022).
 
+Data source
+-----------
+ACAG (Atmospheric Composition Analysis Group) surface PM2.5, product
+V6.GL.02.04, annual, 0.1 deg x 0.1 deg resolution. Citation:
+
+    Shen S, Li C, van Donkelaar A, Jacobs N, Wang C, Martin RV.
+    Enhancing Global Estimation of Fine Particulate Matter Concentrations
+    by Including Geophysical a Priori Information in Deep Learning.
+    ACS ES&T Air. 2024. DOI: 10.1021/acsestair.3c00054
+
 What this script does
 ---------------------
-1. Loads annual ACAG (Atmospheric Composition Analysis Group) V5.GL.03
-   surface PM2.5 NetCDF files (.nc4) from data/raw/acag/ for 2013-2022.
-   The PM2.5 variable is usually called "GWRPM25"; the script auto-detects
-   it if the name differs.
+1. Loads annual ACAG V6.GL.02.04 surface PM2.5 NetCDF files (.nc) from
+   data/raw/acag/ for 2013-2022. The PM2.5 variable is usually called
+   "CNNPM25"; the script auto-detects it if the name differs.
 2. Loads the GADM Philippines level-1 (region) polygon shapefile from
    data/raw/shapefiles/ with geopandas.
 3. For each year, computes the AREA-WEIGHTED mean PM2.5 (ug/m3) for every
@@ -76,7 +85,8 @@ YEARS = list(range(2013, 2023))  # 2013..2022 inclusive
 # Candidate names for the PM2.5 data variable, the longitude/latitude
 # coordinates, and the GADM region-name column. The script tries each in
 # order and falls back to auto-detection if none match.
-PM25_VAR_CANDIDATES = ["GWRPM25", "PM25", "pm25", "PM2.5"]
+# V6.GL.02.04 uses "CNNPM25"; older products used "GWRPM25" (kept as fallback).
+PM25_VAR_CANDIDATES = ["CNNPM25", "GWRPM25", "PM25", "pm25", "PM2.5"]
 LON_CANDIDATES = ["lon", "longitude", "x", "LON", "Longitude"]
 LAT_CANDIDATES = ["lat", "latitude", "y", "LAT", "Latitude"]
 REGION_NAME_CANDIDATES = ["NAME_1", "NAME1", "REGION", "region", "name"]
@@ -98,16 +108,15 @@ def find_year_file(year: int) -> str | None:
     """
     Locate the ACAG NetCDF file for a given year inside ACAG_DIR.
 
-    ACAG annual filenames look something like:
-        V5GL03.HybridPM25.Global.201301-201312.nc
-        V5GL0302.HybridPM25.Global.YYYY01-YYYY12.nc4
-    so we simply glob every .nc/.nc4 file and keep the one whose name
-    contains the 4-digit year. This is deliberately tolerant of the exact
-    ACAG naming so you don't have to rename downloads.
+    ACAG V6.GL.02.04 annual filenames look something like:
+        V6GL0204.CNNPM25.Global.201301-201312.nc
+    so we simply glob every .nc (and .nc4 as a fallback) file and keep the
+    one whose name contains the 4-digit year. This is deliberately tolerant
+    of the exact ACAG naming so you don't have to rename downloads.
     """
     patterns = [
-        os.path.join(ACAG_DIR, "*.nc4"),
         os.path.join(ACAG_DIR, "*.nc"),
+        os.path.join(ACAG_DIR, "*.nc4"),
     ]
     candidates = []
     for pat in patterns:
