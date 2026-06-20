@@ -1,0 +1,3 @@
+label,n,pearson_r,pearson_p,spearman_r,spearman_p
+PM2.5 exposure (SEV index),10,0.4703,0.1701,0.3939,0.26
+"PM2.5 exposure (SEV index), detrended",9,-0.0997,0.7986,-0.1333,0.7324

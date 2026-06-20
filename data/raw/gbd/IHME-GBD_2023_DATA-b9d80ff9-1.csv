@@ -1,0 +1,11 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,rei_id,rei_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,29,Summary exposure value,16,Philippines,3,Both,22,All ages,86,Ambient particulate matter pollution,3,Rate,2015,17.33822490204946,21.70385465184106,13.084917822183911
+1,All Population,29,Summary exposure value,16,Philippines,3,Both,22,All ages,86,Ambient particulate matter pollution,3,Rate,2014,17.00636880004243,21.10849609577267,13.02707321073717
+1,All Population,29,Summary exposure value,16,Philippines,3,Both,22,All ages,86,Ambient particulate matter pollution,3,Rate,2018,18.588072753064218,22.77904959466196,14.19746781960723
+1,All Population,29,Summary exposure value,16,Philippines,3,Both,22,All ages,86,Ambient particulate matter pollution,3,Rate,2013,16.57277293474067,20.66533598464536,12.66783797478466
+1,All Population,29,Summary exposure value,16,Philippines,3,Both,22,All ages,86,Ambient particulate matter pollution,3,Rate,2017,18.03384441052476,22.15594493379092,14.02738299732589
+1,All Population,29,Summary exposure value,16,Philippines,3,Both,22,All ages,86,Ambient particulate matter pollution,3,Rate,2016,17.60607440867392,21.84199023877116,13.5347986334178
+1,All Population,29,Summary exposure value,16,Philippines,3,Both,22,All ages,86,Ambient particulate matter pollution,3,Rate,2020,19.94030299052148,24.87530824838348,14.990125514222349
+1,All Population,29,Summary exposure value,16,Philippines,3,Both,22,All ages,86,Ambient particulate matter pollution,3,Rate,2019,19.23526686845089,23.60284215771083,14.7289403817625
+1,All Population,29,Summary exposure value,16,Philippines,3,Both,22,All ages,86,Ambient particulate matter pollution,3,Rate,2022,22.76737263192132,28.72477528936444,17.67350505678393
+1,All Population,29,Summary exposure value,16,Philippines,3,Both,22,All ages,86,Ambient particulate matter pollution,3,Rate,2021,21.05968331136112,26.41368669851375,16.29258373248181

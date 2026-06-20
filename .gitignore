@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python / envs
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+
+# Abandoned CCHAIN raw data (17 MB; source recorded in START_HERE_pm25_asthma.md)
+data/raw/cchain/
