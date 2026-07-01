@@ -1,95 +1,84 @@
-# PM10 & Pediatric Asthma in Davao City (2013–2022)
+# PM2.5 and Pediatric Asthma in the Philippines
 
-**Author:** Hertzan D. Alquizola II  
-**Affiliation:** Lee County High School | Independent Student Researcher  
-**Status:** In Progress
+Satellite-Derived PM2.5 Exposure and Pediatric Asthma Prevalence Across Philippine Regions, 2013–2022: A Subnational Ecological Panel Analysis
 
----
+Hertzan D. Alquizola II — Lee County High School, Leesburg, GA
+Independent research targeting Regeneron Science Talent Search + peer-reviewed publication
 
-## Research Question
 
-> Does seasonal variation in PM10 concentrations in Davao City, Philippines significantly correlate with asthma prevalence among school-age children (ages 5–12) from 2013–2022, after controlling for socioeconomic factors?
+## What this study does
 
----
+This project examines whether annual changes in satellite-derived PM2.5 concentrations are associated with pediatric asthma prevalence across 17 Philippine administrative regions from 2013 to 2022.
 
-## Repository Structure
+The short answer: a very strong cross-sectional correlation (Pearson r = +0.887) between PM2.5 and asthma prevalence turns out to be almost entirely a between-region artifact — polluted regions are also more urbanized and have more diagnostic capacity. Once two-way fixed effects remove that structural confounding, no robust within-region association remains. The 1.5% within-region variance in GBD-modeled asthma prevalence explains why. This is the paper's main finding: a methodological lesson about ecological epidemiology, not a failure to find an effect.
 
-```
+
+## Data sources
+
+ACAG V6.GL.02.04 (satpm.org) — Annual satellite PM2.5 in µg/m³, 2013–2022 — data/raw/acag/Annual-selected/
+
+GBD 2023 Results Tool (IHME) — Pediatric asthma prevalence, ages 5–14, subnational Philippines — data/raw/gbd/
+
+GADM level-1 shapefiles — Philippine region boundaries for area-weighting — data/raw/shapefiles/
+
+
+## How to reproduce the analysis
+
+Install dependencies:
+
+pip install pandas numpy matplotlib seaborn scipy statsmodels linearmodels jupyter geopandas xarray shapely netCDF4
+
+Then run the four scripts in order:
+
+python aggregate_gbd_provinces.py
+python process_acag_pm25.py
+python run_analysis.py
+python generate_figures.py
+
+Outputs land in data/processed/ and outputs/
+
+
+## Key results
+
+n = 170 region-year observations (17 regions x 10 years)
+PM2.5: mean 14.72 +/- 3.52 µg/m³; 34.1% of region-years exceeded WHO guideline of 15 µg/m³
+Pooled Pearson r = +0.887 (p < 0.0001) — strong but driven by between-region confounding
+Variance decomposition: 98.5% of asthma prevalence variation is between-region structural; only 1.5% is within-region temporal
+Two-way fixed effects β = −2.554 (SE = 0.825, p = 0.002, within-R² = 0.080) — no robust within-region signal
+First differences r = +0.199 (p = 0.014) — weak positive, consistent with null
+
+
+## Repository structure
+
 pm10-asthma-davao/
-│
 ├── data/
-│   ├── raw/              ← Original downloaded datasets (DO NOT EDIT)
-│   │   ├── cchain/       ← Project CCHAIN data files (.csv)
-│   │   └── emb/          ← EMB-XI PM10 reports (PDFs + any CSVs)
-│   └── processed/        ← Cleaned, merged datasets your code produces
-│
-├── notebooks/
-│   └── 01_analysis.ipynb ← Main Jupyter Notebook (start here)
-│
+│   ├── raw/
+│   │   ├── acag/
+│   │   ├── gbd/
+│   │   └── shapefiles/
+│   └── processed/
+│       ├── panel_merged.csv
+│       ├── asthma_regional_panel.csv
+│       └── pm25_regional_panel.csv
 ├── outputs/
-│   ├── figures/          ← Saved plots (.png)
-│   └── tables/           ← Saved result tables (.csv)
-│
-├── requirements.txt      ← Python packages needed
-└── README.md             ← This file
-```
+│   ├── figures/
+│   └── tables/
+├── notebooks/
+├── aggregate_gbd_provinces.py
+├── process_acag_pm25.py
+├── run_analysis.py
+├── generate_figures.py
+├── variance_check.py
+└── requirements.txt
 
----
 
-## Datasets Used
+## Citations
 
-| Dataset | Source | Link |
-|---|---|---|
-| Project CCHAIN (health + environment + socioeconomic, Davao, 2003–2022) | Humanitarian Data Exchange | https://data.humdata.org/dataset/project-cchain |
-| EMB-XI PM10 Annual Reports | EMB Region XI | https://r11.emb.gov.ph/ |
-| WHO Philippines Health Indicators | HDX / WHO | https://data.humdata.org/m/dataset/who-data-for-philippines |
+ACAG data: Shen S, Li C, van Donkelaar A, et al. Enhancing Global Estimation of Fine Particulate Matter Concentrations by Including Geophysical a Priori Information in Deep Learning. ACS ES&T Air. 2024. DOI: 10.1021/acsestair.3c00054
 
----
+GBD data: Global Burden of Disease Collaborative Network. GBD 2023 Results. Seattle: IHME, 2024. https://vizhub.healthdata.org/gbd-results/
 
-## Key References (DOIs)
 
-1. Ho et al. (2023) — Pediatric asthma in the Philippines. `doi:10.1016/j.lanwpc.2023.100806`
-2. Yang et al. (2024) — Asthma trends, Western Pacific 1990–2045. `doi:10.2196/55327`
-3. Gallano et al. (2024) — PM2.5 and child respiratory illness, Philippines. https://ph01.tci-thaijo.org/index.php/aer/article/view/255626
-4. Zhang et al. (2021) — PM and pediatric asthma exacerbation. `PMC8312457`
-5. Ye et al. (2023) — PM10 and pediatric hospitalization. `PMC9908005`
+## Note on repo history
 
----
-
-## Setup Instructions
-
-### 1. Clone this repo
-```bash
-git clone https://github.com/YOUR_USERNAME/pm10-asthma-davao.git
-cd pm10-asthma-davao
-```
-
-### 2. Install Python dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Launch Jupyter
-```bash
-jupyter notebook
-```
-Then open `notebooks/01_analysis.ipynb`
-
----
-
-## Analysis Steps (in the notebook)
-
-- [ ] Step 1: Load and explore the CCHAIN dataset
-- [ ] Step 2: Filter for Davao City, ages 5–12, asthma variables
-- [ ] Step 3: Load and clean PM10 data
-- [ ] Step 4: Merge datasets on date + barangay
-- [ ] Step 5: Seasonal decomposition of PM10
-- [ ] Step 6: Correlation analysis (Pearson + Spearman)
-- [ ] Step 7: Multivariate regression with socioeconomic covariates
-- [ ] Step 8: WHO threshold comparison
-- [ ] Step 9: Export figures and tables for paper
-
----
-
-## License
-This project is for academic research purposes.
+Earlier folders (data/raw/cchain, data/raw/emb) and notebooks reflect abandoned earlier phases — a Davao-only PM10 study using CCHAIN surveillance data and a national 10-point time series. Both were superseded by the current regional panel. They are kept for transparency but are not part of the current analysis.
