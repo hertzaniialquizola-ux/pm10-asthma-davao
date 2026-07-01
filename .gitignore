@@ -12,3 +12,4 @@ __pycache__/
 
 # Abandoned CCHAIN raw data (17 MB; source recorded in START_HERE_pm25_asthma.md)
 data/raw/cchain/
+.DS_Store
