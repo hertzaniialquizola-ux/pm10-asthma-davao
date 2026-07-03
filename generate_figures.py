@@ -17,7 +17,7 @@ Publication-quality figures for:
 
      Davao City as a Grounding Case Study"
 
-Produces five figures, each saved as 300-dpi PNG and vector PDF in
+Produces six figures, each saved as 300-dpi PNG and vector PDF in
 
 outputs/figures/:
 
@@ -30,6 +30,8 @@ outputs/figures/:
     Fig 4  fig4_heatmap                    Asthma rate by region x year
 
     Fig 5  fig5_within_region_correlations Within-region r dot/forest plot
+
+    Fig 6  fig6_multi_outcome_forest       Multi-outcome FE beta forest plot
 
 Input
 
@@ -105,7 +107,9 @@ GRAY = "#636363"
 
 LIGHT = "#f7f7f7"
 
-WHO = 15.0  # WHO annual PM2.5 guideline, ug/m3
+WHO_IT3 = 15.0       # WHO 2021 Interim Target-3 for annual PM2.5 (ug/m3) — an intermediate
+                     # stepping-stone benchmark, NOT the primary guideline.
+WHO_GUIDELINE = 5.0  # WHO 2021 annual PM2.5 guideline (ug/m3) — the actual health-based standard.
 
 # Pre-computed statistics from run_analysis.py (reproduced as on-figure labels)
 
@@ -217,9 +221,9 @@ df = pd.read_csv(PANEL)
 
 df = df.sort_values(["region", "year"]).reset_index(drop=True)
 
-# Regional summary: mean PM2.5, mean asthma, WHO exceedance count (years > 15).
+# Regional summary: mean PM2.5, mean asthma, WHO Interim Target-3 exceedance count (years > 15).
 
-reg = (df.assign(exceed=df["pm25"] > WHO)
+reg = (df.assign(exceed=df["pm25"] > WHO_IT3)
 
          .groupby("region")
 
@@ -255,9 +259,10 @@ nat = (df.groupby("year")
 
 # region-years. NCR (labeled) forms the high-pollution, high-prevalence
 
-# outlier cluster. Line is the pooled OLS fit; the dashed line marks the WHO
+# outlier cluster. Line is the pooled OLS fit; the dashed line marks WHO's
 
-# 15 ug/m3 annual guideline. The pooled correlation reflects between-region
+# Interim Target-3 (15 ug/m3), an intermediate benchmark short of WHO's actual
+# 2021 annual PM2.5 guideline of 5 ug/m3. The pooled correlation reflects between-region
 
 # variation and is not a within-region causal estimate (see fixed effects).
 
@@ -319,13 +324,13 @@ def figure1():
 
             label="Pooled OLS fit")
 
-    # WHO threshold.
+    # WHO Interim Target-3 threshold.
 
-    ax.axvline(WHO, color=GRAY, ls="--", lw=1.2, zorder=1)
+    ax.axvline(WHO_IT3, color=GRAY, ls="--", lw=1.2, zorder=1)
 
-    ax.text(WHO + 0.2, ax.get_ylim()[1] * 0.5 + y.min() * 0.5,
+    ax.text(WHO_IT3 + 0.2, ax.get_ylim()[1] * 0.5 + y.min() * 0.5,
 
-            "WHO 15 µg/m³", rotation=90, va="center", ha="left",
+            "WHO Interim Target-3 (15 µg/m³)", rotation=90, va="center", ha="left",
 
             fontsize=9, color=GRAY)
 
@@ -419,9 +424,9 @@ def figure2():
 
                             label="±1 SD of regional $PM_{2.5}$")
 
-    l3 = ax2.axhline(WHO, color=GRAY, ls="--", lw=1.2)
+    l3 = ax2.axhline(WHO_IT3, color=GRAY, ls="--", lw=1.2)
 
-    ax2.text(nat["year"].max(), WHO + 0.15, "WHO 15 µg/m³", ha="right",
+    ax2.text(nat["year"].max(), WHO_IT3 + 0.15, "WHO Interim Target-3 (15 µg/m³)", ha="right",
 
              va="bottom", fontsize=8.5, color=GRAY)
 
@@ -463,13 +468,15 @@ def figure2():
 
 # ==========================================================================
 
-# FIGURE 3 — Regional mean PM2.5 with WHO threshold (horizontal bars)
+# FIGURE 3 — Regional mean PM2.5 with WHO Interim Target-3 threshold (horizontal bars)
 
 # Caption: Region-level mean PM2.5 (2013-2022), sorted high to low. Bars
 
-# above the WHO 15 ug/m3 guideline are red; values and the count of years
+# above WHO's Interim Target-3 (15 ug/m3) — an intermediate benchmark short of
 
-# exceeding the guideline are annotated at the bar end.
+# WHO's actual 2021 annual PM2.5 guideline of 5 ug/m3 — are red; values and
+
+# the count of years exceeding Interim Target-3 are annotated at the bar end.
 
 # ==========================================================================
 
@@ -479,15 +486,15 @@ def figure3():
 
     order = reg.iloc[::-1].reset_index(drop=True)  # lowest at bottom for barh
 
-    colors = [RED if v > WHO else BLUE for v in order["pm25"]]
+    colors = [RED if v > WHO_IT3 else BLUE for v in order["pm25"]]
 
     ypos = np.arange(len(order))
 
     ax.barh(ypos, order["pm25"], color=colors, edgecolor="white", height=0.72)
 
-    ax.axvline(WHO, color=GRAY, ls="--", lw=1.3)
+    ax.axvline(WHO_IT3, color=GRAY, ls="--", lw=1.3)
 
-    ax.text(WHO, len(order) - 0.2, "WHO Annual Guideline (15 µg/m³)",
+    ax.text(WHO_IT3, len(order) - 0.2, "WHO Interim Target-3 (15 µg/m³)",
 
             rotation=90, va="top", ha="right", fontsize=8.5, color=GRAY)
 
@@ -519,11 +526,11 @@ def figure3():
 
     legend = [Line2D([0], [0], marker="s", color="w", markerfacecolor=RED,
 
-                     markersize=10, label="Exceeds WHO guideline"),
+                     markersize=10, label="Exceeds WHO Interim Target-3"),
 
               Line2D([0], [0], marker="s", color="w", markerfacecolor=BLUE,
 
-                     markersize=10, label="At or below WHO guideline")]
+                     markersize=10, label="At or below WHO Interim Target-3")]
 
     ax.legend(handles=legend, loc="lower right", frameon=False, fontsize=9)
 
@@ -531,7 +538,7 @@ def figure3():
 
            "Mean Annual $PM_{2.5}$ by Philippine Region (2013–2022)",
 
-           "Red bars exceed WHO annual $PM_{2.5}$ guideline (15 µg/m³)")
+           "Red bars exceed WHO's Interim Target-3 (15 µg/m³)")
 
     fig.tight_layout()
 
@@ -713,6 +720,77 @@ def figure5():
 
     save(fig, "fig5_within_region_correlations")
 
+MULTI_RESULTS = os.path.join(REPO_ROOT, "outputs", "tables", "multi_outcome_results.csv")
+
+OUTCOME_LABELS = {
+    "asthma":                "Pediatric asthma prevalence\n(ages 5–14)",
+    "lung_cancer_incidence":  "Lung cancer incidence\n(all ages)",
+    "lri_incidence":          "Lower respiratory infection\nincidence (ages 5–14)",
+    "copd_prevalence":        "COPD prevalence\n(all ages)",
+    "respiratory_mortality":  "Respiratory-disease mortality\n(all ages)",
+}
+
+OUTCOME_ORDER = ["asthma", "lung_cancer_incidence", "lri_incidence",
+                 "copd_prevalence", "respiratory_mortality"]
+
+def figure6():
+
+    mr = pd.read_csv(MULTI_RESULTS).set_index("outcome").loc[OUTCOME_ORDER].reset_index()
+
+    mr["ci_lo"] = mr["beta"] - 1.96 * mr["se"]
+    mr["ci_hi"] = mr["beta"] + 1.96 * mr["se"]
+
+    n = len(mr)
+    ypos = np.arange(n - 1, -1, -1)  # asthma at top, respiratory_mortality at bottom
+
+    fig, ax = plt.subplots(figsize=(9, 5.5))
+
+    for i, row in zip(ypos, mr.to_dict("records")):
+
+        c = BLUE if row["beta"] >= 0 else RED
+
+        ax.plot([row["ci_lo"], row["ci_hi"]], [i, i], color=c, lw=1.6,
+                alpha=0.75, zorder=2)
+
+        ax.scatter(row["beta"], i, color=c, s=60, zorder=3, edgecolor="white",
+                   linewidth=0.6)
+
+        sig = "*" if row["p_value"] < 0.05 else ""
+        label = (f"β = {row['beta']:.2f} (p = {row['p_value']:.3f}{sig})")
+
+        x_text = row["ci_hi"] + 0.15 * (mr["ci_hi"].max() - mr["ci_lo"].min())
+        ax.text(x_text, i, label, va="center", ha="left", fontsize=8.5,
+                color="#222222")
+
+    ax.axvline(0, color="#222222", ls="--", lw=1.1, zorder=1)
+
+    ax.set_yticks(ypos)
+    ax.set_yticklabels([OUTCOME_LABELS[o] for o in mr["outcome"]], fontsize=9.5)
+
+    span = mr["ci_hi"].max() - mr["ci_lo"].min()
+    ax.set_xlim(mr["ci_lo"].min() - 0.08 * span, mr["ci_hi"].max() + 0.55 * span)
+
+    ax.set_xlabel("Two-way fixed-effects β (Δ outcome rate per 100,000, per 1 µg/m³ PM2.5)")
+
+    despine(ax)
+    ax.grid(axis="y", visible=False)
+
+    ax.text(0.01, -0.17,
+            "Note: No correction for multiple comparisons was applied across "
+            "these 5 outcome tests. * p < 0.05 (uncorrected).",
+            transform=ax.transAxes, fontsize=7.5, va="top", ha="left",
+            color=GRAY)
+
+    titles(ax,
+           "Multi-Outcome Fixed-Effects Analysis: $PM_{2.5}$ and Five "
+           "Respiratory-Related Outcomes",
+           "Point = fixed-effects β (region + year effects); bars = 95% CI "
+           "clustered by region. Philippines, 2013–2022, n = 170 per outcome.")
+
+    fig.tight_layout()
+
+    save(fig, "fig6_multi_outcome_forest")
+
 def main():
 
     print("Generating publication figures from", os.path.relpath(PANEL, REPO_ROOT))
@@ -727,7 +805,9 @@ def main():
 
     figure5()
 
-    print("Done. All 5 figures saved to outputs/figures/ as PNG (300 dpi) + PDF.")
+    figure6()
+
+    print("Done. All 6 figures saved to outputs/figures/ as PNG (300 dpi) + PDF.")
 
 if __name__ == "__main__":
 

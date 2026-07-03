@@ -1,0 +1,6 @@
+outcome,beta,se,p_value,within_r2,n
+asthma,-2.5541,0.8247,0.0024,0.0802,170
+lung_cancer_incidence,-0.1952,0.0908,0.0333,0.1942,170
+lri_incidence,-3.0534,1.8253,0.0965,0.0114,170
+copd_prevalence,4.4761,2.6426,0.0925,0.1279,170
+respiratory_mortality,0.9839,0.7197,0.1737,0.0089,170

@@ -19,9 +19,15 @@ panel.to_csv("data/processed/panel_merged.csv", index=False)
 print(f"Merged panel: {panel.shape}")
 print(panel.head(10).to_string(index=False))
 
-WHO_THRESHOLD = 15.0
-panel["exceeds_who"] = (panel["pm25"] > WHO_THRESHOLD).astype(int)
-print(f"\nRegion-years exceeding WHO 15 µg/m³: {panel['exceeds_who'].sum()} / {len(panel)}")
+WHO_INTERIM_TARGET_3 = 15.0  # WHO 2021 Interim Target-3 for annual PM2.5 — an intermediate
+                             # stepping-stone benchmark, NOT the primary guideline.
+WHO_GUIDELINE_2021 = 5.0     # WHO 2021 annual PM2.5 guideline — the actual health-based standard.
+
+panel["exceeds_who_it3"] = (panel["pm25"] > WHO_INTERIM_TARGET_3).astype(int)
+print(f"\nRegion-years exceeding WHO Interim Target-3 (15 µg/m³): {panel['exceeds_who_it3'].sum()} / {len(panel)}")
+
+panel["exceeds_who_guideline"] = (panel["pm25"] > WHO_GUIDELINE_2021).astype(int)
+print(f"Region-years exceeding WHO's 2021 annual guideline ({WHO_GUIDELINE_2021} µg/m³): {panel['exceeds_who_guideline'].sum()} / {len(panel)}")
 
 # ── 2. DESCRIPTIVE STATS ────────────────────────────────────────────────────
 desc = panel[["asthma_rate_per100k","pm25"]].describe().round(2)
@@ -75,6 +81,48 @@ results_table = pd.DataFrame({
 results_table.to_csv("outputs/tables/regression_results.csv", index=False)
 print(f"\nRegression results saved.")
 
+# ── 4b. MULTI-OUTCOME ANALYSIS ──────────────────────────────────────────────
+# Same two-way fixed-effects specification (PM2.5 predicting outcome, region +
+# year effects, SEs clustered by region), looped across all 5 GBD outcomes:
+# asthma, lung cancer incidence, LRI incidence, COPD prevalence, and
+# respiratory mortality. Each outcome's regional panel was built by
+# aggregate_gbd_provinces.py and merged with pm25_regional_panel.csv on
+# region+year (see data/processed/<outcome>_pm25_merged.csv).
+MULTI_OUTCOMES = {
+    "asthma":                 "asthma_rate_per100k",
+    "lung_cancer_incidence":  "lung_cancer_incidence_rate_per100k",
+    "lri_incidence":          "lri_incidence_rate_per100k",
+    "copd_prevalence":        "copd_prevalence_rate_per100k",
+    "respiratory_mortality":  "respiratory_mortality_rate_per100k",
+}
+
+multi_rows = []
+for outcome_name, value_col in MULTI_OUTCOMES.items():
+    outcome_df = pd.read_csv(f"data/processed/{outcome_name}_regional_panel.csv")
+    merged = outcome_df.merge(pm25, on=["region", "year"], how="inner")
+    merged.to_csv(f"data/processed/{outcome_name}_pm25_merged.csv", index=False)
+
+    m_fe = merged.set_index(["region", "year"])
+    mod = PanelOLS.from_formula(
+        f"{value_col} ~ pm25 + EntityEffects + TimeEffects",
+        data=m_fe)
+    res = mod.fit(cov_type="clustered", cluster_entity=True)
+
+    multi_rows.append({
+        "outcome":   outcome_name,
+        "beta":      round(res.params["pm25"], 4),
+        "se":        round(res.std_errors["pm25"], 4),
+        "p_value":   round(res.pvalues["pm25"], 4),
+        "within_r2": round(res.rsquared, 4),
+        "n":         len(merged),
+    })
+    print(f"  [{outcome_name}] beta={multi_rows[-1]['beta']}, se={multi_rows[-1]['se']}, "
+          f"p={multi_rows[-1]['p_value']}, within_R2={multi_rows[-1]['within_r2']}, n={multi_rows[-1]['n']}")
+
+multi_results = pd.DataFrame(multi_rows)
+multi_results.to_csv("outputs/tables/multi_outcome_results.csv", index=False)
+print(f"\nMulti-outcome results saved to outputs/tables/multi_outcome_results.csv")
+
 # ── 5. FIRST DIFFERENCES (robustness) ───────────────────────────────────────
 fd = panel.sort_values(["region","year"]).copy()
 fd["d_asthma"] = fd.groupby("region")["asthma_rate_per100k"].diff()
@@ -95,7 +143,7 @@ ax.scatter(panel["pm25"], panel["asthma_rate_per100k"],
 m, b = np.polyfit(panel["pm25"], panel["asthma_rate_per100k"], 1)
 xline = np.linspace(panel["pm25"].min(), panel["pm25"].max(), 100)
 ax.plot(xline, m*xline+b, color=RED, lw=2)
-ax.axvline(WHO_THRESHOLD, color=GRAY, ls="--", lw=1.2, label="WHO 15 µg/m³")
+ax.axvline(WHO_INTERIM_TARGET_3, color=GRAY, ls="--", lw=1.2, label="WHO Interim Target-3 (15 µg/m³)")
 ax.set_xlabel("Annual Mean PM2.5 (µg/m³)", fontsize=12)
 ax.set_ylabel("Asthma Prevalence (per 100,000)", fontsize=12)
 ax.set_title(f"PM2.5 vs Pediatric Asthma Prevalence\nPhilippines Regions 2013–2022 (n=170)\nPearson r={r_p:.3f}, p={p_p:.3f}", fontsize=11)
@@ -111,7 +159,7 @@ fig, ax1 = plt.subplots(figsize=(8,4))
 ax2 = ax1.twinx()
 ax1.plot(nat["year"], nat["asthma_rate_per100k"], color=BLUE, lw=2.5, marker="o", label="Asthma rate")
 ax2.plot(nat["year"], nat["pm25"], color=RED, lw=2.5, marker="s", ls="--", label="PM2.5")
-ax2.axhline(WHO_THRESHOLD, color=GRAY, ls=":", lw=1.2, label="WHO 15 µg/m³")
+ax2.axhline(WHO_INTERIM_TARGET_3, color=GRAY, ls=":", lw=1.2, label="WHO Interim Target-3 (15 µg/m³)")
 ax1.set_xlabel("Year"); ax1.set_ylabel("Asthma Rate (per 100k)", color=BLUE)
 ax2.set_ylabel("PM2.5 (µg/m³)", color=RED)
 ax1.set_title("National Annual Trends: Asthma Prevalence and PM2.5\nPhilippines 2013–2022")
@@ -124,14 +172,14 @@ plt.savefig("outputs/figures/fig2_trends.png", dpi=150)
 plt.close()
 print("Saved fig2_trends.png")
 
-# Figure 3: Regional PM2.5 bar chart with WHO line
+# Figure 3: Regional PM2.5 bar chart with WHO Interim Target-3 line
 reg_pm25 = panel.groupby("region")["pm25"].mean().sort_values(ascending=False)
-colors = [RED if v > WHO_THRESHOLD else BLUE for v in reg_pm25]
+colors = [RED if v > WHO_INTERIM_TARGET_3 else BLUE for v in reg_pm25]
 fig, ax = plt.subplots(figsize=(10,5))
 ax.bar(reg_pm25.index, reg_pm25.values, color=colors, edgecolor="white")
-ax.axhline(WHO_THRESHOLD, color=GRAY, ls="--", lw=1.5, label="WHO 15 µg/m³")
+ax.axhline(WHO_INTERIM_TARGET_3, color=GRAY, ls="--", lw=1.5, label="WHO Interim Target-3 (15 µg/m³)")
 ax.set_xlabel("Region"); ax.set_ylabel("Mean PM2.5 2013–2022 (µg/m³)")
-ax.set_title("Mean Annual PM2.5 by Philippine Region (2013–2022)\nRed = exceeds WHO annual guideline (15 µg/m³)")
+ax.set_title("Mean Annual PM2.5 by Philippine Region (2013–2022)\nRed = exceeds WHO Interim Target-3 (15 µg/m³)")
 ax.legend(); plt.xticks(rotation=45, ha="right")
 plt.tight_layout()
 plt.savefig("outputs/figures/fig3_regional_pm25.png", dpi=150)
