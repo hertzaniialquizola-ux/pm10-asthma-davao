@@ -1,0 +1,831 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2129.95501735391,2711.33060976427,1679.85886018661
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2911.68980798521,3708.50655905859,2294.5784863308
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2683.4516958158,3297.8053464105997,2113.43137889132
+1,All Population,6,Incidence,53611,Sulu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2609.7968192990797,3410.35967430745,2035.30135616341
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2276.93033750817,2930.68376983046,1766.36873593818
+1,All Population,6,Incidence,16,Philippines,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2211.1159858004303,2767.56647927719,1771.0820143386802
+1,All Population,6,Incidence,53535,Benguet,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2014.1182816198502,2562.40156495586,1575.9825947644902
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2252.70162363111,2846.66192129584,1786.3989587209
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2249.49577941467,2782.69783737114,1787.32172060203
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2234.10291654465,2840.53114352979,1753.66265140167
+1,All Population,6,Incidence,53546,Quirino,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2639.30498405737,3380.7606384704,2105.4832559839897
+1,All Population,6,Incidence,53547,Batanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2809.3179585428898,3569.4031600699996,2194.77641922604
+1,All Population,6,Incidence,53548,Bataan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,1989.95847994457,2531.72156325485,1586.48766345766
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,1985.6175212766302,2547.3433333169,1579.8998542016998
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2903.0407892037197,3656.1142458380104,2261.8652868477902
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2273.64359939844,2881.63674528303,1818.4720963528698
+1,All Population,6,Incidence,53575,Iloilo,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2395.20039489521,2932.56206337181,1889.8360762285502
+1,All Population,6,Incidence,53610,Basilan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,1679.41923025211,2169.39688796887,1297.7069893191801
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2468.0435373642,3142.59430640011,1939.26450108391
+1,All Population,6,Incidence,53563,Palawan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2452.8213092739197,3102.93928557956,1971.35765747542
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,1990.64539574626,2476.56689771587,1559.69238722348
+1,All Population,6,Incidence,53576,Guimaras,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2175.7758941675897,2716.9395242636197,1748.9189425858701
+1,All Population,6,Incidence,53549,Zambales,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2186.37262962679,2730.72584793085,1754.77247700408
+1,All Population,6,Incidence,53562,Romblon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2258.2741521175403,2774.37199589887,1796.10258802105
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2184.0538499404297,2825.66073611977,1722.4252644119701
+1,All Population,6,Incidence,53534,Ifugao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2267.92836906811,2921.96417908442,1786.4003267262601
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2206.9101863380297,2665.1682961616198,1773.88675443042
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2164.67748894966,2740.17571273436,1687.1158364625
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2194.1746460781,2676.6389406377702,1752.8127910528601
+1,All Population,6,Incidence,53536,Abra,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2691.89447325291,3306.4660865414903,2183.23140651723
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,1908.99589364341,2468.70881521002,1514.32677829922
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2289.1086119198,2873.78053824754,1815.34161268826
+1,All Population,6,Incidence,53544,Cagayan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2530.08523249704,3141.4257416001496,2028.77311363842
+1,All Population,6,Incidence,53571,Capiz,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2713.64411117778,3256.5744568882997,2214.71513995402
+1,All Population,6,Incidence,53585,Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2434.9321887692,3052.57016131544,1936.3577263872899
+1,All Population,6,Incidence,53579,Bohol,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2290.59644403808,2891.86268835889,1795.59029442344
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2191.34291253274,2737.93787452955,1752.8381026775098
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2043.03804291916,2585.26751200523,1630.32183459155
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2082.10238538665,2600.59685594358,1636.72127060745
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2110.39328799642,2678.8593890389,1695.92730786007
+1,All Population,6,Incidence,53572,Aklan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2420.28613457392,2955.58706061973,1946.86012568559
+1,All Population,6,Incidence,53586,Biliran,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2324.0178508326303,2904.65682527251,1846.87533162721
+1,All Population,6,Incidence,53539,La Union,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2250.20894911135,2866.31049683205,1817.4177760864
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2339.50467777322,2955.5086410896597,1852.1330467191399
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2846.49876217555,3606.0858491211898,2217.08169170816
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2281.93934431822,2864.5531544999,1814.9734415332503
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2144.20587035903,2735.89439016273,1654.63153669133
+1,All Population,6,Incidence,53557,Laguna,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,1971.1191801541,2599.3104048354003,1534.17545409028
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2341.63474870515,2895.88060140587,1857.43748299938
+1,All Population,6,Incidence,53539,La Union,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2160.2567409940402,2736.36444908993,1731.60440898615
+1,All Population,6,Incidence,53578,Cebu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,1895.50432981269,2430.7048144206997,1490.69389113962
+1,All Population,6,Incidence,53563,Palawan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2385.1481929831402,3067.99612854248,1917.0095282398
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2131.90750222703,2770.74234372738,1687.37442051586
+1,All Population,6,Incidence,53545,Isabela,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2280.88648405553,2850.73263902278,1827.62704976789
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2475.4695048411104,3140.86363469014,1993.74543930925
+1,All Population,6,Incidence,53573,Antique,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2709.27648012586,3280.89657241029,2152.75274062964
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2178.4143371704,2750.2350779029202,1703.8506181183002
+1,All Population,6,Incidence,53558,Batangas,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,1864.71071870821,2445.25306097468,1489.2203486829699
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2203.40889972993,2839.9462240122903,1737.62810330931
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2430.10647870208,3097.2693375112303,1924.77907270941
+1,All Population,6,Incidence,53559,Quezon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,1691.7363774267599,2183.1536701981,1348.3222338758699
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2397.93571626728,2956.47960060342,1922.47498969911
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2202.59658037265,2758.29008630512,1763.83562540103
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2302.55706018249,2978.2668624251896,1824.1418287263798
+1,All Population,6,Incidence,53550,Tarlac,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2089.59367370024,2681.83304528055,1649.5702564592402
+1,All Population,6,Incidence,53564,Marinduque,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2129.3913400401,2677.08119996572,1690.06102081426
+1,All Population,6,Incidence,53535,Benguet,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1850.52750480132,2357.25805151663,1434.02492147131
+1,All Population,6,Incidence,53563,Palawan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2309.23934413968,2995.48993852336,1853.97290765257
+1,All Population,6,Incidence,53537,Apayao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2659.85222598435,3351.5954208707303,2112.60396613662
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2069.8048345089996,2674.69120895148,1648.15062381045
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2228.46121383836,2804.82378392573,1752.8729877724697
+1,All Population,6,Incidence,53549,Zambales,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2128.23724484359,2668.7153672455,1673.04375617465
+1,All Population,6,Incidence,53535,Benguet,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,1939.3859152496698,2467.8765640277898,1517.66082382887
+1,All Population,6,Incidence,53554,Aurora,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2288.18388652129,2852.19201969928,1814.89785562126
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2107.14341563045,2630.08603489385,1661.28340773469
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2229.88834593504,2799.75501441822,1756.37277712015
+1,All Population,6,Incidence,53603,Sarangani,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,1963.74528404724,2441.95149329398,1538.29338849723
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1911.09653897366,2458.26165370751,1490.50158803053
+1,All Population,6,Incidence,16,Philippines,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2136.04543600446,2674.9448167289,1709.56853370903
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2502.5959431587303,3133.2599449157997,1997.1856439766698
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2400.4383210619,3046.4498464385597,1892.0246692758599
+1,All Population,6,Incidence,53538,Kalinga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2381.4311802276,2989.14964462591,1887.46809732918
+1,All Population,6,Incidence,53610,Basilan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,1672.70778369191,2161.63571642205,1282.27182987631
+1,All Population,6,Incidence,53578,Cebu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,1813.76967459441,2318.3868139875203,1426.6559563316
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2092.99248567274,2539.58197380422,1676.55581636501
+1,All Population,6,Incidence,53611,Sulu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2566.34669831747,3350.07414372057,1982.33313231763
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2792.1435746683,3516.15531703324,2211.84997548066
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2712.19276959309,3414.33996609035,2126.07781217182
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2198.7075392915,2831.66578129402,1693.93319064823
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2349.59294649603,2935.55982972959,1878.0059882302198
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2854.38327864767,3646.42824430818,2233.04355214725
+1,All Population,6,Incidence,53556,Cavite,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,1954.27843000072,2482.17334311415,1542.30361462991
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2106.5186743253603,2674.8285804996,1693.7394249154001
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2163.7631891186,2747.74224936363,1695.9078856207802
+1,All Population,6,Incidence,53546,Quirino,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2554.5621821512,3250.3664790816197,2005.30622086302
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2177.40110825487,2760.55041832456,1720.93897697359
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,1880.9556122434599,2404.31888306092,1508.07371612202
+1,All Population,6,Incidence,53585,Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2348.20692457077,2955.99455001621,1856.67041658407
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2069.85273375349,2673.0946511237,1593.7277927009102
+1,All Population,6,Incidence,53548,Bataan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1862.40324153128,2380.82794846192,1469.52522592749
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2091.23511945364,2669.91976614556,1620.8303912778902
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2091.0437902814,2731.95592977509,1687.4399576874698
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1820.4789116949798,2372.3076772895897,1444.63358472051
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2002.9164362373501,2534.87876183881,1580.16386103714
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2034.6135354501398,2536.6532488149,1620.20737138865
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2186.29789684171,2720.14624478675,1732.3489877473098
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2270.89831144951,2825.79222268609,1777.25231892895
+1,All Population,6,Incidence,53539,La Union,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2056.31543246057,2573.76573734956,1640.23251198782
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2778.95647502766,3513.02465329395,2164.43179174263
+1,All Population,6,Incidence,53594,Camiguin,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,1948.3380313946402,2535.49080280863,1491.3169278714
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2224.19740503692,2797.42848794665,1774.4178676263
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2051.10241163084,2640.14093302304,1617.72456942186
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2103.74293584446,2722.03913122498,1691.8557868196099
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1972.24327326515,2412.36176091413,1566.6586284496
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2126.56158340152,2714.53766768186,1653.58053613486
+1,All Population,6,Incidence,53568,Albay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2053.10095120169,2625.65548052006,1648.25613376851
+1,All Population,6,Incidence,53569,Masbate,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2481.2632162518,3099.75550237848,1975.70848306193
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2804.0548391719,3422.0533031232703,2229.6449635688
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2530.43031375496,3197.3000648028,2037.8362369651602
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2033.85299071689,2557.70903661477,1624.0689917866
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2538.03114591838,3158.43649424006,2048.61888813119
+1,All Population,6,Incidence,53554,Aurora,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2198.28377740225,2747.05930169611,1716.61160598671
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2287.43508258858,2927.68529811952,1768.41518995006
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2285.40251607233,2893.9924631892,1817.75692405109
+1,All Population,6,Incidence,16,Philippines,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2051.4460584621597,2570.65324995823,1642.92229161531
+1,All Population,6,Incidence,53551,Pampanga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,1796.6000136027099,2291.35794590564,1400.99451725966
+1,All Population,6,Incidence,53579,Bohol,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2386.68520659671,3026.30166342002,1868.55138219328
+1,All Population,6,Incidence,53552,Bulacan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,1890.61883851229,2432.5231468782504,1502.13039494544
+1,All Population,6,Incidence,53556,Cavite,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,1876.6733309810502,2359.80041543793,1483.7569917582
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2218.05645435308,2907.40352757329,1771.1166025704401
+1,All Population,6,Incidence,53571,Capiz,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2765.57366806416,3341.4266606483297,2247.48957102866
+1,All Population,6,Incidence,53544,Cagayan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2459.7428827029403,3052.84501141202,1956.47780330049
+1,All Population,6,Incidence,53564,Marinduque,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2066.195768905,2598.0040191688004,1652.9839329882698
+1,All Population,6,Incidence,53549,Zambales,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2165.04696417535,2706.69813446733,1727.8242799973802
+1,All Population,6,Incidence,16,Philippines,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1921.1174823336798,2410.1672267114,1539.36455687088
+1,All Population,6,Incidence,53545,Isabela,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2211.84191900116,2760.43884722549,1779.3293792386598
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2207.4918611082,2734.13638976793,1743.7920432301498
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2094.48929776314,2661.9566991565002,1648.9066129562202
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1731.48790274189,2238.10692325686,1358.03427620055
+1,All Population,6,Incidence,53562,Romblon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2035.05470639938,2559.95835147838,1608.23773969277
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2128.09925988297,2584.92118806577,1680.3683892785502
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2357.46717755504,3018.99738876569,1869.75543311729
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2278.85834207472,2864.08183526298,1815.07478174932
+1,All Population,6,Incidence,53603,Sarangani,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1919.2576765424,2423.56232959506,1504.46510103439
+1,All Population,6,Incidence,53568,Albay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2152.3585413364,2738.7430055671803,1736.23492898869
+1,All Population,6,Incidence,53556,Cavite,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1791.46884087403,2271.8986532275403,1416.18430958436
+1,All Population,6,Incidence,53610,Basilan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1592.6052860695697,2051.30040219713,1212.42248597155
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2209.7864889881703,2796.7530098655097,1769.2846977832899
+1,All Population,6,Incidence,53555,Rizal,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2110.90087869494,2683.66096885024,1668.3669527001803
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2018.5254372304303,2536.04128466407,1585.29087397329
+1,All Population,6,Incidence,53575,Iloilo,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2163.85786378305,2638.91222410315,1725.0048886260702
+1,All Population,6,Incidence,53546,Quirino,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2453.9234332995397,3122.3700060987103,1907.04107975228
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2187.77926964683,2795.46292692731,1719.1894267525502
+1,All Population,6,Incidence,53580,Siquijor,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2391.5981756078004,2995.65084168147,1941.9867499917102
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2515.97777065335,3219.4693600105697,1983.75351223826
+1,All Population,6,Incidence,53578,Cebu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1719.42630745138,2192.2102406702,1348.1985971715699
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2289.57075203585,2896.18837988001,1831.9517194511002
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2130.95416030046,2675.77349112578,1694.86558169364
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1963.92056210123,2478.9685403354097,1524.97280636284
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1952.0188696436499,2452.73739151665,1536.26288240083
+1,All Population,6,Incidence,53555,Rizal,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2042.8523237053403,2625.07750387738,1602.9570736298099
+1,All Population,6,Incidence,53539,La Union,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1900.6797630453602,2386.83390865676,1521.17123584864
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2396.4628946503303,3014.46873638842,1916.85049080703
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2120.99547056291,2699.67622983028,1662.67320167497
+1,All Population,6,Incidence,53572,Aklan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2334.50806639179,2866.21626542175,1869.27486174056
+1,All Population,6,Incidence,53586,Biliran,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2251.86763996477,2805.5359030988498,1791.06584195921
+1,All Population,6,Incidence,53585,Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2243.51760289654,2789.4769517203404,1769.7098627922398
+1,All Population,6,Incidence,53557,Laguna,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,1892.57405075216,2486.3897422852397,1457.9594592306598
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1909.59271510199,2448.11221712899,1506.84875464443
+1,All Population,6,Incidence,53573,Antique,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2576.50779626049,3135.4864776221098,2023.93392371311
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2081.76309163961,2635.54730275796,1626.02378990961
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,1957.6324715674598,2472.97397340605,1527.79545486987
+1,All Population,6,Incidence,53534,Ifugao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2183.47111525725,2771.64199962763,1711.50166517363
+1,All Population,6,Incidence,53575,Iloilo,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2283.05853142759,2793.75462935144,1818.30877670577
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2639.3656209281203,3256.44379935616,2099.50017340729
+1,All Population,6,Incidence,53536,Abra,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2452.55842103237,3056.46337712725,1939.9263401689002
+1,All Population,6,Incidence,53550,Tarlac,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1913.8902474319802,2414.73727031471,1506.11706935771
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2017.37612845313,2448.84157443564,1619.03818643222
+1,All Population,6,Incidence,53610,Basilan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1660.7537806068099,2150.54713289427,1255.98370143117
+1,All Population,6,Incidence,53568,Albay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1960.53260389718,2508.2491254072,1568.6869736456902
+1,All Population,6,Incidence,53603,Sarangani,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,1943.8961871202298,2441.46613120364,1520.55512322264
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,1809.74057413932,2329.8336444144597,1442.5524319158399
+1,All Population,6,Incidence,53534,Ifugao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2086.41508256096,2653.20064245921,1631.6854724923098
+1,All Population,6,Incidence,53554,Aurora,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2099.29975472745,2643.27898041383,1645.83410204462
+1,All Population,6,Incidence,53547,Batanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2746.92892360162,3471.18320319797,2132.43561073316
+1,All Population,6,Incidence,53557,Laguna,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1806.6970897957099,2374.23813631902,1378.26574557928
+1,All Population,6,Incidence,53535,Benguet,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1711.43864745365,2183.52574876632,1326.07441928438
+1,All Population,6,Incidence,53580,Siquijor,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2475.9166111619697,3086.7023328333,2015.41687717475
+1,All Population,6,Incidence,53536,Abra,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2572.72390773285,3172.9411112317002,2045.30650052474
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2461.30415224944,3037.53884532252,1973.5298477908302
+1,All Population,6,Incidence,53564,Marinduque,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1995.27314977168,2501.33844640688,1595.90997188448
+1,All Population,6,Incidence,53549,Zambales,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2024.75752613188,2561.58592206941,1615.73429243335
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2507.75700029283,3101.60799806451,1982.26782227543
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1950.8790086303002,2491.4230514004503,1554.03813007391
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2343.10080450982,2914.31080420433,1865.56881924195
+1,All Population,6,Incidence,53558,Batangas,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,1805.3560264104801,2373.19007658807,1439.8120454101
+1,All Population,6,Incidence,53594,Camiguin,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2001.3500482068298,2578.04646512565,1547.9085000411799
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2119.40326590314,2681.61253417769,1639.55710061167
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1690.45079269897,2189.04754154663,1352.4477051669899
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1818.0499884085498,2217.6135940244,1455.9598770513899
+1,All Population,6,Incidence,53571,Capiz,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2802.40107337946,3415.38442705043,2250.47785369638
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1835.34610812822,2339.7260588291497,1432.03495211064
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1833.94877958807,2367.65560704219,1423.67777804203
+1,All Population,6,Incidence,53556,Cavite,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1672.67708682886,2124.3636852762,1323.2079699839198
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1986.6061904140702,2618.50921875245,1595.04942836275
+1,All Population,6,Incidence,53569,Masbate,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2539.3951946380203,3186.6880801389198,2029.55799943165
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2667.28285459388,3390.411613985,2074.2831634863496
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2323.67702801636,2966.82480078376,1836.5954921285802
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2404.18496193701,3062.7053344216197,1927.6085368731099
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2115.79841201843,2644.63264787765,1670.7234360497698
+1,All Population,6,Incidence,53563,Palawan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2183.25906039965,2822.7772067698097,1755.68349456769
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2637.81663166748,3315.26986625073,2103.32043388252
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2004.82559092932,2593.0034193827,1637.3778583474298
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2013,2473.07654806043,3081.39932957886,1981.3105175825601
+1,All Population,6,Incidence,53547,Batanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2675.17417087886,3367.28962081369,2086.60000217246
+1,All Population,6,Incidence,53579,Bohol,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2188.4242525938803,2762.5405832783,1718.82177018828
+1,All Population,6,Incidence,53611,Sulu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2376.7688035222,3098.23751514114,1828.0605612866998
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1742.1503538216198,2185.10565249931,1378.67708083367
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2166.27549696182,2626.87439407773,1722.48128562322
+1,All Population,6,Incidence,53550,Tarlac,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2007.21239243699,2564.15426740648,1581.00785738589
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1983.93799343084,2552.64216621592,1513.98537132777
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2123.84745540212,2826.30823848701,1700.3948873514503
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2027.20679634639,2580.01734347724,1566.4322886425
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2010.55321261678,2488.6346809893203,1600.4425995065799
+1,All Population,6,Incidence,53548,Bataan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,1931.1496858718,2456.1361192863897,1543.68172813818
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2275.29946057059,2897.75167626629,1825.29496352863
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1819.80371784507,2284.60017856265,1433.45034291355
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1978.3800096161801,2591.92388135073,1513.38100557871
+1,All Population,6,Incidence,53585,Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2082.2074681509503,2573.13574713189,1653.6147501436
+1,All Population,6,Incidence,53551,Pampanga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1671.7015678834,2165.8278107347,1290.05977448942
+1,All Population,6,Incidence,53537,Apayao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2488.31043010267,3177.20106678061,1939.86629831585
+1,All Population,6,Incidence,53559,Quezon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,1638.3093501128901,2078.8663959827,1323.7115114186
+1,All Population,6,Incidence,53558,Batangas,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1733.4347199437002,2283.84623432524,1364.32670353196
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1765.03568118081,2239.41440593891,1406.73748161208
+1,All Population,6,Incidence,53586,Biliran,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2173.76561071065,2708.5514736363702,1736.4226634269698
+1,All Population,6,Incidence,53554,Aurora,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1935.0089713805698,2441.39673281159,1522.52660170741
+1,All Population,6,Incidence,53578,Cebu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1582.44802693625,2036.2248345872601,1237.59642730309
+1,All Population,6,Incidence,53555,Rizal,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1965.586272214,2541.4408275453297,1540.76968370412
+1,All Population,6,Incidence,53611,Sulu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2505.12680953974,3284.12548843732,1916.3042688097198
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2192.10797576521,2745.61160837315,1737.1782031358598
+1,All Population,6,Incidence,53536,Abra,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2282.9663005605,2853.2532645143797,1825.6890782822202
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2375.85517962254,2924.8158383108703,1903.38071654323
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2693.7684719936,3313.88195658803,2149.80041265504
+1,All Population,6,Incidence,53546,Quirino,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2293.46702615613,2909.72270082863,1823.09381849779
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2116.34946466054,2617.59430392016,1689.03113985279
+1,All Population,6,Incidence,53569,Masbate,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2412.70137015575,2995.07230421665,1909.53501624729
+1,All Population,6,Incidence,53568,Albay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1861.07703945506,2349.4078177054403,1510.5660709910098
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2521.62754885574,3168.63389017088,2014.70308053363
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1965.12772872449,2517.83622466994,1552.1854915368601
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2573.3542638122603,3166.07426700301,2061.57583532247
+1,All Population,6,Incidence,53576,Guimaras,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2027.3551754658101,2526.6309454685497,1635.86839759894
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1954.86195076383,2424.53052186284,1538.70088012704
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2257.09351912798,2961.89781862599,1750.19258947327
+1,All Population,6,Incidence,53572,Aklan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2234.76503137559,2779.7248705121,1784.39168607064
+1,All Population,6,Incidence,53580,Siquijor,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2304.95067799549,2897.86226772135,1871.22329831861
+1,All Population,6,Incidence,53557,Laguna,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1684.48177112871,2182.8960246390498,1294.92510471464
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1831.89202835175,2343.51634441965,1408.31192557087
+1,All Population,6,Incidence,53564,Marinduque,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1880.90707485895,2355.6601730215702,1498.47423928645
+1,All Population,6,Incidence,53550,Tarlac,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1775.9396870916598,2229.3295373842498,1402.05173358297
+1,All Population,6,Incidence,16,Philippines,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1552.5336465972798,1952.09248572717,1259.5989314712199
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2330.71669484711,2954.47561043292,1847.6680731353601
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2638.82524615509,3310.6172761589896,2056.91831962742
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1956.5754733333902,2514.23186436553,1561.11903334842
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2216.15979733809,2782.0007208032403,1769.46144821321
+1,All Population,6,Incidence,53537,Apayao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2583.88033283125,3290.4695352735102,2024.63414387415
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2108.05530829226,2629.79642745749,1700.71930555284
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1900.3885374587699,2353.95204506983,1485.65024696287
+1,All Population,6,Incidence,53594,Camiguin,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1887.39835178848,2468.83094506491,1430.06730318194
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1817.2838960149497,2310.41207235624,1455.81565299891
+1,All Population,6,Incidence,53551,Pampanga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,1736.9410567968703,2226.39812921855,1345.86935796074
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1967.30962104491,2464.5365437489,1557.61628013801
+1,All Population,6,Incidence,53576,Guimaras,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2105.34981209112,2609.74264660189,1700.00862452267
+1,All Population,6,Incidence,53562,Romblon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2147.66063732954,2662.97450900138,1718.1207884219198
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1885.60511612923,2423.38353128678,1453.04449458516
+1,All Population,6,Incidence,53544,Cagayan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2231.02939546325,2774.60324162155,1795.31458004064
+1,All Population,6,Incidence,53538,Kalinga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2277.01920946582,2857.0594507946903,1802.21653230054
+1,All Population,6,Incidence,16,Philippines,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1740.0492689596301,2187.02268921124,1401.3867645489
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2138.24990515665,2693.06228217912,1719.8912931819198
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1568.18320992196,1966.3131174772302,1249.8698870147
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2310.3034586117897,3007.04867285919,1824.18292524117
+1,All Population,6,Incidence,53573,Antique,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1860.94415351118,2258.75279752831,1509.36605549486
+1,All Population,6,Incidence,53539,La Union,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1692.2240826181298,2128.63306350627,1357.03359926348
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1941.60958706895,2448.9519869946,1532.43351811374
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2001.66843936525,2602.21748461376,1535.34061344942
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1519.13718697233,1958.28442877552,1218.06047142121
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2461.1493632584,3078.77835147142,1964.25893793097
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1445.76890496079,1743.84025820659,1176.50297720429
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2214.3560650673003,2822.7381456763596,1714.60779467969
+1,All Population,6,Incidence,53544,Cagayan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2371.5219605716197,2953.17118651006,1892.1628366333002
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2026.80637809437,2682.39018394546,1584.36805483915
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1609.8467231447698,2023.6011239446902,1323.15721461078
+1,All Population,6,Incidence,53555,Rizal,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1851.06723052075,2383.2265700077596,1464.73949297325
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,2159.5186788291703,2659.88399895047,1733.2115034884798
+1,All Population,6,Incidence,53538,Kalinga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2174.86666870419,2745.4344652159402,1722.9114477685498
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1790.31452133776,2265.03046054453,1455.35209271026
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1886.1557945459601,2337.67370928184,1522.69980603879
+1,All Population,6,Incidence,53559,Quezon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1575.66059503898,1995.9161683838,1265.92885039303
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1633.9088034896101,2045.51104715993,1299.40376391725
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1440.56909351486,1794.9559517806201,1153.8532185342501
+1,All Population,6,Incidence,53556,Cavite,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1517.7805746379802,1907.85909020969,1207.82058993921
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2179.94394409583,2790.65890041323,1730.45475203183
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2053.32784542362,2549.17650984413,1657.31582221125
+1,All Population,6,Incidence,53569,Masbate,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2285.99469302763,2790.40932170596,1827.44232174251
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2409.7773286586103,2983.74746169008,1899.0773154350798
+1,All Population,6,Incidence,53579,Bohol,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2039.4379056876103,2536.98025145794,1594.36071075682
+1,All Population,6,Incidence,53563,Palawan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1801.73075268069,2320.4054210179897,1453.9101110336599
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2087.7631898396103,2597.33147850135,1662.23095304355
+1,All Population,6,Incidence,53552,Bulacan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,1750.2121850302199,2229.05738134891,1378.9199234593
+1,All Population,6,Incidence,53552,Bulacan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,1825.0341716636701,2333.9423113133503,1438.04933801369
+1,All Population,6,Incidence,53535,Benguet,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1519.5061335185999,1952.0858512452398,1175.70588075861
+1,All Population,6,Incidence,53578,Cebu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1223.86016929071,1574.32201123574,970.01066906914
+1,All Population,6,Incidence,53585,Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1866.52890981497,2279.91694181384,1492.67213715248
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1434.85552376698,1791.48078046725,1121.13438059353
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1491.06442764822,1925.06277807548,1157.25665744663
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1208.1029693743899,1524.80689056521,975.11531802328
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1549.09473908851,1970.8291658939,1237.83321871732
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1636.10966067386,2077.8172017043,1274.3463334216399
+1,All Population,6,Incidence,53556,Cavite,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1360.91379613101,1694.7552548224598,1090.46094382193
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1658.13237823744,2138.71158952415,1299.23502198492
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1930.8204248657,2395.36251167205,1544.12461154333
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1629.7459575064202,1979.09725140384,1306.7095412071499
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1823.13778121871,2327.51140826644,1502.6162140480499
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2117.26193651408,2729.50875609435,1618.3897132030102
+1,All Population,6,Incidence,53538,Kalinga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1872.3270839891702,2300.94343656341,1496.86154025074
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1593.84233166571,1976.3649682943098,1313.41169347496
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2027.9474336276498,2520.3789308785,1634.80556206629
+1,All Population,6,Incidence,53552,Bulacan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1491.94732336241,1880.2623062439397,1181.72448125915
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1817.93000760051,2229.6882936411002,1493.35991480227
+1,All Population,6,Incidence,53573,Antique,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2443.7985657722897,2985.12333979083,1921.7705041196398
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1760.90218940971,2212.87293918985,1405.7977266117
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1850.6350947009398,2384.6812849522703,1446.68007056906
+1,All Population,6,Incidence,53603,Sarangani,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1743.4102582441901,2208.79270323036,1376.8298896410402
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1956.52583540456,2414.81995299042,1581.46675237587
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1746.01678339927,2170.82630343344,1414.19359915916
+1,All Population,6,Incidence,53555,Rizal,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1410.42006726469,1799.92812873251,1140.51165585732
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1211.63401753989,1525.1379388605299,984.70587483713
+1,All Population,6,Incidence,53534,Ifugao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1936.10768857394,2454.35587640242,1519.8818321210301
+1,All Population,6,Incidence,53578,Cebu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1403.8835581092999,1826.38863650324,1101.73448799863
+1,All Population,6,Incidence,53537,Apayao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2310.60044648925,2946.46432625579,1815.6780225376801
+1,All Population,6,Incidence,53594,Camiguin,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1788.8171201212701,2302.30637223474,1366.08857896796
+1,All Population,6,Incidence,16,Philippines,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1340.22014339979,1685.6728185586499,1092.97415723713
+1,All Population,6,Incidence,53571,Capiz,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2725.54858192945,3280.2741335512696,2201.9983521037902
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1366.34149321054,1727.0320596202303,1099.6438187107099
+1,All Population,6,Incidence,53556,Cavite,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1238.70602086496,1544.9429493965101,990.5904517803699
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2045.56909094646,2584.06583585132,1586.64154766953
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2137.33365382341,2743.06240736819,1644.5543906372598
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2234.82081036813,2759.65014213543,1792.06635351172
+1,All Population,6,Incidence,53551,Pampanga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1569.3405788278098,2017.26484302103,1212.3255567199399
+1,All Population,6,Incidence,53569,Masbate,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1725.25030053575,2112.42546206614,1395.79202619391
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1781.0292696187498,2179.62825976332,1413.7618800817602
+1,All Population,6,Incidence,53547,Batanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2554.66779125856,3231.86835830249,2029.44691137145
+1,All Population,6,Incidence,53575,Iloilo,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2003.56928772009,2447.85220992132,1621.49972026876
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2014,2109.73692061904,2748.78429717394,1654.68423953192
+1,All Population,6,Incidence,53539,La Union,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1316.66030397318,1691.0321493238603,1040.95319387371
+1,All Population,6,Incidence,53546,Quirino,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2070.57560947601,2623.93897361792,1667.6973901390502
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1783.9670322728,2268.7447362666703,1435.01409606203
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2583.9291357400402,3222.82533225873,2052.69865856106
+1,All Population,6,Incidence,53564,Marinduque,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1541.7021924170301,1923.41904576168,1244.76361502789
+1,All Population,6,Incidence,53535,Benguet,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1170.50381585441,1483.34255940538,907.0300851181
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1621.68417668241,2092.71836694162,1274.31765154852
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1809.78443708167,2297.32496160776,1427.7647126559
+1,All Population,6,Incidence,53579,Bohol,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1618.4129728471798,2032.2507514960698,1295.05836334261
+1,All Population,6,Incidence,53549,Zambales,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1484.65526075167,1834.46230096171,1201.05665585983
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1754.10794472933,2201.2774294062,1394.45513386213
+1,All Population,6,Incidence,53558,Batangas,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1617.70465339587,2124.41160901343,1284.63933595618
+1,All Population,6,Incidence,53586,Biliran,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2054.88217052905,2548.6416143631,1654.80792767611
+1,All Population,6,Incidence,53547,Batanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,2190.28868199612,2763.85470659276,1777.5101735631501
+1,All Population,6,Incidence,53603,Sarangani,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1855.82374519142,2346.22836781268,1469.10521065745
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2790.91789432588,3603.68836014826,2168.600958362
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1684.31524082101,2103.31456098415,1357.18244151233
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1346.1874991111,1715.0112619007898,1085.52096149877
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,2012.9644731724302,2475.1310057116402,1640.27164382709
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2151.41807279596,2621.38850456653,1756.47369822497
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1730.4396747497,2120.67069481408,1386.00897710763
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1433.7350933560201,1807.82203585391,1126.00030899606
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1356.57260603409,1654.28715765874,1113.01279134888
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,2159.1181332453602,2684.9525316100803,1735.6153730826302
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1603.3919734469898,2011.6163435921299,1288.127610293
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1542.02418440548,1940.29756979332,1241.35435464856
+1,All Population,6,Incidence,53537,Apayao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1460.40970987337,1858.52532474629,1165.30731131413
+1,All Population,6,Incidence,53550,Tarlac,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1185.0484232645001,1496.27182348734,955.6511573152701
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1409.46771063971,1766.4749325394203,1162.4011462048002
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1617.7651595379198,2009.40047792243,1332.77746416995
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1602.68768864285,1980.9182397364698,1284.1783749634
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1224.3361075998298,1525.35644677572,988.1761467481201
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1263.55723527955,1583.11168440687,1017.91131024861
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1141.36091907026,1443.31397743335,933.2090651079
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1211.72735239848,1499.88239623089,947.66063964317
+1,All Population,6,Incidence,16,Philippines,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1404.3359521131101,1765.41338173726,1146.31703739536
+1,All Population,6,Incidence,53585,Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1407.21513840987,1700.06079183865,1138.36428631029
+1,All Population,6,Incidence,53556,Cavite,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1186.4766540287499,1501.49372825703,950.96117273245
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2088.63464057597,2651.67700329623,1688.18729729168
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1154.9789333184,1443.70234112022,935.67217897172
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1901.46703553636,2361.8681746694797,1513.3189954779
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1596.76758729579,1993.1598162567802,1309.4810131322902
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1287.76633729522,1603.5409688887,1035.5238969984
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1907.9388083718,2362.64287741643,1560.30102576478
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1477.76059777464,1890.9667603601602,1164.2857338429
+1,All Population,6,Incidence,53575,Iloilo,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1797.38867212226,2192.07560672616,1449.46607341709
+1,All Population,6,Incidence,53568,Albay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1640.43351784713,2034.59217637818,1327.59805586835
+1,All Population,6,Incidence,53545,Isabela,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1984.4058467059701,2514.98659260677,1609.6060065106801
+1,All Population,6,Incidence,53563,Palawan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1641.89262909939,2098.4153847634702,1337.6392714526
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2036.9402806070198,2532.8224139507997,1614.64323517367
+1,All Population,6,Incidence,53535,Benguet,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1106.55498398062,1402.4949894843999,856.41510428251
+1,All Population,6,Incidence,53535,Benguet,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1323.54060603365,1696.32213075493,1027.33321132147
+1,All Population,6,Incidence,53549,Zambales,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1648.0001080572001,2044.9989426156299,1338.24121006114
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2148.2695562589497,2666.5315451276197,1726.1322994414597
+1,All Population,6,Incidence,53539,La Union,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1480.81605282648,1880.68907011276,1178.4111387437501
+1,All Population,6,Incidence,53610,Basilan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1285.68128168068,1622.96924459227,993.16653760321
+1,All Population,6,Incidence,53554,Aurora,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1691.8598493632999,2143.27628926237,1339.86564036627
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2197.43494383782,2736.7098726247,1759.57438720637
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1850.1340902538,2294.51381324137,1471.65053214139
+1,All Population,6,Incidence,53610,Basilan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1451.0924279052101,1850.5582244789002,1114.74035900991
+1,All Population,6,Incidence,53539,La Union,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1248.56769474703,1607.5176723077698,983.5212983917299
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1809.4915532467198,2266.16912592068,1468.8487409415102
+1,All Population,6,Incidence,53594,Camiguin,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1505.24913744469,1908.0014439813099,1167.69535978801
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1440.37762350768,1813.65366956669,1169.66842373088
+1,All Population,6,Incidence,53580,Siquijor,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1861.3770215987101,2310.09878057166,1525.07729303434
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1632.29295295618,2064.6509548947397,1315.1680691646
+1,All Population,6,Incidence,53586,Biliran,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1723.2204980201002,2127.01257590478,1406.5878250451801
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1351.29646595375,1672.93744755043,1068.42122348967
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1703.4279455914798,2126.99724222997,1366.39306192981
+1,All Population,6,Incidence,53572,Aklan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1510.09297771514,1856.46554817212,1236.3500345267
+1,All Population,6,Incidence,53557,Laguna,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1521.98269066455,1958.1909827972602,1188.9357049741
+1,All Population,6,Incidence,16,Philippines,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1644.92820774475,2064.59852608473,1333.0366147465402
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1803.58681212605,2346.79683831336,1467.36010063045
+1,All Population,6,Incidence,53556,Cavite,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1333.1912462435498,1653.78647873733,1058.3105237170498
+1,All Population,6,Incidence,53562,Romblon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1891.98299298878,2380.20591610114,1508.0217404482
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1649.1531726660899,2059.17456631168,1306.23657376093
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2395.99179139571,2948.27239290157,1933.4417590999801
+1,All Population,6,Incidence,53547,Batanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2377.46808141366,3011.50957763327,1903.68548647059
+1,All Population,6,Incidence,53534,Ifugao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1727.6223151353,2187.84383443368,1363.067341274
+1,All Population,6,Incidence,53548,Bataan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1751.6582469930202,2217.6405594223297,1388.72590937277
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2057.26502932464,2581.53418185489,1642.61448246322
+1,All Population,6,Incidence,53580,Siquijor,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2185.91618353945,2758.51497365741,1772.12950499667
+1,All Population,6,Incidence,53536,Abra,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2046.70852584883,2553.44722153741,1635.45445202845
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1330.15774646228,1675.78191298051,1090.4582795767801
+1,All Population,6,Incidence,53568,Albay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1748.99389199967,2201.04354388094,1421.05955028067
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1777.8984066089101,2187.56042246252,1419.35161427067
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1652.66327993698,2078.9775250134,1328.37332274999
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2345.3909676930202,2957.39173854187,1878.5166066871702
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1333.86111872112,1661.2595694026002,1074.84766976481
+1,All Population,6,Incidence,53548,Bataan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1428.14723109424,1827.97759289861,1137.99483133829
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1332.16951335217,1694.1285568582698,1053.15513339522
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1278.2466630462202,1570.99520552386,998.04834909948
+1,All Population,6,Incidence,53571,Capiz,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,2219.84891931938,2681.8787705242703,1844.7680968616298
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1386.75707082791,1756.20110100556,1108.38005078317
+1,All Population,6,Incidence,53576,Guimaras,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1901.2421105711899,2362.69511262132,1542.30244941037
+1,All Population,6,Incidence,53576,Guimaras,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1717.6748230455898,2138.28672283417,1395.19298827633
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1634.7478000109502,2031.5232487527,1307.46616017503
+1,All Population,6,Incidence,53564,Marinduque,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1335.74426427666,1679.5307397862998,1080.9431215843201
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1431.46400331559,1773.9494928266001,1177.87894300529
+1,All Population,6,Incidence,53554,Aurora,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1230.18674572428,1553.33168933443,987.60931086367
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1734.56517661692,2177.53452883753,1374.8856131203402
+1,All Population,6,Incidence,53563,Palawan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1998.6933174845199,2585.33796043898,1611.2420484454499
+1,All Population,6,Incidence,53578,Cebu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1083.38660929573,1388.57848288011,860.4025595186
+1,All Population,6,Incidence,53603,Sarangani,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1616.92783138906,2061.53673775686,1288.3794976
+1,All Population,6,Incidence,53575,Iloilo,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1590.49469621965,1938.06057046386,1293.7782090465698
+1,All Population,6,Incidence,53585,Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1647.3652031553402,1987.9228911701002,1325.251258067
+1,All Population,6,Incidence,53585,Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1477.35227806372,1787.8971083321499,1193.06744926792
+1,All Population,6,Incidence,53545,Isabela,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2015,2125.84683777512,2672.77372220354,1701.4024621307299
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1328.9800983605098,1682.30434611381,1070.05688498759
+1,All Population,6,Incidence,53586,Biliran,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1891.01354669809,2340.82338861162,1536.4158533305101
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1759.0951884652502,2195.38862311985,1425.5188670447399
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1949.25230213407,2433.75614467948,1581.91506279801
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1471.85764136778,1862.0243434352299,1201.1589584596
+1,All Population,6,Incidence,53559,Quezon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1251.49685628375,1567.56875824789,1022.24053837722
+1,All Population,6,Incidence,53534,Ifugao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1516.43040764642,1916.5230920065,1192.79527926213
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1866.83443911508,2305.32021958363,1510.28574812336
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1286.54544296859,1616.5510616814802,1044.6791883771
+1,All Population,6,Incidence,53610,Basilan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1147.17075679024,1437.97857662361,896.0331890479
+1,All Population,6,Incidence,53557,Laguna,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1356.4285214204301,1741.36314489968,1075.8420023342
+1,All Population,6,Incidence,53611,Sulu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1952.37640618449,2508.35127680158,1566.4871915390702
+1,All Population,6,Incidence,53571,Capiz,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2502.16587741244,3021.19811998195,2049.17499729229
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1473.89281104582,1818.1868237876602,1167.1756046626901
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2153.9373741918703,2809.72022271642,1674.4296451304
+1,All Population,6,Incidence,16,Philippines,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1493.2794635984899,1877.2208595541601,1214.47344810534
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1474.9658604425301,1900.22738726291,1167.30182740991
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1703.76975691648,2102.62907274741,1407.81609878099
+1,All Population,6,Incidence,53549,Zambales,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1846.6703343534,2341.6755058989697,1499.75127087305
+1,All Population,6,Incidence,53579,Bohol,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1833.1377222054398,2295.4896675747,1450.46504233778
+1,All Population,6,Incidence,53535,Benguet,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1155.74041699946,1488.04096191205,921.4736696293601
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1633.58261116766,2081.06677338198,1267.0407505925
+1,All Population,6,Incidence,53563,Palawan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1788.13171985831,2242.33802359818,1452.4009918458498
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1939.29588583646,2414.19500140015,1536.15981004524
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1683.5059253188501,2071.06974325058,1349.32135818821
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1306.73116114838,1553.96042238474,1072.96256143721
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1250.13967884612,1483.67171230953,1014.90863311454
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1415.87767988074,1764.08790498174,1142.41959366795
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1720.65056430399,2197.57530634352,1366.91695263
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1737.99839995543,2197.16267494914,1390.07272762728
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1987.36733271852,2571.75811844183,1556.353235435
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1522.7758360112,1933.94281121599,1216.69050207443
+1,All Population,6,Incidence,53552,Bulacan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1640.08033082673,2057.95234859545,1291.84723323002
+1,All Population,6,Incidence,53538,Kalinga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2043.29346116359,2545.49919696677,1626.7496001112302
+1,All Population,6,Incidence,53572,Aklan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2074.68318764543,2543.54334870351,1654.6824485495201
+1,All Population,6,Incidence,53557,Laguna,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1226.82070822362,1580.58165392794,986.44091144789
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1691.3356907933899,2190.59031353484,1298.39611528687
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2019.9420999721901,2601.95350721344,1568.73315711811
+1,All Population,6,Incidence,53549,Zambales,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1588.4943787955901,1985.0326605628702,1287.1129266477699
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1491.93250513744,1886.90865437151,1179.62788181376
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1508.07755159866,1931.0082197580898,1205.9895559705
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1916.4796810182302,2421.01379707677,1543.88731478084
+1,All Population,6,Incidence,53562,Romblon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1715.44971639151,2150.6638480227903,1363.3340222669399
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1899.39125062894,2462.64525018022,1505.61812723955
+1,All Population,6,Incidence,53539,La Union,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1537.49895241257,1889.36911512769,1219.03154693929
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1502.39299073476,1818.2116855384602,1225.8168665922199
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1898.74762657148,2297.56860498968,1570.9433924165
+1,All Population,6,Incidence,53576,Guimaras,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1524.83533542198,1899.9611198190598,1241.84688804086
+1,All Population,6,Incidence,53548,Bataan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1593.8592194632301,2030.50287776159,1268.30198000765
+1,All Population,6,Incidence,53550,Tarlac,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1249.39659743061,1574.96643779798,1009.2481680366999
+1,All Population,6,Incidence,53562,Romblon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1541.04588980512,1917.24876149115,1222.72936527514
+1,All Population,6,Incidence,53551,Pampanga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1091.69752698776,1367.25866597094,873.5370929980601
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1434.9447598086,1838.1482538812302,1168.17200264142
+1,All Population,6,Incidence,53536,Abra,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1609.58142242527,1990.11922500116,1270.97780065793
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1617.57706595595,2075.51473850882,1316.43382036413
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1919.4771879578802,2441.0817182599303,1488.2228543907
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1402.26235939199,1784.01404037163,1101.3852055342202
+1,All Population,6,Incidence,53585,Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1710.31102099203,2121.8793170174,1356.58220868284
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1804.49446715067,2294.31455559825,1435.21752003961
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1551.15774161593,1897.3561488677599,1263.8651994818401
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,2023.99525926129,2528.7749584121398,1621.8484934554199
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,2079.53285871634,2604.24121065444,1690.83002693083
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1672.58618998495,2149.3026169231402,1316.84372314812
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1720.9784818614098,2125.16542080311,1391.49075771105
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1288.85424702359,1643.78757286067,1056.27927771781
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1278.17225401993,1610.03400233124,1020.0789586266801
+1,All Population,6,Incidence,53564,Marinduque,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1400.9572319092201,1750.0048576404502,1139.10690002398
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1535.46958246582,1938.76782389996,1216.2420597016599
+1,All Population,6,Incidence,53546,Quirino,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1841.42784940363,2303.20827722698,1498.37633566758
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1502.35464602878,1881.90645700737,1208.18463233247
+1,All Population,6,Incidence,53559,Quezon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,1481.50749903068,1864.94803061154,1197.1901370915
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1577.4498874270598,1983.4192885875,1267.68241004874
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1403.53197432985,1756.1081569197001,1126.22065520051
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1672.01328721483,2131.66165026906,1321.1964567572502
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1977.10999350409,2523.1652050596304,1572.4265687414502
+1,All Population,6,Incidence,53610,Basilan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1086.03331105792,1349.21099457122,857.96683489099
+1,All Population,6,Incidence,53538,Kalinga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1508.0308491027802,1829.34036891465,1221.9314086219501
+1,All Population,6,Incidence,53550,Tarlac,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1399.00828585238,1765.5590475413499,1129.45955362051
+1,All Population,6,Incidence,53536,Abra,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1801.9444691694302,2241.88863872039,1449.0479108341701
+1,All Population,6,Incidence,53536,Abra,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1529.0463743775601,1891.3782742234898,1192.78297433079
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1855.64027735273,2282.45643044356,1482.78932086343
+1,All Population,6,Incidence,53578,Cebu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1109.02231694824,1421.6501595994998,895.53602836728
+1,All Population,6,Incidence,53557,Laguna,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1171.21607603117,1519.35820820564,940.20337997332
+1,All Population,6,Incidence,53586,Biliran,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1521.29841194738,1875.3220836505002,1259.6659817418802
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1546.74135175208,1925.53313550226,1244.8737919154598
+1,All Population,6,Incidence,53554,Aurora,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1434.9988080574,1816.14574039057,1144.74670004637
+1,All Population,6,Incidence,53554,Aurora,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1141.42668057058,1438.34253063885,918.3835878352401
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1264.3213208216,1617.54297465501,1010.0539191310501
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1409.40756416561,1765.95423902268,1144.69183125821
+1,All Population,6,Incidence,53568,Albay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1508.69577962113,1826.98114029252,1221.00752784931
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1609.3848598208099,1998.1228129552198,1305.64870690087
+1,All Population,6,Incidence,53539,La Union,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1393.18600426239,1730.6020810664202,1133.90804613612
+1,All Population,6,Incidence,53571,Capiz,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1976.5134393234102,2373.80644277483,1656.2794575542698
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1449.73404909795,1768.6848236867802,1197.97997093758
+1,All Population,6,Incidence,53546,Quirino,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1660.02897714848,2058.79763836639,1361.64951967728
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1538.25502775679,1940.09179534691,1230.67938778199
+1,All Population,6,Incidence,53564,Marinduque,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1613.3561531281302,1998.7422937404301,1313.9093006594
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1462.04704306918,1807.58166403906,1183.74005038388
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1367.89565967518,1720.6249506713698,1102.4037659545602
+1,All Population,6,Incidence,53573,Antique,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1866.4749789401899,2322.02513192444,1539.40238576402
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1466.12761227787,1856.11343667893,1187.22763411118
+1,All Population,6,Incidence,53571,Capiz,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1868.01022624457,2265.399518723,1558.64926152249
+1,All Population,6,Incidence,53557,Laguna,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1302.50868152382,1651.717384201,1047.0612550631702
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1331.12782722989,1643.50430122533,1057.94031435538
+1,All Population,6,Incidence,53569,Masbate,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1888.82817736041,2311.98131042761,1520.24028459793
+1,All Population,6,Incidence,53611,Sulu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2172.44500975332,2818.90994976764,1706.3518547169
+1,All Population,6,Incidence,53555,Rizal,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1696.2031538430601,2179.54903030171,1354.67135189669
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1893.23068542126,2400.85514057994,1527.11395855202
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1565.75969045075,1910.1503936308,1249.9643090457
+1,All Population,6,Incidence,53575,Iloilo,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1429.45166964855,1748.25375108994,1167.13423286979
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1483.66332335304,1811.47869569041,1221.44713801075
+1,All Population,6,Incidence,53534,Ifugao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1353.8906606809398,1721.7913931408,1068.65465174872
+1,All Population,6,Incidence,53547,Batanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,2042.68459122318,2585.7425448651,1658.01948960984
+1,All Population,6,Incidence,53564,Marinduque,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1716.04667030041,2144.70459380885,1376.7621778686698
+1,All Population,6,Incidence,53550,Tarlac,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1300.63907371425,1623.3951379022799,1059.49513816554
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1557.8599128508101,1986.3595442668102,1249.68168558425
+1,All Population,6,Incidence,53578,Cebu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1022.84801269424,1297.53433984477,817.8798843532601
+1,All Population,6,Incidence,53537,Apayao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2047.52662825552,2617.75819045935,1609.3193009591898
+1,All Population,6,Incidence,53579,Bohol,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1448.38042795191,1798.59926560464,1164.5395975717
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1218.14530335797,1566.7161465854801,964.74456601775
+1,All Population,6,Incidence,53562,Romblon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1405.3960064436899,1729.2302706373798,1119.6306019444498
+1,All Population,6,Incidence,53603,Sarangani,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1512.56966131082,1934.80415622788,1213.31444522256
+1,All Population,6,Incidence,53550,Tarlac,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1589.7725834250202,2006.3393968733699,1279.63778950003
+1,All Population,6,Incidence,53594,Camiguin,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1649.71730657557,2097.30288965739,1269.59549224555
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1575.3685621386599,1961.7370454442,1281.7740653307799
+1,All Population,6,Incidence,53572,Aklan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1615.1883438465,1969.64531349375,1298.0059214267098
+1,All Population,6,Incidence,53576,Guimaras,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1371.22012421585,1707.07980789071,1118.78874269774
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1212.1644634177799,1523.25904869078,976.6442154236399
+1,All Population,6,Incidence,53580,Siquijor,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2026.72507754246,2544.11957110513,1644.48261750524
+1,All Population,6,Incidence,53610,Basilan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1230.5385447579001,1550.9756985435301,954.62951383475
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1538.06255518408,1916.97618783844,1230.19688877661
+1,All Population,6,Incidence,53568,Albay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1554.11950304124,1898.1511389639097,1260.46752063317
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1175.92014390798,1475.8770987032601,955.47165017013
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1245.87493710578,1558.32574236288,1010.57114965445
+1,All Population,6,Incidence,53558,Batangas,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1457.58904377539,1892.81140023939,1162.86736028883
+1,All Population,6,Incidence,53544,Cagayan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1699.6863892049003,2101.05290155337,1375.70505158365
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1804.3882878576899,2271.15886650099,1447.85975561855
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1670.7608925536601,2118.19624486042,1343.85428225888
+1,All Population,6,Incidence,53548,Bataan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1295.7159151902301,1637.6083500338398,1032.19219718663
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1698.8615989837901,2065.85944058092,1400.6898767677699
+1,All Population,6,Incidence,53544,Cagayan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2042.6080921801902,2540.6462810492603,1649.13982326483
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1610.9473818321899,2018.36621694909,1300.5673060541
+1,All Population,6,Incidence,53536,Abra,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1667.90797095513,2082.14807319768,1358.56034490196
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1337.7310216179,1690.8068544156802,1068.50480970032
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1389.2049625018801,1733.26276215451,1107.84029167105
+1,All Population,6,Incidence,53552,Bulacan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1166.20134943282,1477.2458119801,930.8413152255
+1,All Population,6,Incidence,53558,Batangas,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1292.61015237644,1661.28816429192,1038.82319665602
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1363.50159636455,1702.65382656253,1112.7902773876601
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1333.1628472141101,1720.06241601207,1049.5495194111
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1653.8812883493001,2060.76195231196,1324.05402052626
+1,All Population,6,Incidence,53586,Biliran,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1721.2482026291502,2124.20778021024,1409.16053201801
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1738.68465145793,2214.61605587455,1371.9977157651201
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1529.34025935093,1959.9042326446302,1214.46918951621
+1,All Population,6,Incidence,53551,Pampanga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1144.84657075795,1441.66753938955,915.54745998323
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1722.6211731773901,2122.76768918638,1387.99821576803
+1,All Population,6,Incidence,53569,Masbate,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2093.57219921831,2552.10185196987,1671.07426954278
+1,All Population,6,Incidence,53573,Antique,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2016,2276.89992953554,2793.53274104034,1803.7179525215001
+1,All Population,6,Incidence,53586,Biliran,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1584.68306446275,1947.0906964992403,1310.44483691552
+1,All Population,6,Incidence,53572,Aklan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1848.9226000241,2263.69803161501,1478.13273360886
+1,All Population,6,Incidence,53558,Batangas,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1163.3137813200601,1477.51174626034,944.6802883867599
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1936.1350264597802,2382.37168713835,1576.01096595117
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1634.5072187648898,2065.02899068516,1315.98940141767
+1,All Population,6,Incidence,53537,Apayao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1553.3148302726001,1965.31337290857,1251.26775240192
+1,All Population,6,Incidence,53611,Sulu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1774.5045257989402,2218.08663148058,1437.77336630138
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1537.76370703571,1926.7767762771198,1191.46433566174
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1313.06286932167,1666.4370744166101,1060.43091041134
+1,All Population,6,Incidence,53579,Bohol,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1454.35200974285,1802.87420022248,1177.04861497304
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1553.49317706385,1912.68830732972,1243.8578825931502
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1350.90227753928,1693.20736232586,1104.45382064363
+1,All Population,6,Incidence,53549,Zambales,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1410.9201926872,1751.67711832719,1151.64730867766
+1,All Population,6,Incidence,53551,Pampanga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1267.9698163319301,1610.62396110368,1019.93400268787
+1,All Population,6,Incidence,53594,Camiguin,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1391.20100689565,1733.8964483577302,1096.0787187625
+1,All Population,6,Incidence,53537,Apayao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1771.94166833401,2255.16247367262,1402.2621714829602
+1,All Population,6,Incidence,53544,Cagayan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1850.87002199155,2294.52959028312,1496.58321071851
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1854.3714540466601,2342.6407693157703,1488.02403647132
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,2215.06545816401,2703.97231268753,1775.2342109735398
+1,All Population,6,Incidence,53554,Aurora,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1238.7425433870899,1577.06221195395,1000.1966198254701
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1417.4709136425301,1786.3092329673602,1115.0208800529501
+1,All Population,6,Incidence,53568,Albay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1524.10411954066,1865.9090995811,1227.48500627163
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1956.76110776408,2419.43608328849,1592.1024462967
+1,All Population,6,Incidence,53594,Camiguin,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1502.56397175517,1866.7870963207,1204.10628107419
+1,All Population,6,Incidence,53579,Bohol,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1376.40025807885,1715.4523561504002,1104.9993707548301
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1692.7368491570198,2079.41033381938,1370.93837806012
+1,All Population,6,Incidence,53586,Biliran,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1921.7273396211299,2413.47697801433,1551.41756046275
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1224.6025321507,1560.65732609649,1011.3744766607299
+1,All Population,6,Incidence,53551,Pampanga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1214.28454790613,1549.22345112634,965.82702921732
+1,All Population,6,Incidence,53556,Cavite,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1476.32813973998,1871.79365202405,1162.04625993466
+1,All Population,6,Incidence,53558,Batangas,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1109.2179038137401,1396.4497485845,894.8679516056801
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1331.91710052079,1721.91794821015,1059.51135091043
+1,All Population,6,Incidence,53571,Capiz,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,2158.86471662145,2663.11329218087,1753.3288117458499
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1430.40593222014,1803.26803024811,1167.77151961197
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1327.5723322294,1657.3882464217202,1052.0877806270998
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1388.69008903829,1706.56518873217,1144.49210561292
+1,All Population,6,Incidence,53546,Quirino,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1580.1496065107501,1936.5542756013099,1277.40607776604
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1610.83357221548,1965.66386299534,1313.62720173809
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,2085.51794785918,2639.99626505808,1658.7208229613698
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,2138.10814269509,2635.08644210026,1725.55983942237
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1979.4384323016102,2439.8208550216,1553.40881142091
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1294.01828790368,1629.05006679619,1032.0682839557198
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,2256.6537346016003,2860.52938586384,1778.0931703667902
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1401.23232365076,1742.94936593241,1143.8897804642602
+1,All Population,6,Incidence,53534,Ifugao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1290.18257997968,1647.4091514180102,1015.5363706214899
+1,All Population,6,Incidence,53544,Cagayan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1631.7826725594598,2009.8618023675199,1319.9413780734799
+1,All Population,6,Incidence,53594,Camiguin,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1342.69528039653,1657.32327983126,1075.7397820595102
+1,All Population,6,Incidence,53547,Batanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1983.1065399058798,2518.70543518531,1614.1157027202198
+1,All Population,6,Incidence,53572,Aklan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1431.22912286722,1744.0847578451699,1155.90686092333
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1584.6917867548102,1945.29769317874,1268.2145119751701
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1355.3739077046398,1738.7260323100897,1086.16928383207
+1,All Population,6,Incidence,53580,Siquijor,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1856.89025594941,2306.30620173812,1542.27947740992
+1,All Population,6,Incidence,53548,Bataan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1236.65586310522,1546.2330983347501,982.1521446979399
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1464.86514963132,1881.91465352893,1167.70479042165
+1,All Population,6,Incidence,53575,Iloilo,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1360.15584225392,1672.9743215642302,1115.23555449664
+1,All Population,6,Incidence,53555,Rizal,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1355.60445282518,1730.1083419154502,1094.44344286976
+1,All Population,6,Incidence,53555,Rizal,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1536.36516639054,1957.1867159909,1236.73047494798
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1266.4949730418,1571.9226192992999,1005.8827142607
+1,All Population,6,Incidence,53611,Sulu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1693.38435110374,2085.69618891138,1370.59824428488
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1283.3106253507901,1636.846407156,1028.0613670781502
+1,All Population,6,Incidence,53580,Siquijor,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1728.10093493128,2121.79615753803,1405.38975440658
+1,All Population,6,Incidence,53580,Siquijor,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1665.62295623858,2034.3543574443402,1349.87259970505
+1,All Population,6,Incidence,53563,Palawan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1569.1839870328301,1984.1371668793702,1289.42129528018
+1,All Population,6,Incidence,53551,Pampanga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1422.47705361943,1818.1616982025198,1120.93645141602
+1,All Population,6,Incidence,53537,Apayao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1606.1526818625798,2047.2345169880502,1311.36924461793
+1,All Population,6,Incidence,53552,Bulacan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1219.35232393825,1540.38223580162,975.2600749046801
+1,All Population,6,Incidence,53572,Aklan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1352.24385141374,1646.72514237669,1093.0269599436601
+1,All Population,6,Incidence,53558,Batangas,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1248.1056802741,1576.69687832264,1009.7226488237901
+1,All Population,6,Incidence,53559,Quezon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1356.51243085025,1699.4911812977398,1101.5763681911599
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1483.41347691449,1948.0205685364301,1178.57916910641
+1,All Population,6,Incidence,53545,Isabela,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1426.91721372232,1785.93333691369,1150.6875156825602
+1,All Population,6,Incidence,53576,Guimaras,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1305.10406333576,1623.8323863733601,1060.1470467611
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1494.86462264636,1830.8876574303802,1194.56392722683
+1,All Population,6,Incidence,53562,Romblon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1344.26052953204,1639.6517604376702,1062.1676609072501
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1840.2378752123,2371.13493511597,1430.49187303328
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1770.56065368749,2236.16175004742,1422.12521769698
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1899.2493967598798,2387.35750085665,1558.26482229459
+1,All Population,6,Incidence,53569,Masbate,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1656.58783743051,2043.18023021062,1352.07306682946
+1,All Population,6,Incidence,53545,Isabela,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,1788.29906960987,2258.47107737749,1449.8417537273
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1514.0659856013,1895.9273186832102,1243.86877819629
+1,All Population,6,Incidence,53585,Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1558.50856785633,1896.53045353054,1257.883765517
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1571.74167192593,1936.9146060334099,1266.0424108311001
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1408.50829143484,1778.28008191308,1123.38146936534
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1168.38051442379,1508.52629555498,933.3310625990999
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1431.24635813548,1733.68426510835,1183.7363334670401
+1,All Population,6,Incidence,53559,Quezon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1228.8847971355199,1529.04437547281,995.9852490257799
+1,All Population,6,Incidence,53571,Capiz,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,2010.17516438604,2388.47578256109,1659.10847330621
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1398.13113970384,1792.2983238438699,1110.32905114918
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1589.02606744265,1964.40024240232,1289.80068652562
+1,All Population,6,Incidence,53573,Antique,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2069.25566353402,2553.1557571006497,1654.76204418004
+1,All Population,6,Incidence,53538,Kalinga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1566.61153398093,1899.1976829687,1270.35660155116
+1,All Population,6,Incidence,53559,Quezon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1128.2771638336899,1403.5518231297801,917.0245545265301
+1,All Population,6,Incidence,53552,Bulacan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1312.8444845848999,1693.43143830837,1042.5859376631101
+1,All Population,6,Incidence,53552,Bulacan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1339.51896292947,1689.6499121903,1067.51791501801
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1498.6746379291499,1850.20366982308,1197.25493435374
+1,All Population,6,Incidence,53538,Kalinga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1700.96152131813,2075.07260069867,1365.10320203079
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1176.30402555335,1480.8960904722,959.2162253874
+1,All Population,6,Incidence,53603,Sarangani,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1466.1392408722202,1891.10939348233,1184.7239022147999
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2470.22118298358,3106.2121051929603,1929.54249276184
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1540.7611799763301,1896.0693211449002,1253.69893589228
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1836.0838251710602,2242.75961040625,1476.37087194816
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2017,2254.19835592786,2825.2381267791197,1795.10764175001
+1,All Population,6,Incidence,53538,Kalinga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1691.43138606658,2049.19260158938,1406.60064387697
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1720.33177245311,2114.78781071915,1352.0568991869
+1,All Population,6,Incidence,53573,Antique,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1698.71113564206,2060.9902489013903,1393.7117771350402
+1,All Population,6,Incidence,53572,Aklan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1670.6141212806301,2085.66921046795,1347.8330846520998
+1,All Population,6,Incidence,53559,Quezon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1083.97823662972,1328.78718241461,881.21369933433
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2019,1538.0752486137799,1967.68920979851,1220.51403010813
+1,All Population,6,Incidence,53611,Sulu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1877.52384693574,2344.4175553089,1509.11979568871
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1599.6037675961202,2029.1677024817202,1265.2277619030099
+1,All Population,6,Incidence,53557,Laguna,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1431.71525815791,1799.43311708382,1145.1361502478999
+1,All Population,6,Incidence,53545,Isabela,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2018,1586.2839319939599,1989.8038943139002,1279.52520880835
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1109.28177471817,1394.7404099752,905.08348681579
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1488.3949879951701,1859.87215831607,1207.74259287963
+1,All Population,6,Incidence,53545,Isabela,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1356.88429165456,1689.1185068711598,1090.20265100319
+1,All Population,6,Incidence,53573,Antique,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1628.8640658021,1988.0129894126098,1349.92096882714
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1768.01133976441,2232.50931428278,1429.8747785153
+1,All Population,6,Incidence,53544,Cagayan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1798.8694116497402,2210.25373252306,1459.13494418456
+1,All Population,6,Incidence,53555,Rizal,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1517.65329667615,1913.3303767636198,1228.7279837920598
+1,All Population,6,Incidence,53573,Antique,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,2106.42346900489,2703.6020748103297,1735.3817935297
+1,All Population,6,Incidence,53558,Batangas,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1386.30766494156,1717.6681446694001,1108.07522565719
+1,All Population,6,Incidence,53544,Cagayan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1965.94395443457,2425.1027934807003,1575.78838269812
+1,All Population,6,Incidence,53545,Isabela,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1538.7352633150801,1924.05687274087,1249.93789727769
+1,All Population,6,Incidence,53569,Masbate,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1907.84842605839,2305.30674578977,1553.76405711821
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1334.02694411076,1661.53491982037,1069.42385765654
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1479.60724910792,1891.8223989610801,1165.43211146358
+1,All Population,6,Incidence,53559,Quezon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1416.54137321038,1813.70726117229,1140.39474701304
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1215.33302944404,1531.15810866815,976.4021987681899
+1,All Population,6,Incidence,53545,Isabela,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1719.62621093198,2158.85341434656,1363.35555138481
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1727.41915843613,2121.3156659813203,1398.4988125570299
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,1751.94257420325,2149.4119309733496,1408.12446706482
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,2297.82428735649,2906.05723059876,1832.89410383679
+1,All Population,6,Incidence,53535,Benguet,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1205.18402157366,1498.53781786699,949.30220916248
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2020,2017.71017099252,2535.9588020258498,1610.76234391881
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1973.53615755573,2468.96184447903,1572.22039301364
+1,All Population,6,Incidence,53549,Zambales,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1763.60449287963,2241.67277042433,1422.4152892393101
+1,All Population,6,Incidence,53563,Palawan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,2005.80567277142,2505.88902030472,1610.4389432695002
+1,All Population,6,Incidence,53554,Aurora,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1336.78423561018,1723.5991708597,1069.0536980334
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1641.9606181802399,2022.8699513834301,1314.23057382206
+1,All Population,6,Incidence,53594,Camiguin,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1659.54682104414,2054.77063399147,1301.91023271724
+1,All Population,6,Incidence,53536,Abra,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1808.93983285851,2272.44586618457,1441.9741402612399
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1744.4392729989997,2168.54960590864,1410.08502922079
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1539.99557022469,1994.31300588304,1231.90443355765
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1756.5919182534199,2161.9268119271,1415.46946107461
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,2295.41656406857,2906.0349345162,1851.4093709290798
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,2125.84397781819,2674.1567748213397,1711.88731050996
+1,All Population,6,Incidence,53564,Marinduque,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1886.15791046833,2382.51835952183,1501.73427995835
+1,All Population,6,Incidence,53550,Tarlac,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1415.6431480363199,1834.0180941164401,1139.68668887081
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1461.54683219194,1866.0500870492,1150.3725577389
+1,All Population,6,Incidence,53537,Apayao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1757.09389096297,2255.6275035641697,1398.63407557536
+1,All Population,6,Incidence,53578,Cebu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1193.67447110331,1521.79023696023,957.7212665957
+1,All Population,6,Incidence,53555,Rizal,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1677.23373299308,2059.50562930969,1339.89207614861
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1825.30143101838,2300.79420598206,1488.3284230481302
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,2478.01705960207,3022.53837898511,1965.4137450249
+1,All Population,6,Incidence,53551,Pampanga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1334.1990072389099,1743.2477331570801,1039.97987281729
+1,All Population,6,Incidence,53579,Bohol,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1532.95454149171,1907.37736469517,1216.63470169299
+1,All Population,6,Incidence,53538,Kalinga,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1877.2440383798598,2318.02124790653,1518.34451825771
+1,All Population,6,Incidence,53568,Albay,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1539.83915471774,1926.68147479216,1229.0674372512901
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1904.2990014911,2371.74126117815,1538.53454237858
+1,All Population,6,Incidence,53580,Siquijor,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,2043.95888898395,2565.5595563038,1673.1620358634
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,2236.05937141899,2827.25340286165,1750.7477746045001
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1475.9560238640402,1813.1048627385098,1187.6657345472001
+1,All Population,6,Incidence,53610,Basilan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1371.91765049419,1755.20523770635,1063.30393583517
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1533.73121453907,1931.3809533009999,1198.25150655925
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1643.11719394897,2070.37494365463,1329.6416627413998
+1,All Population,6,Incidence,53569,Masbate,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,2164.06144924818,2655.96667147317,1724.95788983042
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1319.47393663454,1683.40312363169,1033.63594214641
+1,All Population,6,Incidence,53611,Sulu,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,2059.36742146996,2625.1293876998297,1612.45578564695
+1,All Population,6,Incidence,53552,Bulacan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1456.79681346647,1900.9797944805998,1133.89260937109
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1556.51165254229,1930.7915773614002,1268.55595774515
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,2579.97787829879,3258.33115229427,2027.5967079152701
+1,All Population,6,Incidence,53546,Quirino,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1808.5505732423599,2230.52284156888,1474.167052881
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1578.63353743482,1950.72946825975,1288.12309784851
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,2190.78806538853,2754.21831178709,1747.6914639705
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1819.6612692494298,2260.96928833856,1433.16695081175
+1,All Population,6,Incidence,53534,Ifugao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1427.21687130792,1819.2159016534301,1133.30307621883
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1419.5860899020101,1768.00078289554,1148.5775172236401
+1,All Population,6,Incidence,53547,Batanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,2105.82124488741,2629.06584014991,1693.0402698060902
+1,All Population,6,Incidence,53562,Romblon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1529.05694740445,1891.7425569465602,1206.03599568834
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1680.7561666538702,2059.89458931165,1374.6033852979701
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1438.82591657986,1836.0507048955799,1165.1796025933202
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1678.9061177695698,2094.16591148395,1380.1203141266801
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1322.55378593749,1695.93901334117,1051.5842562914
+1,All Population,6,Incidence,53575,Iloilo,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1526.91274583566,1895.80354726808,1225.5841917457801
+1,All Population,6,Incidence,53548,Bataan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1393.6784062866,1756.00014205404,1124.02313381514
+1,All Population,6,Incidence,53603,Sarangani,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1682.28883465631,2087.49107902176,1320.57018655361
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1299.93020295062,1625.14084100503,1052.9527346765399
+1,All Population,6,Incidence,53576,Guimaras,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1430.39139921573,1781.4197863539,1155.22897220718
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1738.49123731032,2136.04692884666,1413.35150480375
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1792.59016096492,2190.22060677843,1446.27150338057
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1501.7100107583499,1912.3477893608201,1204.10291936012
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2021,1655.78843551241,2136.5028344276097,1317.40518622285
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1728.5677347270898,2147.30497505129,1387.05322210852
+1,All Population,6,Incidence,53534,Ifugao,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1567.2091780599199,2015.2858280715,1222.72128609488
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1755.59511015731,2217.1914276062103,1426.9034416151899
+1,All Population,6,Incidence,53546,Quirino,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,2044.4903661926398,2578.75799928504,1662.6109078604597
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1930.85979411915,2428.70075970502,1559.92921268332
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1583.6495426803501,2035.97975770419,1281.19184049045
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1866.8419086070398,2321.04693000286,1520.87701437434
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1574.27050800544,2045.1998186550202,1248.2126030965599
+1,All Population,6,Incidence,53547,Batanes,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,2226.1409306885903,2827.8402519902797,1727.47680507498
+1,All Population,6,Incidence,53603,Sarangani,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1895.21364963572,2395.94716450118,1488.8045011043898
+1,All Population,6,Incidence,53575,Iloilo,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1692.7174644653198,2091.57691273397,1325.2355799347001
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1473.10058467627,1867.95386606705,1143.25624340928
+1,All Population,6,Incidence,53562,Romblon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1717.6923581959402,2140.9417647197,1349.24064578566
+1,All Population,6,Incidence,53548,Bataan,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1547.04096865385,1952.92990950767,1226.01929967267
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1866.94511529478,2317.4963397438,1484.8870139429
+1,All Population,6,Incidence,53576,Guimaras,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1553.89416341637,1966.9319645394999,1256.38574008885
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1425.16452480826,1761.9392771202301,1109.41363237887
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1676.02410744912,2125.04486516152,1342.6703126510001
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1846.0116733466502,2407.9313348106602,1442.06323674246
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,23,5-14 years,322,Lower respiratory infections,3,Rate,2022,1998.04006479308,2432.1282713791,1621.9508850791399

@@ -1,0 +1,831 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,1,Deaths,53542,Pangasinan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,85.73877185829473,97.03751459603282,75.39096582936538
+1,All Population,1,Deaths,53590,Misamis Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,99.3859106953351,115.00772018626326,86.57785888999777
+1,All Population,1,Deaths,53560,Occidental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,83.27549378949438,96.73675642419283,71.35144653147572
+1,All Population,1,Deaths,53607,Surigao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,94.0831982065738,108.05074709098552,82.52888193372743
+1,All Population,1,Deaths,53591,Bukidnon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,91.29121934941757,109.39896201184044,77.29093502550766
+1,All Population,1,Deaths,53557,Laguna,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,62.26640277974105,70.02195607325878,55.119566817838944
+1,All Population,1,Deaths,53574,Negros Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,132.44369231058798,145.73084933956827,116.81968268156454
+1,All Population,1,Deaths,53608,Dinagat Islands,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,84.94441492588743,102.59805226661203,70.58867363531711
+1,All Population,1,Deaths,53543,Nueva Vizcaya,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,72.994044921095,84.89207955101487,59.6561946284757
+1,All Population,1,Deaths,53577,Negros Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,96.22674941166626,115.07820485346582,81.48685243498632
+1,All Population,1,Deaths,53592,Lanao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,73.44738395677606,82.96686514472033,64.845345218365
+1,All Population,1,Deaths,53609,Tawi-Tawi,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,47.5097851539076,63.39317572196483,34.30268807044775
+1,All Population,1,Deaths,53561,Oriental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,77.38352471907007,88.02998413724,68.76044358662722
+1,All Population,1,Deaths,53544,Cagayan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,95.78405052289803,107.90215564841438,84.34021924251769
+1,All Population,1,Deaths,16,Philippines,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,84.81065865298613,92.15420648703355,77.66130119187787
+1,All Population,1,Deaths,53578,Cebu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,81.43809351291904,94.66877667529424,71.69653257319514
+1,All Population,1,Deaths,53610,Basilan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,44.4838146542157,55.77830346071681,35.35145600943687
+1,All Population,1,Deaths,53595,Davao Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,121.65043245055516,142.0976953913007,103.23608562632137
+1,All Population,1,Deaths,53533,Mountain Province,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,72.15461150857385,92.71119389144707,57.105971730010566
+1,All Population,1,Deaths,53545,Isabela,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,87.35254671194723,96.48335890992715,78.59966709361684
+1,All Population,1,Deaths,53579,Bohol,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,94.70173166586417,108.79153570485201,81.5191356383462
+1,All Population,1,Deaths,53592,Lanao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,72.43509708979465,81.00294012110682,62.87788226512928
+1,All Population,1,Deaths,53580,Siquijor,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,110.32070901589788,131.4457154718823,91.14883395961951
+1,All Population,1,Deaths,53546,Quirino,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,88.05344327621088,108.36722037108471,72.78427545654424
+1,All Population,1,Deaths,53596,Davao de Oro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,84.49036026074222,95.04771420502631,74.05476491894204
+1,All Population,1,Deaths,53581,Southern Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,128.8505389396527,145.14170937100516,111.62136959410617
+1,All Population,1,Deaths,53534,Ifugao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,60.06504205352443,71.66696714160653,49.40681236167879
+1,All Population,1,Deaths,53609,Tawi-Tawi,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,48.2163270572269,64.14044667349695,34.47142392126114
+1,All Population,1,Deaths,53547,Batanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,138.2917207554532,165.23540646870606,114.73311513446976
+1,All Population,1,Deaths,53562,Romblon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,107.51262886684323,122.90333634611909,91.54954391671023
+1,All Population,1,Deaths,53548,Bataan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,65.59624452063206,74.99262345348195,57.85983521653038
+1,All Population,1,Deaths,53542,Pangasinan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,86.0269623209116,97.28644065551765,75.41015147606686
+1,All Population,1,Deaths,53564,Marinduque,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,109.67421059193195,125.26159476254146,92.41940694906474
+1,All Population,1,Deaths,53613,Lanao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,34.854842083561564,42.380355013034965,27.80638330481934
+1,All Population,1,Deaths,53610,Basilan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,43.26163018225511,53.933272733728494,34.23227670253866
+1,All Population,1,Deaths,53597,Davao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,78.4778247982903,92.27837328556534,69.05997760083248
+1,All Population,1,Deaths,53551,Pampanga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,50.32486055476763,56.2490171823692,44.77903037722573
+1,All Population,1,Deaths,53562,Romblon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,107.58969371618568,124.13525324417942,90.62621916061224
+1,All Population,1,Deaths,53610,Basilan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,43.216253723038214,54.06097452669306,34.37354154471826
+1,All Population,1,Deaths,53560,Occidental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,82.21136008407166,95.79990310100283,69.57151289374951
+1,All Population,1,Deaths,53543,Nueva Vizcaya,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,73.6064186602056,86.95787307629722,61.31401790397015
+1,All Population,1,Deaths,53560,Occidental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,82.77038430093498,95.67553369983158,70.74046603527225
+1,All Population,1,Deaths,53543,Nueva Vizcaya,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,72.76819551445294,84.60097484410646,61.01434014157531
+1,All Population,1,Deaths,53563,Palawan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,77.01525911849903,88.42691765839444,65.5124505593282
+1,All Population,1,Deaths,53598,Davao Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,93.94157679081665,126.93624847595649,77.12027589252213
+1,All Population,1,Deaths,53540,Ilocos Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,108.2476652046205,123.66955304826935,90.78028382512079
+1,All Population,1,Deaths,53563,Palawan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,76.24533633986788,87.46278209365968,64.521823359665
+1,All Population,1,Deaths,53614,National Capital Region,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,90.3331795343816,101.23913671005124,80.34345201031212
+1,All Population,1,Deaths,53552,Bulacan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,59.01711317732129,64.86390261850713,53.955963113088366
+1,All Population,1,Deaths,53562,Romblon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,107.4353743482311,123.42751676671989,89.91281325813391
+1,All Population,1,Deaths,53544,Cagayan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,94.45972948544085,105.57440692474485,83.94467523710007
+1,All Population,1,Deaths,53577,Negros Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,95.22653842335222,112.03489838956169,82.21984711524605
+1,All Population,1,Deaths,53563,Palawan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,76.4864252796551,87.51460752995122,65.28687738193126
+1,All Population,1,Deaths,53561,Oriental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,78.91189417676912,89.04015980502308,69.69730489625499
+1,All Population,1,Deaths,53577,Negros Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,95.47589515255441,113.16283098622418,82.1427235794401
+1,All Population,1,Deaths,53595,Davao Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,124.64636694023052,144.48652123729926,104.26428471709964
+1,All Population,1,Deaths,53561,Oriental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,77.68820646039288,87.90170767648802,68.44543164827894
+1,All Population,1,Deaths,53565,Catanduanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,138.65134591138548,153.69655539193346,122.65733230252191
+1,All Population,1,Deaths,53582,Eastern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,140.06517139211095,166.71377776589998,113.45544958979936
+1,All Population,1,Deaths,53544,Cagayan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,94.92990951349611,107.02325603107964,84.40527776685393
+1,All Population,1,Deaths,53595,Davao Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,121.95984684476367,142.97199596421012,104.77495947634188
+1,All Population,1,Deaths,53613,Lanao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,36.0721006475277,44.1077133066712,28.45401007145209
+1,All Population,1,Deaths,53596,Davao de Oro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,83.32624923362083,93.70827938662295,72.69087178152839
+1,All Population,1,Deaths,53578,Cebu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,82.44997908716537,95.98471739992287,71.4635818792241
+1,All Population,1,Deaths,53614,National Capital Region,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,90.89622501111546,100.93101164081524,80.99623848673875
+1,All Population,1,Deaths,53583,Northern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,106.61115383469352,123.05281738326978,93.69521205689777
+1,All Population,1,Deaths,53599,Davao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,81.71789908657716,99.84699249869146,71.3001873514491
+1,All Population,1,Deaths,53545,Isabela,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,85.08011156328588,94.5189065822448,76.37230375936205
+1,All Population,1,Deaths,53597,Davao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,79.03411552091234,92.5570612443537,70.62777330747973
+1,All Population,1,Deaths,53597,Davao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,81.0349170114806,93.66907071953642,72.532404754745
+1,All Population,1,Deaths,53578,Cebu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,83.79893134891867,97.86143490386237,72.77127593774482
+1,All Population,1,Deaths,53547,Batanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,137.2535502105972,163.76563768037158,113.638366136316
+1,All Population,1,Deaths,53600,South Cotabato,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,80.78414472699454,91.97165956023869,71.76958117036384
+1,All Population,1,Deaths,53580,Siquijor,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,107.72301063414376,129.1239186412195,90.22215287158433
+1,All Population,1,Deaths,53564,Marinduque,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,107.75243516058458,123.07000528158267,91.39371773074437
+1,All Population,1,Deaths,53613,Lanao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,37.73406555219365,46.24363738668047,29.52045364860223
+1,All Population,1,Deaths,16,Philippines,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,84.31584740937437,91.60698301981138,77.6249617795782
+1,All Population,1,Deaths,53580,Siquijor,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,106.91894555811209,129.07078458342485,88.3841754987739
+1,All Population,1,Deaths,53558,Batangas,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,64.57340494840302,71.83916473358754,58.03942561425731
+1,All Population,1,Deaths,53569,Masbate,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,116.9580857047753,137.96531142984395,101.12785362048048
+1,All Population,1,Deaths,53546,Quirino,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,87.04794878021148,105.03457499677188,72.66814554019325
+1,All Population,1,Deaths,53582,Eastern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,141.63659059217434,169.39922214372564,114.73704494236472
+1,All Population,1,Deaths,53541,Ilocos Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,99.51190081876997,115.63097513733089,83.22771033459641
+1,All Population,1,Deaths,53558,Batangas,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,64.75433019679966,71.47937986836519,58.247356206410025
+1,All Population,1,Deaths,53575,Iloilo,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,127.58132467109078,143.52148692411564,112.42211745674108
+1,All Population,1,Deaths,53547,Batanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,128.3222633492652,153.52993544810496,104.92204193857089
+1,All Population,1,Deaths,53575,Iloilo,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,128.22223749360072,143.60914840994295,112.27187518135331
+1,All Population,1,Deaths,53533,Mountain Province,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,74.86518255303217,97.9732348789486,59.07273906390968
+1,All Population,1,Deaths,53593,Misamis Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,75.95722697186538,86.4435974946783,67.75555758963189
+1,All Population,1,Deaths,53576,Guimaras,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,86.69968589996077,102.72384768704255,69.2714218067098
+1,All Population,1,Deaths,53579,Bohol,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,95.5824111438272,110.40602960418252,84.13758966069022
+1,All Population,1,Deaths,53596,Davao de Oro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,83.68667747096232,94.8273206012063,73.00284447933677
+1,All Population,1,Deaths,53570,Camarines Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,100.81634375734012,111.57767290809497,92.03136384717517
+1,All Population,1,Deaths,53581,Southern Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,125.93127350466841,141.35549612182965,107.75784809791506
+1,All Population,1,Deaths,53581,Southern Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,125.38758422898294,140.6718869729684,108.88398458619581
+1,All Population,1,Deaths,53533,Mountain Province,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,73.6428310789753,98.04779295563095,58.21556415787431
+1,All Population,1,Deaths,53614,National Capital Region,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,92.95516259855238,103.22123124680198,82.4681046492281
+1,All Population,1,Deaths,53534,Ifugao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,61.886303156489205,74.10514527041896,51.31025434995792
+1,All Population,1,Deaths,53565,Catanduanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,131.8095551516011,147.49344185887855,115.04661436607392
+1,All Population,1,Deaths,53601,Sultan Kudarat,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,72.37119483276926,84.16480883736727,61.96441217037271
+1,All Population,1,Deaths,53598,Davao Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,89.71284001424894,121.82040296435713,73.16701177492445
+1,All Population,1,Deaths,53548,Bataan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,65.19981691628051,73.97856997665623,57.42574172830833
+1,All Population,1,Deaths,53583,Northern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,98.73152819141153,113.23270940032161,87.12358424436547
+1,All Population,1,Deaths,53564,Marinduque,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,108.94499389243792,125.12893952762128,92.36808248130318
+1,All Population,1,Deaths,53559,Quezon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,74.23495499972901,83.57369065328896,67.79882420535417
+1,All Population,1,Deaths,53559,Quezon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,74.30933921725267,84.10071154089509,67.14020733699067
+1,All Population,1,Deaths,53593,Misamis Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,76.77359098910216,87.75741264848865,67.9631664163479
+1,All Population,1,Deaths,53576,Guimaras,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,86.8006775203963,102.313976632738,69.40447105716557
+1,All Population,1,Deaths,53545,Isabela,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,84.42000240557523,92.92492245420141,76.12234900013617
+1,All Population,1,Deaths,53548,Bataan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,65.169556909692,73.88918049100525,56.90414325113076
+1,All Population,1,Deaths,53535,Benguet,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,38.37765942101288,46.24016048672807,31.593771627148627
+1,All Population,1,Deaths,53611,Sulu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,70.42241604741214,93.25092490620011,54.02054403801766
+1,All Population,1,Deaths,53582,Eastern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,137.32083427525575,163.16890888248378,111.39924188074016
+1,All Population,1,Deaths,53553,Nueva Ecija,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,63.265630141663806,73.6288148275476,56.62655718682964
+1,All Population,1,Deaths,53611,Sulu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,67.68462774658919,89.07232740633202,51.619524662864364
+1,All Population,1,Deaths,53589,Zamboanga Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,66.40840842199526,75.14782501162193,58.74412598974381
+1,All Population,1,Deaths,53579,Bohol,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,94.36476987969874,108.21406002588486,82.39260760476454
+1,All Population,1,Deaths,53598,Davao Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,88.26842722624077,117.58928375421014,71.82383244974581
+1,All Population,1,Deaths,53583,Northern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,100.13745548602185,115.36816742970385,88.62230756200036
+1,All Population,1,Deaths,53594,Camiguin,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,121.35760835530441,143.10234256762138,100.35436773174408
+1,All Population,1,Deaths,53534,Ifugao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,60.364237788386596,72.15796275129526,49.738260815236224
+1,All Population,1,Deaths,53555,Rizal,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,65.43376470598726,72.01614000060084,56.75974361828081
+1,All Population,1,Deaths,53611,Sulu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,68.13370427983135,90.41816842683836,51.72048496876699
+1,All Population,1,Deaths,53594,Camiguin,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,121.0693292312667,141.64709310316132,99.83373468810247
+1,All Population,1,Deaths,53565,Catanduanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,134.56544530282645,150.20392257566502,118.83639351703684
+1,All Population,1,Deaths,53600,South Cotabato,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,80.32295591899218,91.1780918724612,71.27434773833085
+1,All Population,1,Deaths,53600,South Cotabato,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,80.76550028284113,91.42048067498774,72.76118063652687
+1,All Population,1,Deaths,53556,Cavite,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,55.74408523887345,61.73823954067699,50.00228974341562
+1,All Population,1,Deaths,53538,Kalinga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,70.42160504297543,83.38324471959143,57.62069893446329
+1,All Population,1,Deaths,53612,Maguindanao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,58.707996206668305,76.22354524496241,46.54542086437258
+1,All Population,1,Deaths,53594,Camiguin,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,121.24377816331688,142.4608067417759,101.02788860063562
+1,All Population,1,Deaths,53599,Davao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,81.88094833574858,100.522340235677,71.33219917700484
+1,All Population,1,Deaths,53612,Maguindanao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,57.52632322225364,73.39073664526784,45.430793693274815
+1,All Population,1,Deaths,53536,Abra,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,112.8925047894503,131.32083957149266,92.52009659952807
+1,All Population,1,Deaths,16,Philippines,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,84.4321455371792,91.04722352110436,77.11890040053213
+1,All Population,1,Deaths,53612,Maguindanao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,60.67374349340983,78.51673921970072,46.654108193166024
+1,All Population,1,Deaths,53554,Aurora,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,63.43183819236978,73.94070526574866,53.70625035321397
+1,All Population,1,Deaths,53586,Biliran,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,122.89016315445826,143.3703244366232,103.9609695404632
+1,All Population,1,Deaths,53604,Agusan Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,121.08876500885584,137.02652227384652,108.25657108993049
+1,All Population,1,Deaths,53599,Davao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,84.91361961378396,106.96286861175118,73.32234020010166
+1,All Population,1,Deaths,53535,Benguet,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,38.64435641344523,46.39188061635115,31.479119390001937
+1,All Population,1,Deaths,53546,Quirino,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,86.30718206414052,104.02812963426864,71.39668711666054
+1,All Population,1,Deaths,53551,Pampanga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,50.53970176267769,55.954786355514,44.877715030470654
+1,All Population,1,Deaths,53537,Apayao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,88.49128586393743,104.39276125407237,74.55105715245476
+1,All Population,1,Deaths,53552,Bulacan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,57.91133807872126,63.47419045477554,52.52718171133759
+1,All Population,1,Deaths,53587,Zamboanga Sibugay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,78.58440368931674,91.28552937103494,66.21913733573275
+1,All Population,1,Deaths,53601,Sultan Kudarat,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,72.69488402778599,85.65283030332874,62.51537075285374
+1,All Population,1,Deaths,53569,Masbate,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,115.0550490370567,135.63449010072617,98.09270019979742
+1,All Population,1,Deaths,53601,Sultan Kudarat,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,72.0987566299172,84.73289028609096,61.612917749419324
+1,All Population,1,Deaths,53595,Davao Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,126.19889782890066,146.79456465613012,105.1729890539467
+1,All Population,1,Deaths,53588,Zamboanga Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,72.84007539919777,84.9488736704242,62.759293449174685
+1,All Population,1,Deaths,53605,Agusan Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,87.56178662536544,105.21746630715208,72.67718755254313
+1,All Population,1,Deaths,53569,Masbate,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,114.49074930491898,136.14074363175908,97.85710137376424
+1,All Population,1,Deaths,53545,Isabela,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,84.34263174701582,93.26333061539363,76.94278364112112
+1,All Population,1,Deaths,53570,Camarines Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,99.76319068054462,109.38264304133568,91.20637845290977
+1,All Population,1,Deaths,53539,La Union,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,100.89721652781175,114.04884988084503,86.83658354884516
+1,All Population,1,Deaths,53561,Oriental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,78.79989514199394,88.11632111807224,69.7280864217448
+1,All Population,1,Deaths,53547,Batanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,125.0988063675897,148.90782919981808,101.59302539617217
+1,All Population,1,Deaths,53573,Antique,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,151.3576049534099,168.3732946907798,128.18484444989147
+1,All Population,1,Deaths,53536,Abra,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,113.70558962588149,134.35271963424256,93.46560037521898
+1,All Population,1,Deaths,53613,Lanao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,38.58089016460681,47.33447826443888,29.92889219911811
+1,All Population,1,Deaths,16,Philippines,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,84.91192118173544,91.77541256806529,77.5402439355779
+1,All Population,1,Deaths,53551,Pampanga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,52.016748873151954,57.861598863884666,46.699611672317495
+1,All Population,1,Deaths,53546,Quirino,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,85.51937128828838,103.37056035146428,70.41691369854777
+1,All Population,1,Deaths,53604,Agusan Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,120.92781148737691,136.10201546091324,108.67636722522924
+1,All Population,1,Deaths,53578,Cebu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,82.23534727757091,94.80424095516784,72.57279097892005
+1,All Population,1,Deaths,53564,Marinduque,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,107.21359568449371,123.97570438328823,90.8577857524213
+1,All Population,1,Deaths,53596,Davao de Oro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,85.17435307924241,96.68821960255478,73.73560903682453
+1,All Population,1,Deaths,53586,Biliran,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,123.17660165638543,145.0157087622838,104.45606340921036
+1,All Population,1,Deaths,53566,Camarines Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,86.6916990382005,97.43421573061171,76.0754333859257
+1,All Population,1,Deaths,53548,Bataan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,65.10827824167352,74.12111418465548,56.61916926585103
+1,All Population,1,Deaths,53555,Rizal,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,65.29125947671207,72.19328585247811,57.53123425446173
+1,All Population,1,Deaths,53586,Biliran,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,123.1936718457268,143.26449731076394,104.61840627659917
+1,All Population,1,Deaths,53605,Agusan Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,88.77250503123165,107.93119086867772,72.32458690569385
+1,All Population,1,Deaths,53535,Benguet,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,39.03164333505063,46.65803416920027,32.20711873919455
+1,All Population,1,Deaths,53555,Rizal,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,65.08778698031881,71.62108005022078,56.88649295666742
+1,All Population,1,Deaths,53537,Apayao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,89.33017955317649,105.7924428600083,74.65346416957007
+1,All Population,1,Deaths,53606,Surigao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,105.23918133376905,121.39526377641175,90.20983823085892
+1,All Population,1,Deaths,53549,Zambales,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,87.03749864357401,97.21460020214444,76.22259624427448
+1,All Population,1,Deaths,53552,Bulacan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,57.61855053171575,63.823401392337914,52.15549379017304
+1,All Population,1,Deaths,53587,Zamboanga Sibugay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,80.27559108276814,92.83793511807585,68.46461961635492
+1,All Population,1,Deaths,53566,Camarines Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,87.64854366492001,98.2679307701373,78.15292958631657
+1,All Population,1,Deaths,53571,Capiz,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,109.97298750282052,127.30673142676731,95.48222854624998
+1,All Population,1,Deaths,53567,Sorsogon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,91.24232820736611,103.49131898519558,79.42554065663285
+1,All Population,1,Deaths,53579,Bohol,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,95.00308749672539,107.76745001405386,84.44888899446543
+1,All Population,1,Deaths,53538,Kalinga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,71.68932381776122,85.05444828983288,58.017614305191756
+1,All Population,1,Deaths,53538,Kalinga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,74.64769671299179,89.23086680428042,60.37339781488993
+1,All Population,1,Deaths,53556,Cavite,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,55.22226298728049,60.679976284755455,49.93087248380074
+1,All Population,1,Deaths,53580,Siquijor,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,105.17916634129595,125.3181506211874,86.75134285537634
+1,All Population,1,Deaths,53565,Catanduanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,128.79346946940595,142.85493177665234,111.81923748018347
+1,All Population,1,Deaths,53587,Zamboanga Sibugay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,79.08646951615336,91.67874675336886,66.87361644675947
+1,All Population,1,Deaths,53570,Camarines Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,98.69764273123413,107.03788295587854,90.0141666121532
+1,All Population,1,Deaths,53567,Sorsogon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,92.55960946117499,103.62725694633916,80.27087320452475
+1,All Population,1,Deaths,53571,Capiz,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,114.2328641472791,131.4111349943475,97.80645113951726
+1,All Population,1,Deaths,53549,Zambales,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,86.75922124044055,96.91658340505522,76.25950912124158
+1,All Population,1,Deaths,53549,Zambales,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,87.7820952725934,98.65862973563779,77.21528513431298
+1,All Population,1,Deaths,53562,Romblon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,106.27825071763853,121.65763426708747,90.25436431853602
+1,All Population,1,Deaths,53553,Nueva Ecija,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,62.140265982399455,72.58687762143607,55.95317320831511
+1,All Population,1,Deaths,53568,Albay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,115.40741580165212,126.50139389725817,103.13993975748905
+1,All Population,1,Deaths,53581,Southern Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,124.50169345572093,139.640799240062,108.94044627618733
+1,All Population,1,Deaths,53539,La Union,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,99.2531026820808,112.9331735626796,86.07833067647462
+1,All Population,1,Deaths,53572,Aklan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,122.06156482668057,138.2570280317193,104.03565804540705
+1,All Population,1,Deaths,53582,Eastern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,143.75752801314098,173.66169590932955,117.6414085742093
+1,All Population,1,Deaths,53606,Surigao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,106.41895335714393,121.85671766094005,91.47665791725576
+1,All Population,1,Deaths,53572,Aklan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,120.32239165634289,136.05233095306554,103.8763801297145
+1,All Population,1,Deaths,53597,Davao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,81.84930562913316,93.8560329542978,73.34627202477915
+1,All Population,1,Deaths,53589,Zamboanga Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,65.6862948408472,74.50960093195583,58.44669378243645
+1,All Population,1,Deaths,53614,National Capital Region,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,93.49870811333234,103.88359289959688,82.14090225650008
+1,All Population,1,Deaths,53604,Agusan Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,120.90826392869222,136.51865079473765,107.82692304534686
+1,All Population,1,Deaths,53536,Abra,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,114.8309990679374,135.52646020224577,93.58021414288876
+1,All Population,1,Deaths,53554,Aurora,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,62.83523365603908,73.7932174442088,53.10300799764977
+1,All Population,1,Deaths,53539,La Union,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,99.57713096460488,112.56012277952821,87.05104283015434
+1,All Population,1,Deaths,53583,Northern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,96.81511282636892,111.04979916273626,85.16418530352091
+1,All Population,1,Deaths,53550,Tarlac,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,68.98933510767377,76.93116760412278,60.65484962126922
+1,All Population,1,Deaths,53605,Agusan Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,91.5185079174747,111.90218215826947,75.43823104582424
+1,All Population,1,Deaths,53557,Laguna,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,61.72548967571313,68.74582687166954,55.75284480349793
+1,All Population,1,Deaths,53533,Mountain Province,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,75.64271185375605,94.76280094083552,59.56868889963678
+1,All Population,1,Deaths,53600,South Cotabato,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,80.66819230243506,89.73389374426982,72.6230853323056
+1,All Population,1,Deaths,53590,Misamis Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,100.34034489781337,114.76196866587131,88.48108536941587
+1,All Population,1,Deaths,53535,Benguet,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,38.36306255811375,45.80714052638645,31.049285713300502
+1,All Population,1,Deaths,53537,Apayao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,90.92848972876736,106.86697291655702,76.70629552348292
+1,All Population,1,Deaths,53563,Palawan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,76.46939664502402,87.67502335547813,65.42275958373179
+1,All Population,1,Deaths,53556,Cavite,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,55.196005010928175,60.466509854805814,49.960387056600695
+1,All Population,1,Deaths,53571,Capiz,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,111.86968869482438,128.93611324743617,96.17055196945375
+1,All Population,1,Deaths,53546,Quirino,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,84.53821908440116,103.36468342259043,70.25017942795209
+1,All Population,1,Deaths,53573,Antique,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,148.7759451783693,165.45315034711092,127.54154603218609
+1,All Population,1,Deaths,53588,Zamboanga Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,73.4335489445217,87.39792983120316,63.17633399889961
+1,All Population,1,Deaths,53568,Albay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,117.99473221175946,129.59336890994084,105.76851561644794
+1,All Population,1,Deaths,53598,Davao Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,87.69212974483723,116.90756837547315,72.15657258735412
+1,All Population,1,Deaths,53602,Cotabato (North Cotabato),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,88.48270096961556,102.06852620962162,76.36689078679673
+1,All Population,1,Deaths,53550,Tarlac,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,68.73437619102287,76.79116633158723,60.41123402063118
+1,All Population,1,Deaths,53591,Bukidnon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,93.00422962900954,113.50991305496703,79.7389235719008
+1,All Population,1,Deaths,53601,Sultan Kudarat,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,72.32854135718718,86.27601350203572,61.91891753148085
+1,All Population,1,Deaths,53557,Laguna,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,60.61707181711091,67.15530580217577,53.85464962063294
+1,All Population,1,Deaths,53553,Nueva Ecija,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,61.98487510811127,73.2232579821596,55.38987585862453
+1,All Population,1,Deaths,53607,Surigao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,92.47631587524701,106.3656117917142,79.94985188547552
+1,All Population,1,Deaths,53591,Bukidnon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,91.9120851938134,110.91682716850349,78.09644082120302
+1,All Population,1,Deaths,16,Philippines,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,82.27660999789893,88.8916499180243,76.04171267193924
+1,All Population,1,Deaths,53588,Zamboanga Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,75.27186091903437,88.43635386170943,65.78052772776546
+1,All Population,1,Deaths,53542,Pangasinan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,87.01349635875506,98.13768195143808,75.82200497283068
+1,All Population,1,Deaths,53589,Zamboanga Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,66.35318877190723,75.06478885420943,59.278399042238995
+1,All Population,1,Deaths,53534,Ifugao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,63.01960661259467,75.50793452711979,52.346293588346654
+1,All Population,1,Deaths,53550,Tarlac,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,69.64530754162385,78.08058044678017,61.69955566179638
+1,All Population,1,Deaths,53584,Samar (Western Samar),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,126.75432428156913,145.95926951540736,107.90479941293587
+1,All Population,1,Deaths,53584,Samar (Western Samar),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,124.12974137607591,145.1087592341047,104.13811888140786
+1,All Population,1,Deaths,53592,Lanao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,72.95847569723325,81.40868119687863,64.64217022675099
+1,All Population,1,Deaths,53580,Siquijor,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,102.44845309087692,123.37280619621309,84.27306545227684
+1,All Population,1,Deaths,53574,Negros Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,132.87264184634347,146.79521248969914,118.2660244053109
+1,All Population,1,Deaths,53536,Abra,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,114.70997574879445,134.66002248848883,94.18986758413367
+1,All Population,1,Deaths,53614,National Capital Region,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,89.20343945634869,99.93332094297088,77.79546123876688
+1,All Population,1,Deaths,53572,Aklan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,121.40159130856831,137.0503460405209,103.46414720143484
+1,All Population,1,Deaths,53554,Aurora,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,63.48730157546244,74.91312273272163,52.81818655589356
+1,All Population,1,Deaths,53563,Palawan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,73.82956063327819,85.02943172259093,62.74454334673522
+1,All Population,1,Deaths,53599,Davao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,85.89343094290656,107.36211685021443,74.58893499622508
+1,All Population,1,Deaths,53566,Camarines Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,89.59686521642335,99.7043070827227,79.55747582041879
+1,All Population,1,Deaths,53551,Pampanga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,52.091932051875325,57.847501213564435,46.389852964804895
+1,All Population,1,Deaths,53551,Pampanga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,50.506008100897716,56.185513361474435,44.80555579769311
+1,All Population,1,Deaths,53584,Samar (Western Samar),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,125.48749782461245,146.18042904160276,106.07235329706737
+1,All Population,1,Deaths,53602,Cotabato (North Cotabato),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,86.82469337218461,99.97281495956304,75.17940433320554
+1,All Population,1,Deaths,53597,Davao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,79.16257577731977,90.18567306057042,70.68608906916052
+1,All Population,1,Deaths,53590,Misamis Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,102.19665750928203,117.60604929205046,88.60586489754098
+1,All Population,1,Deaths,53552,Bulacan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,57.21934959314459,62.70630554512316,51.52271211764663
+1,All Population,1,Deaths,53585,Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,107.97191520450883,121.79035185579869,97.41995474290886
+1,All Population,1,Deaths,53585,Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,108.18148913414652,120.68724017851285,97.47902720788714
+1,All Population,1,Deaths,53586,Biliran,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,123.11793954456704,143.9941829182036,104.12528349951374
+1,All Population,1,Deaths,53552,Bulacan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,56.688560830318416,62.7072131018719,51.18608117091865
+1,All Population,1,Deaths,53587,Zamboanga Sibugay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,81.14520028378553,94.1503541240621,68.50650263545374
+1,All Population,1,Deaths,53533,Mountain Province,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,74.77282303128555,92.5861192230062,58.646253391098554
+1,All Population,1,Deaths,53533,Mountain Province,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,76.00163838127557,95.73864138137817,61.354114886518
+1,All Population,1,Deaths,53606,Surigao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,109.19420348910519,124.20281423616245,93.49308760619729
+1,All Population,1,Deaths,53537,Apayao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,91.18754439404819,106.52618387073863,76.31631401744906
+1,All Population,1,Deaths,53581,Southern Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,121.22984094534517,137.5181699813542,105.98610898359064
+1,All Population,1,Deaths,53581,Southern Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,117.04842633695736,131.43505515385252,101.86995660935956
+1,All Population,1,Deaths,53564,Marinduque,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,107.30096726277074,124.20913286059377,91.38750354660488
+1,All Population,1,Deaths,53602,Cotabato (North Cotabato),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,91.70099551944328,108.30853722267273,79.39938114719301
+1,All Population,1,Deaths,53603,Sarangani,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,57.08563257273337,68.83930242339241,47.778043661781254
+1,All Population,1,Deaths,53588,Zamboanga Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,74.2652277463777,87.20831564222424,64.88425591694383
+1,All Population,1,Deaths,53573,Antique,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,147.24886956123217,163.47763010313173,128.37695586411553
+1,All Population,1,Deaths,53547,Batanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,124.64040149354923,148.9773766141213,99.75722352169659
+1,All Population,1,Deaths,53548,Bataan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,63.902731793412045,72.42479241097858,55.0161903895359
+1,All Population,1,Deaths,53598,Davao Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,87.81748385085164,115.64355389869355,72.66565543916228
+1,All Population,1,Deaths,53598,Davao Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,89.6851893217266,115.72664632768763,74.44704424759853
+1,All Population,1,Deaths,53608,Dinagat Islands,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,85.27383285346663,103.49142229002209,70.41956154934824
+1,All Population,1,Deaths,53612,Maguindanao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,60.68782628953957,79.62228786855268,46.608984813395
+1,All Population,1,Deaths,53553,Nueva Ecija,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,61.18008594438464,70.82792801489866,54.82517363432542
+1,All Population,1,Deaths,53565,Catanduanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,118.68306153149564,134.17711349312788,101.77175550170902
+1,All Population,1,Deaths,53574,Negros Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,133.86382535586537,147.10564858989247,118.37670900760295
+1,All Population,1,Deaths,53586,Biliran,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,123.02959808120454,142.86931058183862,104.39224837434384
+1,All Population,1,Deaths,53604,Agusan Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,119.43478727992436,133.6541469195098,107.65538350499735
+1,All Population,1,Deaths,53608,Dinagat Islands,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,86.62774300279727,103.66348954856741,70.59427147507185
+1,All Population,1,Deaths,53582,Eastern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,146.22055970181844,175.16819783350226,120.11502845644898
+1,All Population,1,Deaths,53582,Eastern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,142.8685626162296,173.00564820558628,117.46968173761334
+1,All Population,1,Deaths,53569,Masbate,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,114.41211287080515,133.50317823002516,97.9037790869558
+1,All Population,1,Deaths,53589,Zamboanga Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,66.33302053347774,74.62678697099416,59.507653350534184
+1,All Population,1,Deaths,53587,Zamboanga Sibugay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,80.81933993169777,94.35270030428151,68.71846171056251
+1,All Population,1,Deaths,53534,Ifugao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,63.05287295782954,75.62000192828202,51.68479831083488
+1,All Population,1,Deaths,53607,Surigao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,92.50145744131672,104.78891011793434,79.26071396013877
+1,All Population,1,Deaths,53560,Occidental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,82.65939802316866,93.91950032749983,71.54862063512577
+1,All Population,1,Deaths,16,Philippines,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,77.09330331108691,83.1679044904043,71.06108707388539
+1,All Population,1,Deaths,53609,Tawi-Tawi,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,49.79712963863276,66.69591900358363,34.68418132346209
+1,All Population,1,Deaths,53588,Zamboanga Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,75.173806839068,87.7499965012081,64.79291976260585
+1,All Population,1,Deaths,53585,Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,113.17257701087676,127.69836172679345,101.44337205473458
+1,All Population,1,Deaths,53603,Sarangani,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,57.53910513524328,69.10715876953653,47.83845320850683
+1,All Population,1,Deaths,53599,Davao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,81.63183066003582,101.52000310860289,70.96604486548712
+1,All Population,1,Deaths,53534,Ifugao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,62.22413107699763,75.00361280014673,51.15843368446707
+1,All Population,1,Deaths,53605,Agusan Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,92.70194262104536,113.24613816512186,77.09454370688178
+1,All Population,1,Deaths,53538,Kalinga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,77.50046127843173,92.59434310011035,63.36532251292976
+1,All Population,1,Deaths,53554,Aurora,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,63.10693264822006,73.79285302655245,52.43132092029864
+1,All Population,1,Deaths,53567,Sorsogon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,94.73411906618222,106.66247881818036,81.6089680043397
+1,All Population,1,Deaths,53569,Masbate,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,112.9940412861825,132.3836925550261,96.07097658187823
+1,All Population,1,Deaths,53569,Masbate,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,111.70699956412354,130.66141267541667,95.31759973158549
+1,All Population,1,Deaths,53583,Northern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,90.78499133840779,103.32593632943976,79.47897456026969
+1,All Population,1,Deaths,53539,La Union,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,97.91653505906973,110.97620725792807,85.69208029089563
+1,All Population,1,Deaths,53570,Camarines Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,97.6356317185858,105.41450138134076,87.93427013735196
+1,All Population,1,Deaths,53599,Davao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,73.93338835382103,89.90488878648782,64.59979185338742
+1,All Population,1,Deaths,53551,Pampanga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,48.934537822634994,54.28140542811152,43.20521503417469
+1,All Population,1,Deaths,16,Philippines,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,79.49538957722302,85.78708814187615,72.52938746934261
+1,All Population,1,Deaths,53535,Benguet,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,36.721881640490004,43.62007116681464,29.845189415832376
+1,All Population,1,Deaths,53604,Agusan Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,111.85821215001413,125.52270125120197,100.26550349426122
+1,All Population,1,Deaths,53604,Agusan Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,115.79004445419375,129.33013437443978,103.44878348484707
+1,All Population,1,Deaths,53603,Sarangani,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,59.23579386865093,70.7630672748288,48.91023898161882
+1,All Population,1,Deaths,53570,Camarines Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,95.60636418691355,104.1709823459566,85.85306487703356
+1,All Population,1,Deaths,53570,Camarines Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,91.93520779308433,99.97677665666801,83.8463309210637
+1,All Population,1,Deaths,53560,Occidental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,80.83173973500581,93.29686277587818,69.51141011208131
+1,All Population,1,Deaths,53533,Mountain Province,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,71.6730874802046,90.21066943730744,54.86945209979691
+1,All Population,1,Deaths,53605,Agusan Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,92.39233068693267,111.84692401272603,76.63962398847708
+1,All Population,1,Deaths,53542,Pangasinan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,86.63704781481752,95.8646832780385,76.24833972547592
+1,All Population,1,Deaths,53590,Misamis Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,102.47457550209916,117.97564259014025,89.31541796729998
+1,All Population,1,Deaths,53540,Ilocos Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,107.67111812489365,122.72687113988614,89.57545662127559
+1,All Population,1,Deaths,53536,Abra,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,109.8947678552007,128.9660361106338,92.11121442085792
+1,All Population,1,Deaths,53549,Zambales,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,85.17120786276149,95.04026129860985,74.35421414535004
+1,All Population,1,Deaths,53605,Agusan Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,90.73405056502082,109.11721604326227,76.04827241474939
+1,All Population,1,Deaths,53565,Catanduanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,124.41051880444063,138.68619045111456,107.67636516686179
+1,All Population,1,Deaths,53543,Nueva Vizcaya,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,72.36452562066144,85.32290096912618,60.01617915711103
+1,All Population,1,Deaths,53540,Ilocos Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,107.08991103837162,123.79148831188299,88.02394458960907
+1,All Population,1,Deaths,53548,Bataan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,64.47528525181805,73.7473607347351,55.261807640140574
+1,All Population,1,Deaths,53534,Ifugao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,59.19592301533446,70.57466010516777,48.47948507786373
+1,All Population,1,Deaths,53561,Oriental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,77.34133166195518,87.5558130757395,68.48555353066646
+1,All Population,1,Deaths,53568,Albay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2013,120.21071923104412,133.45437761167898,107.56079092501811
+1,All Population,1,Deaths,53600,South Cotabato,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,78.44817014130405,87.06979990568317,70.42308279337672
+1,All Population,1,Deaths,53552,Bulacan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,56.56907709419481,62.67991015216492,50.49857761398695
+1,All Population,1,Deaths,53600,South Cotabato,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,75.83916658307031,84.64825423609861,67.71347627950445
+1,All Population,1,Deaths,53535,Benguet,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,37.63834535512308,44.78624421256783,30.40148192104082
+1,All Population,1,Deaths,53555,Rizal,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,65.59164266486219,71.49740737076235,57.87265329137204
+1,All Population,1,Deaths,53583,Northern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,93.69257281807735,106.96494030043077,82.6196178715541
+1,All Population,1,Deaths,53601,Sultan Kudarat,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,67.44537513650415,79.04633971145633,56.89791291087517
+1,All Population,1,Deaths,53608,Dinagat Islands,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,87.2151814211231,103.9194597174369,71.18289933362698
+1,All Population,1,Deaths,53606,Surigao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,110.92655700861329,127.0750423831466,94.66183374417199
+1,All Population,1,Deaths,53584,Samar (Western Samar),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,128.73590570255024,149.30231939145148,109.53089394161324
+1,All Population,1,Deaths,53601,Sultan Kudarat,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,70.11537421883895,82.93563640881182,59.478318516402894
+1,All Population,1,Deaths,53541,Ilocos Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,99.43376318278679,116.12012408929458,84.27551564931778
+1,All Population,1,Deaths,53536,Abra,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,113.43243222304838,132.8406633695576,93.78632955592107
+1,All Population,1,Deaths,53551,Pampanga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,47.82943474593243,52.826261830215344,42.343766024260994
+1,All Population,1,Deaths,53586,Biliran,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,121.55952271835275,144.2212129131772,101.48218838753283
+1,All Population,1,Deaths,53595,Davao Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,125.87208606913968,148.0958615239469,103.95158854462645
+1,All Population,1,Deaths,53541,Ilocos Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2014,99.03712213819968,114.78488382464278,82.4459188822167
+1,All Population,1,Deaths,53586,Biliran,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,117.56474166969629,137.19676967093827,97.67564749458793
+1,All Population,1,Deaths,16,Philippines,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,97.75094942807989,105.4162761960671,89.94638958377753
+1,All Population,1,Deaths,53556,Cavite,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,54.46401564770473,59.71636393892773,48.791450457785686
+1,All Population,1,Deaths,53573,Antique,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,143.73311530793976,157.83418460836296,126.11175924720503
+1,All Population,1,Deaths,53555,Rizal,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,69.73206962600742,76.88537903121912,60.42989862014322
+1,All Population,1,Deaths,53609,Tawi-Tawi,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,53.66123594155923,71.09523951502536,37.75207222961111
+1,All Population,1,Deaths,53566,Camarines Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,85.0116549263948,94.40009952872768,75.68775714867199
+1,All Population,1,Deaths,53537,Apayao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,91.1045599319796,108.04967615076471,74.81218822543428
+1,All Population,1,Deaths,53602,Cotabato (North Cotabato),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,92.71702812952458,111.21320367414927,79.59824552365478
+1,All Population,1,Deaths,53552,Bulacan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,55.84959374617403,63.46945474593744,49.31063645973161
+1,All Population,1,Deaths,53577,Negros Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,92.72441581258512,108.78308154726238,79.41165140621791
+1,All Population,1,Deaths,53542,Pangasinan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,84.71022284777632,93.35989441630132,75.00184638971321
+1,All Population,1,Deaths,53607,Surigao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,90.5363311773612,102.97068181981614,78.29136648910394
+1,All Population,1,Deaths,53542,Pangasinan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,83.3932755240521,91.72160781282021,73.5333715321542
+1,All Population,1,Deaths,53537,Apayao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,86.28096053977025,101.9253419913174,71.60626300016989
+1,All Population,1,Deaths,53553,Nueva Ecija,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,58.2695200931733,66.7128666688173,52.24394457828976
+1,All Population,1,Deaths,53593,Misamis Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,78.47942512332357,89.71115984407375,70.58465340112788
+1,All Population,1,Deaths,53550,Tarlac,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,68.19983117704012,75.762204030351,60.42418681900215
+1,All Population,1,Deaths,53556,Cavite,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,56.915862778329775,62.70080829006615,51.482135996692136
+1,All Population,1,Deaths,53569,Masbate,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,110.08903128629768,128.71046738473774,93.16448004790512
+1,All Population,1,Deaths,53543,Nueva Vizcaya,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,68.63354919922456,82.12211586831738,56.454328919791934
+1,All Population,1,Deaths,53571,Capiz,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,109.70770052396574,125.78141459899132,96.60066966002157
+1,All Population,1,Deaths,53553,Nueva Ecija,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,59.7371119815471,69.06472788920435,53.75847227386669
+1,All Population,1,Deaths,53557,Laguna,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,58.090207720811286,64.21931783839806,52.18715330952347
+1,All Population,1,Deaths,53543,Nueva Vizcaya,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,70.3932690634199,83.68476252343174,58.200364329873665
+1,All Population,1,Deaths,53587,Zamboanga Sibugay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,81.1919169709229,93.45019889362041,68.88382074783223
+1,All Population,1,Deaths,53538,Kalinga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,77.70860244415884,92.72313778751179,64.22101963906682
+1,All Population,1,Deaths,53574,Negros Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,131.54986322988495,144.0205099078685,116.8610247155656
+1,All Population,1,Deaths,53557,Laguna,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,56.75767222652572,62.62987201578052,50.270722540830185
+1,All Population,1,Deaths,53591,Bukidnon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,92.98512776857623,111.43464133640857,80.19442587400796
+1,All Population,1,Deaths,53570,Camarines Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,88.73356659606313,96.37045832839004,80.64825275076757
+1,All Population,1,Deaths,53589,Zamboanga Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,63.98574745937363,71.83506667436248,58.214938151612685
+1,All Population,1,Deaths,53588,Zamboanga Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,72.9508143332208,83.75498956178595,62.957102877417974
+1,All Population,1,Deaths,53596,Davao de Oro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,86.67828811991461,98.916481694236,75.3779154412826
+1,All Population,1,Deaths,53554,Aurora,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,59.96701205580766,70.06199771667497,50.30378745354489
+1,All Population,1,Deaths,53577,Negros Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,88.77513780178376,102.255872043247,76.44326339847834
+1,All Population,1,Deaths,53603,Sarangani,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,60.79528062274283,72.98448020507733,50.413650279157494
+1,All Population,1,Deaths,53571,Capiz,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,106.64092296516212,121.25669242199525,93.11212662445139
+1,All Population,1,Deaths,53571,Capiz,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,108.57029489586073,123.99961994121983,94.9710681805727
+1,All Population,1,Deaths,53590,Misamis Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,95.1345297838513,108.27490116307484,83.3870787557644
+1,All Population,1,Deaths,53572,Aklan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,119.86571639587547,134.45780221387565,104.64579392952577
+1,All Population,1,Deaths,53554,Aurora,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,61.85929569292385,72.34473590250187,51.57393606226497
+1,All Population,1,Deaths,53544,Cagayan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,94.60291070139722,106.59619562507456,83.83357035307007
+1,All Population,1,Deaths,53575,Iloilo,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,127.45374734064211,141.94151848860363,111.68325528772588
+1,All Population,1,Deaths,53606,Surigao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,108.76509289268347,126.20330502413414,91.85218293296349
+1,All Population,1,Deaths,53589,Zamboanga Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,64.68597054788448,72.21696005643554,58.38760555819374
+1,All Population,1,Deaths,53572,Aklan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,117.73103479033158,133.41115840892766,100.7519970451864
+1,All Population,1,Deaths,53610,Basilan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,43.6063686268503,54.50677209932398,34.5403633199787
+1,All Population,1,Deaths,53539,La Union,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,94.8281124905474,108.56369079373026,83.41477731348019
+1,All Population,1,Deaths,53592,Lanao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,72.16624880884117,80.21450203718457,63.52531731978159
+1,All Population,1,Deaths,53587,Zamboanga Sibugay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,80.66479589018849,93.83288317369802,67.34927203782055
+1,All Population,1,Deaths,53583,Northern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,88.19217724706002,101.20473535987801,77.05335001543159
+1,All Population,1,Deaths,53549,Zambales,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,79.10799216451534,89.45043272262775,68.83898602744527
+1,All Population,1,Deaths,53549,Zambales,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,82.11681436796282,92.47073083867498,72.00051994342724
+1,All Population,1,Deaths,53590,Misamis Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,99.4609828603093,113.27529290261495,87.63096616624898
+1,All Population,1,Deaths,53572,Aklan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,119.18174776117817,134.37574342881328,104.53523701162885
+1,All Population,1,Deaths,53606,Surigao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,110.36499960738894,127.86954168895808,94.38687008390525
+1,All Population,1,Deaths,53540,Ilocos Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,105.26305524641938,119.88641914181487,89.23767394318718
+1,All Population,1,Deaths,53550,Tarlac,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,66.09377833315219,73.31703973599448,58.845123676737096
+1,All Population,1,Deaths,53576,Guimaras,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,86.75598442861263,104.43827005361193,68.85931969820983
+1,All Population,1,Deaths,53551,Pampanga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,65.88310583226436,72.65721166226089,60.34344465623142
+1,All Population,1,Deaths,53600,South Cotabato,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,73.7017397160145,82.49772931976514,64.9147413051149
+1,All Population,1,Deaths,53538,Kalinga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,76.45969099317185,91.34034757168342,62.887591480268
+1,All Population,1,Deaths,53544,Cagayan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,93.17458444921779,106.56557812117775,82.21028405187948
+1,All Population,1,Deaths,53534,Ifugao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,66.49135189867967,77.63393052793528,57.371079643865215
+1,All Population,1,Deaths,53591,Bukidnon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,89.70277702263948,108.69415423766797,77.20784597799607
+1,All Population,1,Deaths,53578,Cebu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,78.22559135289289,89.79047634175132,69.04183886076669
+1,All Population,1,Deaths,53607,Surigao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,84.36329097994755,95.3204020090962,72.69927935609067
+1,All Population,1,Deaths,53586,Biliran,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,125.01368247480202,146.10343708386824,106.37566541740004
+1,All Population,1,Deaths,53607,Surigao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,87.19509856340795,99.49673101486715,75.96684806761468
+1,All Population,1,Deaths,53552,Bulacan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,79.51439844045619,86.77711141112343,72.36966035438425
+1,All Population,1,Deaths,53573,Antique,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,131.65721560498167,144.62294241794376,114.45531487249922
+1,All Population,1,Deaths,53577,Negros Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,85.46164077297804,98.59646892401018,74.13108567081424
+1,All Population,1,Deaths,53541,Ilocos Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,97.57307606692518,112.28254558206007,84.7705927496176
+1,All Population,1,Deaths,53567,Sorsogon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,90.10541116445597,101.04973201994379,78.25621300731756
+1,All Population,1,Deaths,53588,Zamboanga Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,70.70999259502788,83.02064431671427,60.97896524605088
+1,All Population,1,Deaths,53592,Lanao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,69.28405003240924,76.65629582159004,60.680194110784306
+1,All Population,1,Deaths,53539,La Union,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,90.66739519050775,102.10702617811177,78.46415500037129
+1,All Population,1,Deaths,53560,Occidental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,79.96005047064644,92.60228215685244,68.68107698784706
+1,All Population,1,Deaths,53579,Bohol,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,92.65594888133438,105.21322592172756,82.00930053431009
+1,All Population,1,Deaths,53545,Isabela,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,82.61580421264384,92.25456707181183,73.91290951600973
+1,All Population,1,Deaths,53604,Agusan Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,106.21153268302398,119.74931572466319,93.62950961667894
+1,All Population,1,Deaths,53585,Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,107.90177931664462,119.02939421497629,97.1593018270714
+1,All Population,1,Deaths,53568,Albay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,112.42277065532558,123.39069094711411,100.37158716695309
+1,All Population,1,Deaths,53601,Sultan Kudarat,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,65.46494807982329,76.5136780495602,55.58493253003128
+1,All Population,1,Deaths,53573,Antique,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,136.74810858115848,151.15339456800058,120.03078369540604
+1,All Population,1,Deaths,53542,Pangasinan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,80.2488320464825,89.24406233029625,70.89700291240649
+1,All Population,1,Deaths,53613,Lanao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,39.87711749103449,49.38910983391466,31.18545427915644
+1,All Population,1,Deaths,53558,Batangas,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,65.25502275958155,72.5072352419446,58.7129098032593
+1,All Population,1,Deaths,53584,Samar (Western Samar),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,130.91718543896252,152.1775287926641,108.8514014391544
+1,All Population,1,Deaths,53587,Zamboanga Sibugay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,87.40030919425055,99.02325883827865,76.30081254710275
+1,All Population,1,Deaths,53605,Agusan Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,87.39560150985871,104.95109372125827,74.0562205313742
+1,All Population,1,Deaths,53535,Benguet,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,36.51028531118979,43.292210893837705,30.21368422224985
+1,All Population,1,Deaths,53544,Cagayan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,88.86029462530894,100.92808822190472,77.17420642782814
+1,All Population,1,Deaths,53566,Camarines Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,83.40074502981949,93.69138844009977,73.67547930161636
+1,All Population,1,Deaths,53566,Camarines Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,81.55622982299481,91.63199141157003,72.47523754782392
+1,All Population,1,Deaths,53559,Quezon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2015,74.20128021956636,82.94430069192327,67.01063619860786
+1,All Population,1,Deaths,53553,Nueva Ecija,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,56.94679197511505,65.63254713877589,50.9930347206613
+1,All Population,1,Deaths,53561,Oriental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,75.7224426664007,85.62050854299156,67.2658271107324
+1,All Population,1,Deaths,53567,Sorsogon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,89.3020532825724,100.49860435213209,77.9444904335725
+1,All Population,1,Deaths,53543,Nueva Vizcaya,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,66.25722248587147,78.12144425858624,54.31123536384921
+1,All Population,1,Deaths,53585,Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,106.21007726350855,117.0616664769082,96.7379296541474
+1,All Population,1,Deaths,53554,Aurora,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,58.054596729377145,67.92229937676194,48.91151797617573
+1,All Population,1,Deaths,53535,Benguet,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,54.00165763417724,62.15994135056737,47.59466584538526
+1,All Population,1,Deaths,53545,Isabela,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,81.83176432496978,92.67372484367873,71.94031484709814
+1,All Population,1,Deaths,53588,Zamboanga Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,78.96683265391366,90.74292176438686,69.79122522838192
+1,All Population,1,Deaths,53536,Abra,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,105.93180024623145,123.4159075952717,86.7836558433768
+1,All Population,1,Deaths,53550,Tarlac,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,64.5301685748803,72.36107548983026,56.103290204860286
+1,All Population,1,Deaths,53567,Sorsogon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,88.65749436237996,98.61044925373781,78.41387548494735
+1,All Population,1,Deaths,53589,Zamboanga Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,62.829859377922695,71.8120941104327,55.98147520702252
+1,All Population,1,Deaths,53602,Cotabato (North Cotabato),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,92.21954050821154,110.72692448650214,78.10446218034693
+1,All Population,1,Deaths,53608,Dinagat Islands,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,87.42691379087451,104.6704313419274,72.57584886059286
+1,All Population,1,Deaths,53578,Cebu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,74.86493952568726,85.18252203517218,65.93348080751223
+1,All Population,1,Deaths,53568,Albay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,107.88290502956262,118.88422957271572,96.15426202889213
+1,All Population,1,Deaths,53574,Negros Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,126.81484122552153,141.07677934281656,112.45373266590155
+1,All Population,1,Deaths,53584,Samar (Western Samar),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,129.9779009450581,151.31429604617045,110.0336317236095
+1,All Population,1,Deaths,53577,Negros Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,82.03017465777155,95.31600432112145,72.12640777939947
+1,All Population,1,Deaths,53569,Masbate,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,111.1656623375225,129.39322832522961,98.08290874488044
+1,All Population,1,Deaths,53555,Rizal,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,66.89210343308554,72.99130491803805,58.78933461872214
+1,All Population,1,Deaths,53613,Lanao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,41.53405562211436,52.08269377718098,32.08328472214839
+1,All Population,1,Deaths,53603,Sarangani,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,61.27133053910826,74.21889875366375,51.41969358241383
+1,All Population,1,Deaths,53574,Negros Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,123.889560311485,135.6074945032804,108.27734045717212
+1,All Population,1,Deaths,53546,Quirino,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,83.00876695466083,101.00718743025138,68.90205266675719
+1,All Population,1,Deaths,53568,Albay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,100.6956911094367,111.6382377623882,89.23081477880754
+1,All Population,1,Deaths,53591,Bukidnon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,91.80098108307774,112.88366371714804,78.12117794679835
+1,All Population,1,Deaths,53537,Apayao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,82.77126581749248,98.30781048139059,69.29006347848318
+1,All Population,1,Deaths,53571,Capiz,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,103.14147686630622,118.18239605683792,88.7848802655377
+1,All Population,1,Deaths,53606,Surigao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,106.8728517950108,123.73875910490567,89.80070975451466
+1,All Population,1,Deaths,53553,Nueva Ecija,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,71.23247210807448,81.82639142717147,62.12587538014313
+1,All Population,1,Deaths,53609,Tawi-Tawi,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,52.425964199563204,69.10028959031916,36.53136420367058
+1,All Population,1,Deaths,16,Philippines,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,260.9650930116485,272.33338615388396,249.9673710212882
+1,All Population,1,Deaths,53608,Dinagat Islands,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,87.15644420509187,105.1183319423376,73.00922027656486
+1,All Population,1,Deaths,53570,Camarines Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,93.00055521999265,101.29514820920818,84.43551859958522
+1,All Population,1,Deaths,53590,Misamis Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,90.7546892660551,103.4150649546553,79.12166962730029
+1,All Population,1,Deaths,53562,Romblon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,103.96348929629274,120.09558305167607,88.38348241458783
+1,All Population,1,Deaths,53536,Abra,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,111.94388103686057,129.17851356208868,94.40428998426422
+1,All Population,1,Deaths,53585,Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,107.23075601167953,117.36881442761135,96.60690430252649
+1,All Population,1,Deaths,53610,Basilan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,42.535024944620346,53.05885739012371,33.05966878318841
+1,All Population,1,Deaths,53556,Cavite,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,54.669850385324665,60.052334133040695,49.19964244147464
+1,All Population,1,Deaths,53579,Bohol,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,90.01568466568878,101.98096087980566,79.83108202196547
+1,All Population,1,Deaths,53560,Occidental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,78.20747582120059,90.67490405964448,67.44302123288246
+1,All Population,1,Deaths,53578,Cebu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,73.38923611871427,83.16318569707664,64.87088803351875
+1,All Population,1,Deaths,53597,Davao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,74.5017558437774,85.36453605461625,66.24023204031539
+1,All Population,1,Deaths,53562,Romblon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,100.78710195703205,115.20435357286418,86.22634202110544
+1,All Population,1,Deaths,53607,Surigao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,80.43752111582147,92.13549694457365,68.10061431604407
+1,All Population,1,Deaths,53614,National Capital Region,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,79.16294028834963,88.51655222581152,69.44883413820298
+1,All Population,1,Deaths,53554,Aurora,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,73.6675160817063,83.95713328865845,64.71083194608471
+1,All Population,1,Deaths,53564,Marinduque,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,105.40319973841056,123.32689751635102,87.68226292046664
+1,All Population,1,Deaths,53555,Rizal,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,69.77459032092294,78.18173363275064,60.110802790432494
+1,All Population,1,Deaths,53592,Lanao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,70.97698313091125,79.24623935145028,62.449224650008745
+1,All Population,1,Deaths,53552,Bulacan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,300.07559361926127,320.78862706263715,284.313467184882
+1,All Population,1,Deaths,53572,Aklan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,114.44536650512987,130.22398485792107,98.97178846137518
+1,All Population,1,Deaths,53604,Agusan Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,112.2840150879224,123.67432222382823,99.94847984889071
+1,All Population,1,Deaths,53580,Siquijor,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,100.93515732867814,120.35658960951204,83.3410907657402
+1,All Population,1,Deaths,53579,Bohol,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,85.9446117883568,98.61405706942165,75.53417069088177
+1,All Population,1,Deaths,53605,Agusan Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,96.26483122926582,113.1310265555074,84.21022108685617
+1,All Population,1,Deaths,53561,Oriental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,73.71499625243858,83.36719264551763,64.57608282862667
+1,All Population,1,Deaths,53569,Masbate,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,229.37872251501994,251.71634506488033,212.0067020555643
+1,All Population,1,Deaths,53563,Palawan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,72.62984784963966,83.73657836916092,62.1663494114589
+1,All Population,1,Deaths,53586,Biliran,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,276.70484754605377,305.78325990352494,250.60141350246468
+1,All Population,1,Deaths,53609,Tawi-Tawi,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,53.83997163025319,70.43212434274076,38.55674926441189
+1,All Population,1,Deaths,53542,Pangasinan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,91.5330746210043,101.2299983436881,82.68020555903158
+1,All Population,1,Deaths,53556,Cavite,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,57.40867997240137,64.19277711692581,51.58106802747066
+1,All Population,1,Deaths,53557,Laguna,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,56.82286822330713,62.21673758469747,50.838367735297176
+1,All Population,1,Deaths,53601,Sultan Kudarat,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,71.31601350453828,84.16819482819521,61.918523624524525
+1,All Population,1,Deaths,53537,Apayao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,88.01632698374331,102.17418091788579,75.39545013611774
+1,All Population,1,Deaths,53570,Camarines Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,227.03116295224206,240.1575316415457,214.65934238360907
+1,All Population,1,Deaths,53604,Agusan Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,256.4010607472887,272.3839857551746,240.86096893615664
+1,All Population,1,Deaths,53571,Capiz,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,105.28374785841265,117.68155088647018,91.51673886870644
+1,All Population,1,Deaths,53573,Antique,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,127.98657895391965,143.4382149504128,110.96580405301982
+1,All Population,1,Deaths,53595,Davao Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,121.00281189669415,144.09996010244473,100.35281844193258
+1,All Population,1,Deaths,53606,Surigao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,117.15796562315529,133.64189352768915,103.4796203294141
+1,All Population,1,Deaths,53543,Nueva Vizcaya,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,75.66923815596881,86.9470948462285,66.27784841534803
+1,All Population,1,Deaths,53596,Davao de Oro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,87.5877235764203,101.98907598516881,74.29049048854445
+1,All Population,1,Deaths,53577,Negros Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,84.48859110945642,95.64548232541968,72.6501692210313
+1,All Population,1,Deaths,53591,Bukidnon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,85.6747700735272,104.72161120136238,73.1789447133274
+1,All Population,1,Deaths,53595,Davao Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,121.31322359168776,143.19700145680062,103.85005222835069
+1,All Population,1,Deaths,53587,Zamboanga Sibugay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,214.63528349173527,230.70770999770122,199.20842417600818
+1,All Population,1,Deaths,53610,Basilan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,41.457687469929766,51.3455136408448,32.00153724092707
+1,All Population,1,Deaths,53602,Cotabato (North Cotabato),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,93.11624746637494,111.05765187033855,79.59691425405049
+1,All Population,1,Deaths,53540,Ilocos Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,99.90684219707303,114.02709157318434,84.28461115408547
+1,All Population,1,Deaths,53574,Negros Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,119.56858569970692,131.06877167407578,105.01138929576125
+1,All Population,1,Deaths,53595,Davao Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,124.47268999465284,148.1394449113564,103.8655008517783
+1,All Population,1,Deaths,53575,Iloilo,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,127.5907011016972,141.7419865647732,112.06305060228777
+1,All Population,1,Deaths,53558,Batangas,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,62.96763903469219,69.60506930486982,57.317334775433345
+1,All Population,1,Deaths,53557,Laguna,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,55.70142385694689,62.554273717116445,49.51180995931354
+1,All Population,1,Deaths,53553,Nueva Ecija,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,310.63351918851936,341.0142229329407,292.36334753920414
+1,All Population,1,Deaths,53576,Guimaras,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,86.24012927822503,104.3806949019678,69.99060194817719
+1,All Population,1,Deaths,53596,Davao de Oro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,96.29638698324051,109.91354642918952,82.91775877985154
+1,All Population,1,Deaths,53589,Zamboanga Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,78.9281933213703,87.13039837761981,72.49873474743426
+1,All Population,1,Deaths,53572,Aklan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,115.46992394511618,129.86836451453513,100.35370078238009
+1,All Population,1,Deaths,53578,Cebu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,101.8332342947623,111.35471642848515,91.6727541419398
+1,All Population,1,Deaths,53540,Ilocos Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,102.98765452385331,117.75056806887403,87.93051986289929
+1,All Population,1,Deaths,53554,Aurora,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,262.8508681890324,283.2261654330117,243.96831037395023
+1,All Population,1,Deaths,53603,Sarangani,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,60.94394023085553,74.18022568865702,51.42365117593745
+1,All Population,1,Deaths,53560,Occidental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,85.93214447365649,96.54932125478382,76.62630785374164
+1,All Population,1,Deaths,53592,Lanao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,67.72956732734303,75.8876344845753,59.187433992996084
+1,All Population,1,Deaths,53541,Ilocos Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,92.36465409539015,105.12163163847322,80.22020758124815
+1,All Population,1,Deaths,53541,Ilocos Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,94.33958308090398,107.90382367199517,81.04191283406975
+1,All Population,1,Deaths,53555,Rizal,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,100.81295759751788,108.46529245327862,93.24346675300792
+1,All Population,1,Deaths,53605,Agusan Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,254.10224190025986,274.44477828698757,235.49663729420402
+1,All Population,1,Deaths,53579,Bohol,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,89.32519580858845,100.2521393107875,77.34591310943807
+1,All Population,1,Deaths,53559,Quezon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,72.14027144675441,80.03227003973271,65.75817934194087
+1,All Population,1,Deaths,53596,Davao de Oro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,88.15262318116014,101.17005678953743,75.13567632177612
+1,All Population,1,Deaths,53611,Sulu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,67.15702735250268,90.85194045947594,50.641022658448044
+1,All Population,1,Deaths,53561,Oriental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,84.05479767300682,93.46864037734083,76.17732229314781
+1,All Population,1,Deaths,53588,Zamboanga Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,229.66504808018826,245.94233204030255,214.26182982045174
+1,All Population,1,Deaths,53593,Misamis Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,71.84073034657698,82.43958314182949,63.17237358272381
+1,All Population,1,Deaths,53558,Batangas,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,64.80338483782133,71.25967030272471,58.262239157539504
+1,All Population,1,Deaths,53566,Camarines Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,78.98789007941959,87.96953239305013,69.83913536448036
+1,All Population,1,Deaths,53556,Cavite,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,94.62580644097696,100.86192754245505,88.17520077741295
+1,All Population,1,Deaths,53538,Kalinga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,75.70331306901456,90.90118239607806,62.5856034819904
+1,All Population,1,Deaths,53547,Batanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,122.7451940786832,147.4873223805748,100.15638675621116
+1,All Population,1,Deaths,53608,Dinagat Islands,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,85.44569967742284,101.74940794297437,70.99159555369079
+1,All Population,1,Deaths,53594,Camiguin,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,121.36414287691848,144.40318063634564,100.50950683023623
+1,All Population,1,Deaths,53550,Tarlac,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,62.65470189742543,70.97278270581097,53.989329565729115
+1,All Population,1,Deaths,53567,Sorsogon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,87.7097113550248,98.2423923143367,76.83463342432657
+1,All Population,1,Deaths,53559,Quezon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,73.67092587550205,81.1211071002145,66.57686597448395
+1,All Population,1,Deaths,53533,Mountain Province,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,81.08805202810575,101.42613083548105,66.57173620358748
+1,All Population,1,Deaths,53536,Abra,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,258.18909706696996,281.9831832449095,236.2338667859358
+1,All Population,1,Deaths,53613,Lanao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,41.61770792460847,51.91697759165287,31.864469185996388
+1,All Population,1,Deaths,53584,Samar (Western Samar),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,128.63244746372055,149.33430246974137,109.91822182011958
+1,All Population,1,Deaths,53539,La Union,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,87.32439639745571,97.99106337647648,75.22309756658338
+1,All Population,1,Deaths,53568,Albay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,92.82545938191973,103.6379391371966,80.73923289905791
+1,All Population,1,Deaths,53558,Batangas,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,59.71167535896617,65.6473900127359,53.39303575115657
+1,All Population,1,Deaths,53590,Misamis Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,100.87552320925307,113.41371899804535,89.12175747704272
+1,All Population,1,Deaths,53609,Tawi-Tawi,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,58.020637046221275,74.63585150541374,43.584863559731694
+1,All Population,1,Deaths,53607,Surigao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,91.26223074621463,101.44583625605883,79.899237330912
+1,All Population,1,Deaths,53562,Romblon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,96.79445055422684,111.07171321592482,81.76139322414747
+1,All Population,1,Deaths,53557,Laguna,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,87.7608552141634,94.74628230801251,80.91485652360704
+1,All Population,1,Deaths,53542,Pangasinan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,315.4954003615175,335.5576071108409,298.6682474143155
+1,All Population,1,Deaths,53610,Basilan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,40.782874280349766,49.96383116313344,32.55507714070298
+1,All Population,1,Deaths,53571,Capiz,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,238.60426990119686,257.2845362137619,219.92487508267007
+1,All Population,1,Deaths,53573,Antique,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,128.49245810245844,144.00726603800183,114.1580732295864
+1,All Population,1,Deaths,53543,Nueva Vizcaya,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,253.71199448492823,267.85699692770226,238.3893786812669
+1,All Population,1,Deaths,53544,Cagayan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,84.72641914271287,96.3878382236468,73.3226037958927
+1,All Population,1,Deaths,53538,Kalinga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,85.24222404885643,99.28000308060886,73.55892311610084
+1,All Population,1,Deaths,53606,Surigao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,301.1165248116044,324.6399139750614,279.5983976800274
+1,All Population,1,Deaths,53614,National Capital Region,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,75.14707857062376,85.10180764558802,65.85552167937314
+1,All Population,1,Deaths,53537,Apayao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,235.7376347940207,259.62595954203755,212.62927957448582
+1,All Population,1,Deaths,53538,Kalinga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,224.0921677123642,242.4612073045472,205.4408863326427
+1,All Population,1,Deaths,53602,Cotabato (North Cotabato),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,93.92042880462472,111.27770540555497,80.22645955511848
+1,All Population,1,Deaths,53574,Negros Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,126.55132274489883,138.14500509743667,113.12971779409105
+1,All Population,1,Deaths,53591,Bukidnon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,87.97914859415152,104.1991941015778,77.63405352949117
+1,All Population,1,Deaths,53555,Rizal,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,270.34198985870944,282.5138479606829,257.996202207234
+1,All Population,1,Deaths,53613,Lanao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,47.977415379761126,58.248488357377305,38.544634948773094
+1,All Population,1,Deaths,53542,Pangasinan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,122.65314104208237,135.1272845014186,111.94718921083695
+1,All Population,1,Deaths,53539,La Union,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,319.02827594808224,338.38997281365926,298.8155901274734
+1,All Population,1,Deaths,53539,La Union,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,105.47722155000217,116.83184769834209,93.60097682606111
+1,All Population,1,Deaths,53573,Antique,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,273.5136414975637,294.375252570345,252.187204012309
+1,All Population,1,Deaths,53592,Lanao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,76.38128716463275,84.31599076415516,68.490225462266
+1,All Population,1,Deaths,53605,Agusan Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,126.70939176946933,144.28321358553222,112.42927296550572
+1,All Population,1,Deaths,53589,Zamboanga Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,253.2453187305783,267.6736549460077,241.45906491733743
+1,All Population,1,Deaths,53562,Romblon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,102.77915133174616,114.36497440412158,89.552682831919
+1,All Population,1,Deaths,53597,Davao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,71.862120328527,82.15042637947924,63.45670428591384
+1,All Population,1,Deaths,53585,Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,103.29444586977066,114.31458918808352,93.56807138481668
+1,All Population,1,Deaths,53563,Palawan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,70.17468550325906,80.77171725080812,58.58099848291658
+1,All Population,1,Deaths,53545,Isabela,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,80.17062020165785,91.50769272184915,70.6417085657517
+1,All Population,1,Deaths,53611,Sulu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,66.09646103830187,88.30132196990772,49.34050703344871
+1,All Population,1,Deaths,53556,Cavite,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,281.66204987409,294.40371256668243,267.3692886300885
+1,All Population,1,Deaths,53608,Dinagat Islands,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,100.36072589195268,116.23762384282456,86.20066731745312
+1,All Population,1,Deaths,53598,Davao Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,92.72438092637861,122.15290064421451,79.42893174901955
+1,All Population,1,Deaths,53572,Aklan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,242.60319822427525,261.0305994928126,223.0248779200333
+1,All Population,1,Deaths,53590,Misamis Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,291.98973719938505,310.7601709823061,269.636536842236
+1,All Population,1,Deaths,53591,Bukidnon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,243.53592046490704,262.28934797325905,226.84805956331894
+1,All Population,1,Deaths,53607,Surigao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,233.65120278689943,248.11429374051735,216.64504007749048
+1,All Population,1,Deaths,53564,Marinduque,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,100.76992930267727,116.753530784847,83.59083013386896
+1,All Population,1,Deaths,53574,Negros Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,306.7614427258367,323.5444787176096,287.9834321187753
+1,All Population,1,Deaths,53608,Dinagat Islands,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,286.6368992390569,312.0983156603151,262.6916760665879
+1,All Population,1,Deaths,53609,Tawi-Tawi,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,62.44659692193177,79.43277700215913,49.680795303839524
+1,All Population,1,Deaths,53588,Zamboanga Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,108.19413962543278,122.03224634051456,95.80730009495457
+1,All Population,1,Deaths,53592,Lanao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,211.06853136300566,221.83725385652468,199.11436174894988
+1,All Population,1,Deaths,53555,Rizal,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,102.43626000767236,112.02438477382263,94.55630528727946
+1,All Population,1,Deaths,53557,Laguna,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,290.40905894844866,306.9722901692778,277.18368081881266
+1,All Population,1,Deaths,53609,Tawi-Tawi,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,119.64380362437734,138.45955313085406,102.71549616145788
+1,All Population,1,Deaths,53582,Eastern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,150.46442141934017,178.06678611081566,125.32145442288058
+1,All Population,1,Deaths,53538,Kalinga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,106.63548523072944,120.04581258927354,92.60369117167384
+1,All Population,1,Deaths,53595,Davao Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,272.6959664394679,299.56401098162985,249.73342206702958
+1,All Population,1,Deaths,53610,Basilan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,47.63744536062675,56.79788946901301,39.8434756567649
+1,All Population,1,Deaths,53562,Romblon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,239.66438897824204,258.75818191427106,218.78052614327618
+1,All Population,1,Deaths,53543,Nueva Vizcaya,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,107.27555978953967,119.41229884624902,95.5026381149699
+1,All Population,1,Deaths,53565,Catanduanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,111.7486560778465,125.71733482890635,95.71874845841508
+1,All Population,1,Deaths,53556,Cavite,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,94.6485030573409,101.73678530832935,86.99196305546761
+1,All Population,1,Deaths,53575,Iloilo,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,123.64396243738175,137.33767484727917,109.46387435683684
+1,All Population,1,Deaths,53575,Iloilo,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,124.90878635524169,139.65111565664168,109.86360629751113
+1,All Population,1,Deaths,53614,National Capital Region,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,147.2187761761073,157.03499673608997,137.42033074813656
+1,All Population,1,Deaths,53563,Palawan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,176.42287883338884,187.95090624716127,164.1683207255229
+1,All Population,1,Deaths,53603,Sarangani,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,60.697227945266,72.33084547688829,51.023655738515586
+1,All Population,1,Deaths,53612,Maguindanao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,59.104470014884804,76.3565487389646,44.635387961676386
+1,All Population,1,Deaths,53563,Palawan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,72.76950332236748,82.25600925724461,64.33370238054594
+1,All Population,1,Deaths,53544,Cagayan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,92.31034313679469,102.65167263279102,81.62684735976761
+1,All Population,1,Deaths,53596,Davao de Oro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,226.30176934603278,258.62455037597965,196.04181886248963
+1,All Population,1,Deaths,53599,Davao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,68.68093118451107,83.41325323919145,59.51349038703799
+1,All Population,1,Deaths,53559,Quezon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,70.9258727800236,78.78763982479028,63.608840576074456
+1,All Population,1,Deaths,53576,Guimaras,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,87.51541638222996,104.93995618100637,70.70665509591116
+1,All Population,1,Deaths,53546,Quirino,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,80.64180266141715,97.40016866279912,65.95495855254215
+1,All Population,1,Deaths,53545,Isabela,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,86.77416691380208,96.25616474030176,76.77916188832458
+1,All Population,1,Deaths,53537,Apayao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,118.7848133401941,134.52437662414826,103.71457192075084
+1,All Population,1,Deaths,53580,Siquijor,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,100.22874292100799,117.66504598803326,82.06716651813319
+1,All Population,1,Deaths,53571,Capiz,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,133.85038809606317,150.33090451524012,119.17320652046075
+1,All Population,1,Deaths,53580,Siquijor,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,117.5226969885776,136.90277953131988,99.15131968839997
+1,All Population,1,Deaths,53610,Basilan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,118.3778853702762,135.84557798701542,106.97497740810064
+1,All Population,1,Deaths,53593,Misamis Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,76.12655704700371,87.1624566708454,66.98747040686415
+1,All Population,1,Deaths,53554,Aurora,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,106.63481112374068,118.53969061932146,96.08314613785332
+1,All Population,1,Deaths,53560,Occidental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,209.94846586128995,224.77443079301634,195.3267639287081
+1,All Population,1,Deaths,53577,Negros Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,239.56409184752394,254.1293436514714,223.5605770810286
+1,All Population,1,Deaths,53557,Laguna,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,95.60326248035739,104.58290837047359,87.08389515893451
+1,All Population,1,Deaths,53533,Mountain Province,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,233.8883335905485,256.8243858261267,210.9886367731243
+1,All Population,1,Deaths,53585,Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,105.95798163738654,116.29184935579134,95.40918812872303
+1,All Population,1,Deaths,53606,Surigao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,154.6111608376953,175.84649318906918,136.70928581121376
+1,All Population,1,Deaths,53593,Misamis Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,78.80610552111139,89.75190875341532,70.7006036507241
+1,All Population,1,Deaths,53581,Southern Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,111.51695134742931,124.88287925401282,98.36190107504791
+1,All Population,1,Deaths,53546,Quirino,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,87.59096100014374,104.9508269929474,74.34938867377682
+1,All Population,1,Deaths,53568,Albay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,90.51473302876686,100.5964866612021,80.4477216443778
+1,All Population,1,Deaths,53602,Cotabato (North Cotabato),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,101.36519596194059,119.2838732136866,88.22867412179046
+1,All Population,1,Deaths,53581,Southern Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,118.8679768328654,133.96073655139756,104.33416310392501
+1,All Population,1,Deaths,53539,La Union,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,133.58528941948074,148.3527157297955,119.81341434645742
+1,All Population,1,Deaths,53613,Lanao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,112.16151722951315,127.4353018023664,99.16086984478817
+1,All Population,1,Deaths,53577,Negros Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,125.18357346397596,141.5347671750576,109.51012792198577
+1,All Population,1,Deaths,53572,Aklan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,145.09113673690624,162.2854540982075,129.35508497208204
+1,All Population,1,Deaths,53589,Zamboanga Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,103.04880021733752,112.44770042044406,94.9065249688405
+1,All Population,1,Deaths,53564,Marinduque,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,114.38911359532622,128.9217159863767,99.7707938760077
+1,All Population,1,Deaths,53573,Antique,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,168.06442936785243,186.91893060502863,149.45027621141182
+1,All Population,1,Deaths,53611,Sulu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,65.4483573814557,86.82295854774414,49.28435067612508
+1,All Population,1,Deaths,53576,Guimaras,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,87.44819909263539,103.84350648438543,71.34486984777399
+1,All Population,1,Deaths,53547,Batanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,116.96252740527227,140.85697039481897,92.05282396779137
+1,All Population,1,Deaths,53594,Camiguin,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2017,121.2100287225511,143.64283448913747,102.27027724633803
+1,All Population,1,Deaths,53582,Eastern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,329.9166024355311,365.19264380870754,304.627300725532
+1,All Population,1,Deaths,53582,Eastern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,158.29219335796427,184.3702022701154,136.7796597670345
+1,All Population,1,Deaths,53540,Ilocos Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,97.43828456831385,112.46072887953137,80.61051948417627
+1,All Population,1,Deaths,53594,Camiguin,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2016,118.21144403603104,138.21136404779963,98.63941961368826
+1,All Population,1,Deaths,53547,Batanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,381.1972324558448,431.51751125546895,339.94779476379324
+1,All Population,1,Deaths,53603,Sarangani,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,69.57624776576897,82.75988307474834,60.678979703999495
+1,All Population,1,Deaths,53597,Davao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,90.56196614954925,100.68693316973656,81.17164429830636
+1,All Population,1,Deaths,53578,Cebu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,245.60036959648772,259.1095997216479,233.15656743955728
+1,All Population,1,Deaths,53583,Northern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,200.49419493615574,217.37449262569132,184.9121186633892
+1,All Population,1,Deaths,53591,Bukidnon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,120.54772090042543,140.6170927916048,106.22217826732243
+1,All Population,1,Deaths,53600,South Cotabato,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,84.28274280505931,93.32974001910613,76.12899675980529
+1,All Population,1,Deaths,53548,Bataan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,62.47177820410439,71.03134826393288,52.747141437584304
+1,All Population,1,Deaths,53614,National Capital Region,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,293.56988533745897,307.3277036123566,280.27194339247836
+1,All Population,1,Deaths,53565,Catanduanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,113.43756173758668,129.4423952441402,100.72899108710772
+1,All Population,1,Deaths,53607,Surigao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,112.7444596046381,123.93498147575076,100.92879903878763
+1,All Population,1,Deaths,53574,Negros Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,149.08616714578332,162.69388189667163,136.2456459813892
+1,All Population,1,Deaths,53608,Dinagat Islands,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,138.99697408179887,155.58614141899542,123.06760183729659
+1,All Population,1,Deaths,53541,Ilocos Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,91.24478451947613,105.87096600819677,77.40588210163165
+1,All Population,1,Deaths,53583,Northern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,95.12301126474122,106.86801332626135,83.74435293210786
+1,All Population,1,Deaths,53578,Cebu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,92.3947393359744,101.75931915304287,84.1463559066953
+1,All Population,1,Deaths,53561,Oriental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,234.17116187655785,247.08664697799588,221.16153830423593
+1,All Population,1,Deaths,53590,Misamis Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,136.07958033947463,151.8534298167011,121.89303388833576
+1,All Population,1,Deaths,53603,Sarangani,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,193.4996452938245,214.45454473591275,178.72194255368717
+1,All Population,1,Deaths,53534,Ifugao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,190.7172438414327,207.0924188269906,174.92716277907493
+1,All Population,1,Deaths,53560,Occidental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,109.49975493936071,122.3319399132606,96.4120190674562
+1,All Population,1,Deaths,53612,Maguindanao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2018,56.99157426094686,72.23221498219816,42.69093175988534
+1,All Population,1,Deaths,53598,Davao Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,106.87321380682883,138.77044503153732,91.87500446742338
+1,All Population,1,Deaths,53544,Cagayan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,302.02074470025775,316.8340552537318,282.0202088297775
+1,All Population,1,Deaths,53548,Bataan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,286.9111615753032,307.34977610004404,270.11552577212564
+1,All Population,1,Deaths,53609,Tawi-Tawi,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,65.73491577199316,79.34340807301857,54.194112227096994
+1,All Population,1,Deaths,53592,Lanao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,93.39601538321392,102.14851109761754,84.61099741320508
+1,All Population,1,Deaths,53575,Iloilo,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,121.91239861162877,136.61224019419015,108.85353722993028
+1,All Population,1,Deaths,53593,Misamis Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,68.04533251823756,78.51127686978691,60.11338389335463
+1,All Population,1,Deaths,53558,Batangas,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,57.97177588588633,64.45072854728748,51.73077288352283
+1,All Population,1,Deaths,53611,Sulu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,64.0348994853169,84.37232193721397,48.81576436305081
+1,All Population,1,Deaths,53576,Guimaras,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,86.3631114753331,103.15285437785828,69.05745770503592
+1,All Population,1,Deaths,53579,Bohol,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,226.59428254281775,243.52881334344443,207.78263860105304
+1,All Population,1,Deaths,53558,Batangas,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,80.45498423861515,88.45163204920216,72.82601634331711
+1,All Population,1,Deaths,53612,Maguindanao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,53.58473839349973,68.63292322472448,40.862645559247845
+1,All Population,1,Deaths,53540,Ilocos Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,278.78426957829635,300.9780853887341,257.0376545810374
+1,All Population,1,Deaths,53599,Davao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,77.18302703026926,91.2414857540143,68.64256640987598
+1,All Population,1,Deaths,53579,Bohol,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,123.85069599442271,137.3158559563379,110.05049711978123
+1,All Population,1,Deaths,53547,Batanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,134.11397655578241,156.64501230171842,114.04282649476647
+1,All Population,1,Deaths,53610,Basilan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,52.82761272523991,62.38942780537154,45.388051564517696
+1,All Population,1,Deaths,53594,Camiguin,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,116.78243534967287,136.40074420667597,97.99200256857254
+1,All Population,1,Deaths,16,Philippines,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,111.14630691585921,119.07248879742427,103.77047393733895
+1,All Population,1,Deaths,53561,Oriental Mindoro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,108.77913974374975,122.83541605354617,98.16665812454018
+1,All Population,1,Deaths,53564,Marinduque,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,333.0671536150743,360.8202199029067,303.4522126606445
+1,All Population,1,Deaths,53559,Quezon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,69.64475777669585,77.37704158634209,62.82309791683651
+1,All Population,1,Deaths,53551,Pampanga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,270.18519776074277,289.65569078025067,256.4752652376083
+1,All Population,1,Deaths,53597,Davao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,248.92855392676742,266.50185258602147,235.47746830022044
+1,All Population,1,Deaths,53545,Isabela,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,293.3806577748116,309.89819180001194,278.6545367125523
+1,All Population,1,Deaths,53593,Misamis Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,79.21154484729648,88.82379438334814,71.08588678264486
+1,All Population,1,Deaths,53580,Siquijor,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,364.5573016603256,393.6667822748011,335.0317482296973
+1,All Population,1,Deaths,53575,Iloilo,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,280.47931626821105,301.1774697204823,260.07121073080674
+1,All Population,1,Deaths,53541,Ilocos Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,291.212218518059,313.4991078777028,266.5703095878746
+1,All Population,1,Deaths,53598,Davao Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,264.5446470549471,312.88322722372,239.02619473460305
+1,All Population,1,Deaths,53533,Mountain Province,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,105.70558965382496,123.82145548825599,88.17158675261831
+1,All Population,1,Deaths,53613,Lanao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,60.834930656387584,70.84563724527221,51.16781265462079
+1,All Population,1,Deaths,53564,Marinduque,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,150.3691422620698,167.61198580682913,132.03608555330646
+1,All Population,1,Deaths,53595,Davao Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,153.04624534197825,177.9670930458649,132.16775501302493
+1,All Population,1,Deaths,53548,Bataan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,81.83890971880842,92.81595852933906,73.51430534755221
+1,All Population,1,Deaths,53576,Guimaras,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,267.5821467855875,290.26200971515425,242.8250990607888
+1,All Population,1,Deaths,53559,Quezon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,87.44232542956347,94.82019250777763,79.41337664652858
+1,All Population,1,Deaths,53540,Ilocos Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,104.05475068780306,118.03208158776492,89.06111179434997
+1,All Population,1,Deaths,53565,Catanduanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,246.4958778729514,266.2646485368693,227.64302702989048
+1,All Population,1,Deaths,53600,South Cotabato,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,242.83537084952945,257.0341270568682,229.91956459236684
+1,All Population,1,Deaths,53599,Davao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,231.15873892893538,248.6942162033622,216.79588135091913
+1,All Population,1,Deaths,53581,Southern Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,291.1151114648281,311.63078273016765,269.11915666619944
+1,All Population,1,Deaths,53562,Romblon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,126.20270415607071,140.85161460299216,109.0266434037815
+1,All Population,1,Deaths,53565,Catanduanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,135.3541225779722,151.03660185043245,118.63207450561818
+1,All Population,1,Deaths,53534,Ifugao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,90.10757618345065,103.65368935952384,79.53492387660444
+1,All Population,1,Deaths,53601,Sultan Kudarat,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,182.0913508946978,199.72310664274204,169.4362627625443
+1,All Population,1,Deaths,53541,Ilocos Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,100.45491632155922,114.70504364310911,86.30017176398873
+1,All Population,1,Deaths,53544,Cagayan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,128.643286784433,142.65520431186926,115.90601616327353
+1,All Population,1,Deaths,53611,Sulu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,128.49195298562927,152.91309595319152,108.98597464425816
+1,All Population,1,Deaths,53549,Zambales,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2019,74.60932264551275,84.59229375659159,65.3583042761512
+1,All Population,1,Deaths,53546,Quirino,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,240.17512432757943,263.2663501612575,222.07067532646576
+1,All Population,1,Deaths,53558,Batangas,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,294.09762600778095,312.0659029547983,278.0028548833155
+1,All Population,1,Deaths,53596,Davao de Oro,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,120.49040839329349,138.17531147439504,103.76958240279032
+1,All Population,1,Deaths,53547,Batanes,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,174.46975631447296,200.24731753806674,151.84522883459192
+1,All Population,1,Deaths,53563,Palawan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,96.31593107384018,107.67523859724479,85.98946628022979
+1,All Population,1,Deaths,53597,Davao Del Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,76.09126317991532,84.47442905178006,67.88758563562227
+1,All Population,1,Deaths,53582,Eastern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,194.80523147443293,223.08541827962387,168.6163061021409
+1,All Population,1,Deaths,53545,Isabela,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,119.67580207693632,132.39731875631813,109.14026771475108
+1,All Population,1,Deaths,53559,Quezon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,266.9322153002501,280.84482652336936,252.83511763671606
+1,All Population,1,Deaths,53535,Benguet,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,225.69245896952654,237.95922168620402,213.04216475171162
+1,All Population,1,Deaths,53575,Iloilo,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,126.89911645933833,142.43622864461597,112.49070283574221
+1,All Population,1,Deaths,53594,Camiguin,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,137.4442456421976,161.41588238574914,118.24383442635299
+1,All Population,1,Deaths,53593,Misamis Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,251.33460056171202,263.99187077639584,238.7704227500806
+1,All Population,1,Deaths,53551,Pampanga,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,80.60960204691126,88.79432178361373,73.60955169658475
+1,All Population,1,Deaths,53614,National Capital Region,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,115.67790880056445,126.59674699276168,105.3139673571858
+1,All Population,1,Deaths,53594,Camiguin,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,478.4381191558689,519.4377921732088,438.2032673116462
+1,All Population,1,Deaths,53583,Northern Samar,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,114.04901433905731,128.60554434553833,99.54657919740747
+1,All Population,1,Deaths,53548,Bataan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,106.76319419615515,118.60612415836643,97.54597440886961
+1,All Population,1,Deaths,53540,Ilocos Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,145.3286661090662,161.37353450928063,128.86121093031787
+1,All Population,1,Deaths,53600,South Cotabato,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,98.23711695423384,107.06964315318208,88.17985003339864
+1,All Population,1,Deaths,53546,Quirino,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,121.68727913616569,140.87919385298184,105.59343960175386
+1,All Population,1,Deaths,53558,Batangas,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,97.55785375045994,108.16538163763852,87.03142566207794
+1,All Population,1,Deaths,53576,Guimaras,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,98.65046939879247,114.13956828312566,82.68874380387975
+1,All Population,1,Deaths,53612,Maguindanao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,120.09642182839258,141.9854283826016,102.35882843470652
+1,All Population,1,Deaths,53611,Sulu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,68.42613711263711,88.25563438936186,53.775405222173475
+1,All Population,1,Deaths,53598,Davao Occidental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,140.80069359406014,172.82762415324717,123.66901338147973
+1,All Population,1,Deaths,53580,Siquijor,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,165.6855067077765,188.08342887843222,144.47837394567387
+1,All Population,1,Deaths,53559,Quezon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,97.03631216334652,106.73472591232846,88.46700249977667
+1,All Population,1,Deaths,53541,Ilocos Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,137.72814805163122,153.3197347845281,122.47208809721057
+1,All Population,1,Deaths,53612,Maguindanao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,56.85584644374035,72.48211837775007,44.57851090064897
+1,All Population,1,Deaths,53601,Sultan Kudarat,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,100.75441816683609,114.97543258297334,89.39303905549937
+1,All Population,1,Deaths,53611,Sulu,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,75.5047419085264,95.93235605838635,61.26638406861364
+1,All Population,1,Deaths,53535,Benguet,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,71.59824832735882,79.58295722787172,64.99838991169622
+1,All Population,1,Deaths,53593,Misamis Oriental,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,89.53850211420314,98.57917269846888,81.19434078431273
+1,All Population,1,Deaths,53549,Zambales,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,272.0367034003462,287.29446929734485,255.57376926877686
+1,All Population,1,Deaths,53599,Davao Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,105.21523770491385,121.0682693648699,94.2075558020652
+1,All Population,1,Deaths,53612,Maguindanao,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,63.79714241357638,78.64362198769444,51.58183829227338
+1,All Population,1,Deaths,53586,Biliran,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,152.09895794340096,174.82447071777764,133.3589080751233
+1,All Population,1,Deaths,53552,Bulacan,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,102.27191500092042,113.25930900970562,93.86692763943186
+1,All Population,1,Deaths,53581,Southern Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,161.31391382647823,178.00614592888314,145.92804241540978
+1,All Population,1,Deaths,53584,Samar (Western Samar),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,276.2915347446301,302.30701396351924,252.2475100804721
+1,All Population,1,Deaths,53549,Zambales,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,83.85741508811921,92.58032797603252,75.07253522358576
+1,All Population,1,Deaths,53550,Tarlac,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,296.14343521371245,319.69178384235744,277.20862271200946
+1,All Population,1,Deaths,53566,Camarines Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,207.47350853805207,220.09644261052333,194.39469230598525
+1,All Population,1,Deaths,53594,Camiguin,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,188.8408134859252,215.15436497629142,165.97908338447417
+1,All Population,1,Deaths,53575,Iloilo,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,154.05934720975716,171.46625728162996,139.36355987183043
+1,All Population,1,Deaths,53585,Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,230.85818348396714,245.9064317495481,215.3963805064937
+1,All Population,1,Deaths,53569,Masbate,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,133.4202172766475,154.1860038075002,115.78077451005933
+1,All Population,1,Deaths,53536,Abra,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,136.24464388770622,154.86718790387056,118.34041195918613
+1,All Population,1,Deaths,53576,Guimaras,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,137.99934677930702,157.16044119272655,118.5498016421228
+1,All Population,1,Deaths,53567,Sorsogon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,238.27840971089196,254.1729431037333,222.17172587893535
+1,All Population,1,Deaths,53550,Tarlac,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,80.1128981168303,88.49304822298998,71.37350078933105
+1,All Population,1,Deaths,53587,Zamboanga Sibugay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,109.95461764529686,123.21160128452237,96.07873204155118
+1,All Population,1,Deaths,53553,Nueva Ecija,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,99.99338144787049,113.6747631502579,90.18941124886506
+1,All Population,1,Deaths,53584,Samar (Western Samar),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,132.7508884455161,153.0485218257089,117.33566422711633
+1,All Population,1,Deaths,53570,Camarines Sur,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,117.70630451861085,128.8677496757171,107.55212388857647
+1,All Population,1,Deaths,53568,Albay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,225.45480795163672,243.2316722223673,210.4772153550686
+1,All Population,1,Deaths,53566,Camarines Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,86.1138849997132,94.88135962194069,77.58059272081718
+1,All Population,1,Deaths,53602,Cotabato (North Cotabato),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2021,271.65451996250215,301.3770985058076,250.57083188318313
+1,All Population,1,Deaths,53566,Camarines Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,105.75252383378273,117.20288936791698,95.35736407818949
+1,All Population,1,Deaths,53567,Sorsogon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,118.55587122250523,132.5157163466479,105.43589867316719
+1,All Population,1,Deaths,53567,Sorsogon,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2020,95.2913527298931,105.34683683023525,84.36812057405288
+1,All Population,1,Deaths,53549,Zambales,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,105.30684999748658,115.58100771479774,95.29983527407086
+1,All Population,1,Deaths,53568,Albay,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,129.2801303168351,142.5393631742713,115.85482222105212
+1,All Population,1,Deaths,53604,Agusan Del Norte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,122.83378486407774,135.69064392435507,112.74944780825334
+1,All Population,1,Deaths,53602,Cotabato (North Cotabato),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,141.46596468220008,164.58292229246646,125.58053543467663
+1,All Population,1,Deaths,53550,Tarlac,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,114.46133860914358,126.57555181470929,103.1776128846938
+1,All Population,1,Deaths,53584,Samar (Western Samar),3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,177.56190030531366,203.2272303264425,155.02913044502873
+1,All Population,1,Deaths,53603,Sarangani,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,94.06620605350078,109.69223469233908,81.59951230729855
+1,All Population,1,Deaths,53585,Leyte,3,Both,22,All ages,956,Respiratory infections and tuberculosis,3,Rate,2022,140.03833827305405,152.25549959647404,129.08501424844482

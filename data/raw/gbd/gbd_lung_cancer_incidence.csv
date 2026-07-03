@@ -1,0 +1,831 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,11.03659486061,12.80748305829,9.21182353179
+1,All Population,6,Incidence,53610,Basilan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,2.10257877202,3.37612677712,1.4929092184500001
+1,All Population,6,Incidence,53611,Sulu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,2.25486233057,3.7182093646500003,1.55583197255
+1,All Population,6,Incidence,16,Philippines,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.94515080196,11.14968728337,8.46034210516
+1,All Population,6,Incidence,53534,Ifugao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,5.43013242176,8.219166512280001,4.0669558085799995
+1,All Population,6,Incidence,53557,Laguna,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.949426330749999,11.4346385458,8.47143021236
+1,All Population,6,Incidence,53544,Cagayan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,12.82484549945,14.920056609709999,9.820108640980001
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,4.66421882826,7.208216865730001,3.4665750472200005
+1,All Population,6,Incidence,53571,Capiz,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,11.43799377667,13.58659574316,7.93549190209
+1,All Population,6,Incidence,53559,Quezon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.715502401270001,11.43911916805,8.1410705467
+1,All Population,6,Incidence,53545,Isabela,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,12.559697094799999,14.529431266700001,9.726680205880001
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,6.94046835389,8.64834149838,5.38205942653
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,8.12040896069,10.58925545438,6.32937953701
+1,All Population,6,Incidence,53546,Quirino,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.63251697048,11.581942674659999,7.2689683148299995
+1,All Population,6,Incidence,53558,Batangas,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,14.49989298517,16.92700990729,9.84472492828
+1,All Population,6,Incidence,53573,Antique,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,8.28877705433,10.96778722433,6.791276974620001
+1,All Population,6,Incidence,53572,Aklan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,12.81355561598,14.92662676501,10.51855063064
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,8.09354067751,9.82187843579,6.171563606089999
+1,All Population,6,Incidence,53539,La Union,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,15.447026244289999,17.79154219709,11.76057984697
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,6.207284559350001,9.154831740519999,4.9075242134999995
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,2.8207735505100002,3.72344724509,2.1382268841400003
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,8.63298259403,11.17256690866,6.9042887631
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.74976965433,11.95127690632,8.48589753315
+1,All Population,6,Incidence,53552,Bulacan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,11.80528440788,13.408611820929998,8.861050831630001
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.73946368453,11.42303832003,6.970899179550001
+1,All Population,6,Incidence,53547,Batanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,13.72273106857,16.81107450759,10.855308628469999
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,18.68084907255,21.98794286595,13.250745354520001
+1,All Population,6,Incidence,53585,Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,7.41765389947,10.77965085444,5.97604950414
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,12.893337979430001,14.82970053167,9.46578240323
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,6.9111514209100005,10.019750907159999,5.5621634985599995
+1,All Population,6,Incidence,53580,Siquijor,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,12.48849540933,15.77423167649,9.99341967394
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,4.81852954245,7.04131632787,3.73871115271
+1,All Population,6,Incidence,53562,Romblon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.18840717915,10.94559638411,7.496718829650001
+1,All Population,6,Incidence,53575,Iloilo,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,12.31475945804,14.36637169878,10.2350024438
+1,All Population,6,Incidence,53568,Albay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,7.12776405617,10.949887111359999,5.6919444796
+1,All Population,6,Incidence,53538,Kalinga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,8.107923456730001,10.25993928051,6.62774985702
+1,All Population,6,Incidence,53535,Benguet,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,10.28830989393,11.96967106943,8.735304744559999
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,8.83310699676,11.896422867,7.10006268927
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,6.58748639812,8.05019605019,5.33423159255
+1,All Population,6,Incidence,53552,Bulacan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,11.99023763837,13.69333751802,8.94513380207
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,6.19549414342,9.33867436432,4.93761608921
+1,All Population,6,Incidence,53576,Guimaras,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.910566556280001,12.789050043049999,7.86517004333
+1,All Population,6,Incidence,53569,Masbate,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,4.48930551261,6.69739792061,3.4319306557399996
+1,All Population,6,Incidence,53554,Aurora,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,9.781037366889999,11.648198962019999,7.885982745
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,4.53843009099,7.45001878917,3.22826553076
+1,All Population,6,Incidence,53536,Abra,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,12.54477919493,14.87795370804,9.78763180893
+1,All Population,6,Incidence,53548,Bataan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,13.48346532544,15.80978525387,10.41969242084
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,7.14547731703,9.05435890623,5.781461240720001
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,5.50704680216,7.916622104239999,4.3700896366999995
+1,All Population,6,Incidence,53579,Bohol,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,8.928724354449999,12.062257550770001,7.37001417597
+1,All Population,6,Incidence,53537,Apayao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,7.392628128139999,9.34842311967,5.96491776608
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.35512171115,10.98704805534,7.97351363457
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,1.23500894814,1.8861875606399998,0.88436030464
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,7.6068245153,9.08666958112,6.34567446963
+1,All Population,6,Incidence,53586,Biliran,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,8.95302825581,11.596769936440001,7.0756311973
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,2.34954377942,3.29043914144,1.68897602071
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,13.298675673249999,15.591148260619999,9.45079488586
+1,All Population,6,Incidence,53549,Zambales,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,14.80153898561,17.2140128121,10.63586072168
+1,All Population,6,Incidence,53563,Palawan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,6.488287327929999,7.81915881898,5.20154860909
+1,All Population,6,Incidence,53539,La Union,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,15.51446467114,18.00574947076,11.49265162971
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,6.98020558221,9.8028613773,5.63614147671
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,4.52191272508,7.63065559708,3.2981970852800004
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,8.12811631265,10.46551722692,6.53363125464
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,9.19484667114,11.136499846820001,7.8317277361599995
+1,All Population,6,Incidence,53564,Marinduque,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,10.9454928347,13.16058983383,8.91142175338
+1,All Population,6,Incidence,53568,Albay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,7.16554656344,10.63242442561,5.74782545499
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,18.691308169150002,22.00782919566,13.12593048466
+1,All Population,6,Incidence,53580,Siquijor,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,12.33115053226,15.915552479319999,10.09995707581
+1,All Population,6,Incidence,53594,Camiguin,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,12.482992075179999,15.075977420610002,10.24017813561
+1,All Population,6,Incidence,53550,Tarlac,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,12.81159930016,14.70187166201,10.50979958587
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.445569745799999,11.72973194402,7.765596560420001
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,6.874634642429999,9.91921004141,5.37030579709
+1,All Population,6,Incidence,53569,Masbate,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,4.42139550574,6.499076995399999,3.36273351535
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.30285114958,12.457360637839999,7.460781212070001
+1,All Population,6,Incidence,53578,Cebu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,10.417324609409999,11.76627156899,8.7011371242
+1,All Population,6,Incidence,53554,Aurora,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.736458152280001,11.66428989525,7.787853727400001
+1,All Population,6,Incidence,53610,Basilan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,2.16174731281,3.36394706277,1.5419920592399998
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,4.7457919767200005,6.56527365003,3.5796953410300003
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,7.8251045044000005,9.35414763671,6.61698298919
+1,All Population,6,Incidence,53579,Bohol,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.003096025909999,12.27577102767,7.55272514407
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,6.423861999330001,8.847821378919999,5.10119755432
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,9.60287359458,11.50057308091,8.04566957341
+1,All Population,6,Incidence,53551,Pampanga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,12.34598700026,14.15862739787,10.12926095405
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,8.07585879366,10.36544993144,6.47209388904
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,4.6942117003099995,7.5677331810299995,3.2509204572500003
+1,All Population,6,Incidence,53594,Camiguin,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,12.591187576509999,15.002418713159999,10.24669634651
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,5.80181901221,7.25198327168,4.66999494638
+1,All Population,6,Incidence,53534,Ifugao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,5.61794345948,8.4148654985,4.2200861416
+1,All Population,6,Incidence,53548,Bataan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,13.48976218656,15.80852774534,10.46802661726
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,4.88158400132,8.12624147897,3.61303813075
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.67613305937,11.83585997846,8.08877348726
+1,All Population,6,Incidence,53535,Benguet,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,10.15410283279,12.237484043130001,8.54621848871
+1,All Population,6,Incidence,53538,Kalinga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,8.83087914892,10.95357665493,7.09301077488
+1,All Population,6,Incidence,53603,Sarangani,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,5.54903510644,6.96874603362,4.42685212726
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,5.5430742872000005,8.834836219780001,4.04400882959
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,5.723347610489999,9.17190748499,4.172413693169999
+1,All Population,6,Incidence,53552,Bulacan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,11.73172382424,13.264305105790001,8.8517011452
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,13.5031625833,15.187214424659999,10.38910439073
+1,All Population,6,Incidence,53539,La Union,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,15.4453058321,17.81755438411,12.009919587999999
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.95984913315,12.2993673332,8.32286401611
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,5.84282870716,8.84673501753,4.46297647849
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,2.1579367838,2.98725181931,1.55773848495
+1,All Population,6,Incidence,53534,Ifugao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,5.4710727759,8.32871962601,4.07167218104
+1,All Population,6,Incidence,53580,Siquijor,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,12.73988017479,15.92489610018,10.24427137265
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,5.49463522675,7.97700736332,4.41924745512
+1,All Population,6,Incidence,53549,Zambales,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,14.374598942570001,16.84960046319,10.63536627376
+1,All Population,6,Incidence,53611,Sulu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,2.1935414799,3.6004279283000002,1.5290423421400001
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,6.44666641246,8.7920580784,5.112205594510001
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,10.99756802075,12.60246985016,9.29264440519
+1,All Population,6,Incidence,53536,Abra,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,12.78702106506,15.24007170742,10.34579880692
+1,All Population,6,Incidence,53563,Palawan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,6.85272809416,8.43392640449,5.45225779155
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.07128950262,10.78967112473,7.70436599648
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,5.75741387099,8.7016367189,4.36392615876
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,12.830392203759999,14.65524694889,9.50299339938
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,8.87975235419,12.252279765730002,7.067475093820001
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,9.77637012628,12.27472594022,8.51254425528
+1,All Population,6,Incidence,53535,Benguet,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,10.18117322886,11.926748882630001,8.575949859469999
+1,All Population,6,Incidence,53550,Tarlac,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,12.65267054307,14.36552658698,10.65714198654
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,8.57889855124,10.9070172162,7.154323192080001
+1,All Population,6,Incidence,16,Philippines,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,9.87589661851,10.93487165036,8.57522151128
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,4.59016082508,8.04387131113,3.3192903194700003
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,9.77513983703,11.71315714192,7.1154166215600005
+1,All Population,6,Incidence,53564,Marinduque,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,10.88642282629,13.01175549991,8.92912449492
+1,All Population,6,Incidence,53536,Abra,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,12.5918531832,15.044581531999999,10.05884507181
+1,All Population,6,Incidence,53575,Iloilo,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,12.06734759758,13.73659899714,10.33653651644
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,2.75440799688,3.81230713745,1.93763028562
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,18.74327066601,22.3530195699,13.18945978852
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,6.3198556020600005,9.426016145610001,4.94847016783
+1,All Population,6,Incidence,53594,Camiguin,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,12.641058096039998,15.20866906393,10.43648984309
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,4.7935534049,7.70167949691,3.4699953544400004
+1,All Population,6,Incidence,53548,Bataan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,13.357267585699999,15.62131993235,10.38154515566
+1,All Population,6,Incidence,53551,Pampanga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,12.221839228459999,13.737363954220001,10.18438169846
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,6.8898829622,8.3244393806,5.5387015138399995
+1,All Population,6,Incidence,53562,Romblon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,9.26527302178,11.075291007439999,7.70056125684
+1,All Population,6,Incidence,53569,Masbate,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,4.74215745179,7.12058604915,3.66495244315
+1,All Population,6,Incidence,53537,Apayao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,8.2809626448,10.64336271917,6.56001638972
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,6.861334715630001,10.04782857783,5.43080027317
+1,All Population,6,Incidence,53537,Apayao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,7.80290087828,10.07023283433,6.22894191905
+1,All Population,6,Incidence,53549,Zambales,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,14.54916232553,16.96003439467,10.60842237257
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,4.59208748113,7.710142744210001,3.3697224256400005
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,6.01453094848,7.693322150419999,4.81500961627
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,6.60008365795,8.98464466255,5.20091104532
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,6.9436465614,10.24780916557,5.46826879974
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,6.41855399903,9.64738692605,4.84115200272
+1,All Population,6,Incidence,53610,Basilan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,2.6153043081800003,4.069751425110001,1.9343566745999998
+1,All Population,6,Incidence,53554,Aurora,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,9.909763578629999,11.78652897619,8.02537425072
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,7.38474202361,9.604239555729999,6.06317353794
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,6.803251156220001,9.67172776954,5.67038125152
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,9.51314427163,11.7581654524,7.7044290563199995
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,8.148279152039999,10.81812333264,6.43006116045
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,8.18914464623,9.90191275102,6.723447943280001
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,5.62768713951,8.200997312490001,4.45897463744
+1,All Population,6,Incidence,53576,Guimaras,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,10.12201545352,12.9848740735,7.97899713694
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,18.990678569,22.51954393255,12.16806173334
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,5.590175043,7.571926104489999,4.31282861796
+1,All Population,6,Incidence,53550,Tarlac,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,12.660939830919999,14.43769545682,10.63216318264
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,9.31475207315,11.54743537294,7.8815787431299995
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,6.14773338967,9.146350601670001,4.65728531157
+1,All Population,6,Incidence,53571,Capiz,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,11.360551299179999,13.442896984239999,8.08921664466
+1,All Population,6,Incidence,53538,Kalinga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,8.40249181766,10.58160118472,6.764501994800001
+1,All Population,6,Incidence,53551,Pampanga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,12.16869462467,13.968959611739999,10.11199114695
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,8.38158038911,10.86549208998,6.73800972074
+1,All Population,6,Incidence,53578,Cebu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,10.34703224525,11.70018273408,9.011384006690001
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,10.89083183896,12.505092653250001,9.27687561401
+1,All Population,6,Incidence,53555,Rizal,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,7.188736694539999,9.659411972960001,5.98767660353
+1,All Population,6,Incidence,53572,Aklan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,12.638893411869999,14.74126774511,10.38037972825
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,9.40333868412,11.65092455313,7.62200986486
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,12.63025491059,14.45123419468,9.90918774511
+1,All Population,6,Incidence,53545,Isabela,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,12.698520590120001,14.67194434089,9.87744850596
+1,All Population,6,Incidence,53579,Bohol,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,9.025695040939999,12.48124233201,7.31746687779
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,9.64121667389,11.6102388507,8.03967519994
+1,All Population,6,Incidence,53603,Sarangani,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,5.9604369088,7.42950767789,4.73674181072
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,8.11520952273,9.66474535919,6.7028302887299995
+1,All Population,6,Incidence,53563,Palawan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,6.6017739867800005,7.93728357326,5.1977145380100005
+1,All Population,6,Incidence,53573,Antique,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,8.103149972439999,10.86971424994,6.60604316665
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,19.300114172249998,23.05080558169,12.338410737499999
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,11.06341774603,12.63893839966,9.30457084145
+1,All Population,6,Incidence,53559,Quezon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,9.63791349921,11.1415913444,8.21354936523
+1,All Population,6,Incidence,53556,Cavite,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,9.04233340273,10.81489161643,7.87420718117
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,2.6076796346999997,3.63684863174,1.8796774746100002
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,4.84994092083,6.99299561308,3.75414337488
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,4.661258713830001,7.33213101168,3.4817007687999997
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,5.96673858761,9.66435957837,4.3112286624600005
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,10.06295225571,12.46186620001,8.3251665918
+1,All Population,6,Incidence,53546,Quirino,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,9.56640900359,11.67138397267,7.10920160621
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,11.14916998214,13.160159680469999,9.231775469
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,12.77849696059,14.67350664544,9.79207386993
+1,All Population,6,Incidence,53555,Rizal,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,7.13163690297,9.96367046417,5.93678776264
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,9.69692250565,11.93517031116,8.40966285625
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,13.42464910395,15.04343354034,10.65850131375
+1,All Population,6,Incidence,53578,Cebu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,10.36657939047,11.50529561556,8.87871417629
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,8.56568935657,11.27437199002,7.0845393009399995
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,8.067987042919999,9.81939307762,6.263012498229999
+1,All Population,6,Incidence,53547,Batanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,13.890349267829999,17.09062399377,11.03929077887
+1,All Population,6,Incidence,53544,Cagayan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,12.97059642326,15.184375094530001,10.010172174720001
+1,All Population,6,Incidence,53575,Iloilo,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,12.17025170714,14.06007588174,10.342918425719999
+1,All Population,6,Incidence,53611,Sulu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,2.33324199642,3.78464854897,1.6377674081499998
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,3.1876292820199996,4.30181532822,2.44272045008
+1,All Population,6,Incidence,53585,Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,6.99068933703,10.24918059381,5.652918383049999
+1,All Population,6,Incidence,53564,Marinduque,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,10.840513724020001,12.99726366759,8.89291769051
+1,All Population,6,Incidence,53534,Ifugao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,5.92444806074,9.055444363269999,4.46985589061
+1,All Population,6,Incidence,53538,Kalinga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.50710208614,12.028132753189999,7.63319043087
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,11.1545124242,13.29583708166,9.14120043725
+1,All Population,6,Incidence,53568,Albay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,7.122070636999999,11.16863297791,5.71070881185
+1,All Population,6,Incidence,53556,Cavite,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,8.94963100328,10.888543004979999,7.82006620576
+1,All Population,6,Incidence,53539,La Union,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,15.08463561702,17.956726064839998,11.99941867153
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,6.682459687880001,8.34412647389,5.29118157881
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,5.0942027349900005,6.9500602239,3.8670786335300003
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,6.64799958133,7.99273380224,5.36732374586
+1,All Population,6,Incidence,53535,Benguet,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,10.16850114148,12.17312961093,8.536941043530001
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,9.65236860248,11.38036691417,6.96950611164
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,6.816844976780001,9.87880180104,5.32940507696
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,18.163695098509997,22.040453751919998,12.93686116432
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,1.3622064761800001,2.07142153151,0.9956618154100001
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,7.19482231355,9.2456026901,5.8389065829
+1,All Population,6,Incidence,53569,Masbate,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,4.63255573036,6.880249109119999,3.53448416961
+1,All Population,6,Incidence,53551,Pampanga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,12.19788249456,13.90691017092,10.486483486580001
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,7.81343647222,9.395870287360001,6.51847481079
+1,All Population,6,Incidence,53562,Romblon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,9.24548906457,10.95582392707,7.762002080239999
+1,All Population,6,Incidence,53576,Guimaras,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,9.89045365621,12.765194474780001,7.845920368490001
+1,All Population,6,Incidence,53610,Basilan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,2.36576182536,3.72490143066,1.7163782104799998
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,18.81209306635,22.53658420731,12.18196157016
+1,All Population,6,Incidence,53536,Abra,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,13.07759528314,16.020988113799998,10.49205664606
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.490909684170001,11.75199662865,7.76441426239
+1,All Population,6,Incidence,53586,Biliran,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,9.03522918047,11.90417072298,7.240187387040001
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,5.91482999863,8.06561175343,4.74995782027
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,5.88222535559,7.40113412563,4.67352107066
+1,All Population,6,Incidence,53578,Cebu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,10.0870432855,11.496354893620001,8.919707217960001
+1,All Population,6,Incidence,53537,Apayao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,8.69489106115,11.23226092302,6.83362789253
+1,All Population,6,Incidence,53552,Bulacan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,11.513494529879999,13.23532920394,8.996161152620001
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,6.916164869049999,10.51211015914,5.52986970228
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,6.3862034122099995,8.91147606779,4.93343181367
+1,All Population,6,Incidence,53538,Kalinga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.16093683825,11.51526381857,7.32836641155
+1,All Population,6,Incidence,53578,Cebu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,10.22188208083,11.63473819241,8.85636572548
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,8.7061657675,11.46755431508,6.8932350832600005
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,8.72555626416,11.35656794036,7.05303105766
+1,All Population,6,Incidence,53579,Bohol,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.11408391793,12.899758927559999,7.537272418790001
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,6.40332862178,10.16159315962,5.02422054023
+1,All Population,6,Incidence,53548,Bataan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,13.56535037532,16.00901828308,10.67391405866
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,5.7913392659200005,8.50587980363,4.5949248551899995
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,12.35580582863,14.03868960285,9.3102360851
+1,All Population,6,Incidence,53557,Laguna,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,9.87047590389,11.58402774764,8.54070099914
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2013,6.790399288150001,9.50276491781,5.64332265976
+1,All Population,6,Incidence,53580,Siquijor,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,13.07003388949,16.8249728611,10.480368428330001
+1,All Population,6,Incidence,53539,La Union,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,15.43453898051,18.105827893420003,12.211859485849999
+1,All Population,6,Incidence,53563,Palawan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,7.06317104446,8.874761490040001,5.58225036625
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,3.15594258653,4.45779905845,2.24401026075
+1,All Population,6,Incidence,53594,Camiguin,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,12.34527374438,14.92723902831,10.03596209921
+1,All Population,6,Incidence,53611,Sulu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,2.257785729,3.61620866881,1.5700334991399998
+1,All Population,6,Incidence,53554,Aurora,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.947762796480001,12.00130281448,8.06468535669
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,7.95349185377,9.53892551965,6.53247635297
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,6.98788339667,10.57008995676,5.51466550115
+1,All Population,6,Incidence,53579,Bohol,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.22138820452,12.82536941242,7.627197494370001
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.43256956179,11.74636966431,7.8220663660900005
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,12.6312575985,14.290769240560001,9.97384308738
+1,All Population,6,Incidence,16,Philippines,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.95881118579,11.415981217759999,8.783883336799999
+1,All Population,6,Incidence,53556,Cavite,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.12273771164,11.33195046291,7.99834223481
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,13.37652439243,14.86997469081,10.35593437871
+1,All Population,6,Incidence,53545,Isabela,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,12.777209331529999,14.7208480668,10.00288352069
+1,All Population,6,Incidence,53610,Basilan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,2.9540712739,4.51962283711,2.13659703011
+1,All Population,6,Incidence,53568,Albay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,6.564443803960001,10.46485033747,5.16837485181
+1,All Population,6,Incidence,53611,Sulu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,2.41265940253,3.87285415298,1.71990771004
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.17289504721,11.53266838044,7.68736582059
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,11.08149078712,13.37757623079,9.18939847476
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,10.93780337967,13.21052560391,9.27491949562
+1,All Population,6,Incidence,53557,Laguna,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.957757226990001,11.54350177722,8.673190120520001
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,9.25101139569,10.99879382865,7.84848058993
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,8.99256627876,12.724940970950001,7.1603753251899995
+1,All Population,6,Incidence,53558,Batangas,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,14.21518029758,16.44169237291,9.84815834789
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,6.36423358666,10.53020614704,4.64804210369
+1,All Population,6,Incidence,53603,Sarangani,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,5.67099412207,7.05675628602,4.5064668422
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,5.68228487883,9.1679997117,4.19586103004
+1,All Population,6,Incidence,53569,Masbate,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,4.83298658712,7.191902558760001,3.7355130430699997
+1,All Population,6,Incidence,53546,Quirino,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,9.61628914964,11.57098429677,7.246464660679999
+1,All Population,6,Incidence,53549,Zambales,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,14.17452715082,16.681229829710002,10.705881940700001
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,7.0264675098,9.836980945559999,5.49994361519
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,18.63129990334,22.56383670245,13.194829414500001
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,9.92509292835,12.3808024077,8.11345555946
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,6.7135183928,9.96401522273,5.0896705637799995
+1,All Population,6,Incidence,53564,Marinduque,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,10.98845031964,13.26862450212,8.99231674684
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,6.06540245602,7.979333005250001,4.83495717312
+1,All Population,6,Incidence,53534,Ifugao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,6.253131124219999,10.03165198858,4.656364796749999
+1,All Population,6,Incidence,53555,Rizal,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,7.28905016854,10.25679145144,6.09143593311
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,5.25874835965,7.602037773159999,4.08854912376
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,7.014339119610001,10.30987827237,5.78952266411
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2014,8.5424552106,11.068865558839999,7.02838672875
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,5.26838342681,8.382192803619999,3.92850220377
+1,All Population,6,Incidence,53544,Cagayan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,13.13343047665,15.36601581531,10.05369365364
+1,All Population,6,Incidence,53544,Cagayan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,12.99916552312,15.29990946865,9.9573385718
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,6.0256979976,8.27607116972,4.64884274681
+1,All Population,6,Incidence,53558,Batangas,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,14.04233936966,15.82163238479,9.92612471178
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,7.61070392563,10.0249506667,6.07986747589
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,5.71188786113,8.32826297212,4.561525639819999
+1,All Population,6,Incidence,53571,Capiz,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,11.34867189393,13.84128504611,8.40691721938
+1,All Population,6,Incidence,53548,Bataan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,13.601002887160002,16.10268741475,11.04433307167
+1,All Population,6,Incidence,53550,Tarlac,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,12.614660909820001,14.5013983259,10.47093842833
+1,All Population,6,Incidence,53585,Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,7.320741250629999,10.992043421390001,5.92881532651
+1,All Population,6,Incidence,53556,Cavite,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,8.97423143465,11.22702063189,7.7593188912199995
+1,All Population,6,Incidence,53547,Batanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,14.63830543055,18.46549766207,11.499531800789999
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,8.22370521304,10.001333697309999,6.820048932720001
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,6.936841726399999,10.23806299231,5.5512011981
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,8.544260639680001,11.19146642108,6.87488046916
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,4.55908540374,8.08207363254,3.2588242933499996
+1,All Population,6,Incidence,53545,Isabela,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,12.951330889549999,15.008902233209998,10.04741267959
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,7.034174420749999,8.66889483446,5.69891392083
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,10.08219069509,12.25359764414,8.28510578971
+1,All Population,6,Incidence,53580,Siquijor,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,12.858211054699998,16.39486674393,10.34552859062
+1,All Population,6,Incidence,53551,Pampanga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,12.317337104029999,13.79155545268,10.37946854348
+1,All Population,6,Incidence,53546,Quirino,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.62375575698,11.67059625675,7.35133279989
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,8.516282683450001,11.37330317554,6.65047977514
+1,All Population,6,Incidence,53563,Palawan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,7.066627305349999,9.32302610024,5.73056511276
+1,All Population,6,Incidence,53572,Aklan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,12.7144210691,15.44161838095,10.67971899858
+1,All Population,6,Incidence,53549,Zambales,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,13.032984541820001,15.6870881376,10.07375012378
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,10.50337203881,12.31272703865,8.89682487568
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,8.58247807217,10.38585463696,7.04430044535
+1,All Population,6,Incidence,53557,Laguna,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,9.8972023634,11.34471607164,8.52008456376
+1,All Population,6,Incidence,53559,Quezon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.66827652255,11.40234658039,8.361731224169999
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.5902673422,11.73604929996,7.9929523148
+1,All Population,6,Incidence,53573,Antique,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,7.90702417103,10.866400200260001,6.3983835731
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,8.347310970259999,11.2748772143,6.56470654064
+1,All Population,6,Incidence,53586,Biliran,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.36902540621,12.535159449690001,7.52555313664
+1,All Population,6,Incidence,53558,Batangas,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,14.138219885989999,16.111311309799998,9.846934928269999
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,6.70865449629,8.34732096969,5.49885147167
+1,All Population,6,Incidence,16,Philippines,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,9.94646201224,11.23425849974,8.67740227705
+1,All Population,6,Incidence,53547,Batanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,15.08687102017,19.054807057450002,11.95738670039
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.09819733876,11.62459753882,7.24568722143
+1,All Population,6,Incidence,53550,Tarlac,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,12.26256636839,14.15076934334,10.23280223365
+1,All Population,6,Incidence,53603,Sarangani,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,6.302136827939999,8.00601031388,4.99186816783
+1,All Population,6,Incidence,53578,Cebu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,10.07656528012,11.90159507858,8.88914171937
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.31272649285,11.50689988321,7.91774427488
+1,All Population,6,Incidence,53535,Benguet,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,10.215362828149999,12.231932466379998,8.634000269549999
+1,All Population,6,Incidence,53559,Quezon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,9.66395234004,11.17887800458,8.20827221326
+1,All Population,6,Incidence,53552,Bulacan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,11.70515428313,13.30114558564,8.97364291481
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,8.510389368610001,11.43884886508,6.892160473170001
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,8.23260426916,10.22903146689,6.59360609004
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.71483588197,12.59334734436,8.55691815147
+1,All Population,6,Incidence,53579,Bohol,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.11924696266,12.9404019696,7.41327181172
+1,All Population,6,Incidence,53534,Ifugao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,6.02964757092,9.47168056238,4.54205894872
+1,All Population,6,Incidence,53548,Bataan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,13.532560375749998,16.189139830010003,10.70507654863
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,8.90156621617,12.46446104031,7.15103501723
+1,All Population,6,Incidence,53551,Pampanga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,12.216198354920001,14.28553102078,10.359942753799999
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,5.08065209874,7.404920101429999,3.9206252724
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,6.20937926778,10.15461640535,4.5299507607
+1,All Population,6,Incidence,53536,Abra,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,13.78348940567,16.99087466307,11.2976958872
+1,All Population,6,Incidence,53573,Antique,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,8.01237715185,10.84411973113,6.5647782477700005
+1,All Population,6,Incidence,53575,Iloilo,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,11.86882704427,13.7398683596,10.34968690834
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.87376175914,11.97986784648,7.31224142962
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,6.92568025805,9.84559035755,5.70204428709
+1,All Population,6,Incidence,53564,Marinduque,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,11.4084679668,13.91347772552,9.26770884111
+1,All Population,6,Incidence,53535,Benguet,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,10.13161608329,12.118649315479999,8.4963017185
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,5.1717225821,8.37677404316,3.8053164113599998
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,8.15288690067,9.99615945554,6.43581741121
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,12.74703458984,14.45631825599,9.39931590804
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,7.00426494088,10.87568074097,5.42614544771
+1,All Population,6,Incidence,53563,Palawan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,7.01860229243,9.216306929,5.58380240365
+1,All Population,6,Incidence,53571,Capiz,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,11.369053227210001,13.53531413969,8.289452368720001
+1,All Population,6,Incidence,53536,Abra,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,13.269040791699998,16.09709946294,10.6299936996
+1,All Population,6,Incidence,53549,Zambales,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,13.60465237939,16.18100788274,10.4221321371
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,4.96472951824,7.884513095789999,3.69647766521
+1,All Population,6,Incidence,53562,Romblon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.34924185053,11.26224295255,7.81134039603
+1,All Population,6,Incidence,53537,Apayao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.61611158522,12.598998295400001,7.589191989280001
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,6.89587526494,9.69172962384,5.44183797447
+1,All Population,6,Incidence,53537,Apayao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,8.91546482105,11.393638986480001,6.97912143926
+1,All Population,6,Incidence,53572,Aklan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,12.68337394688,15.055810554259999,10.51387889395
+1,All Population,6,Incidence,53550,Tarlac,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,12.36997869889,14.19021836334,10.23743567238
+1,All Population,6,Incidence,53564,Marinduque,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,11.01527344568,13.422259478949998,8.9920542558
+1,All Population,6,Incidence,53568,Albay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,6.04637404032,9.847825158040001,4.71118138128
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,6.389673214569999,9.799003912169999,5.04875370862
+1,All Population,6,Incidence,53576,Guimaras,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,10.48573705856,13.573089174049999,8.38012946586
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,8.05281272137,12.09102181282,6.18314101689
+1,All Population,6,Incidence,53538,Kalinga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,10.05692972344,12.90810846069,8.03103985049
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,6.99786915218,11.71661973363,4.91817576303
+1,All Population,6,Incidence,53585,Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,7.149862837790001,10.49964505679,5.70609976854
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,3.9183079867,5.19134337697,3.0804113815
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,8.63160489109,11.94177876434,6.9659213945500005
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,6.98654183735,10.35883815539,5.5206295216
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,8.94502839886,12.06738397917,7.058381569610001
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,5.89969492796,8.05868206561,4.70206027933
+1,All Population,6,Incidence,53569,Masbate,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,5.24382371105,8.07915386453,3.95244133488
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,4.869461111920001,8.84885800843,3.45799580109
+1,All Population,6,Incidence,53554,Aurora,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.98422141975,12.02572292675,8.08919799568
+1,All Population,6,Incidence,53539,La Union,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,15.073184616759999,17.84631737594,12.162448320300001
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,6.06355960354,9.25694085762,4.73817078721
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,8.08306162043,12.1410689473,5.875096821620001
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.45625028664,11.80658711004,7.66861521284
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.13092118133,12.816788553259999,7.085876540439999
+1,All Population,6,Incidence,53568,Albay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,6.942466477680001,10.87150685114,5.5755315631
+1,All Population,6,Incidence,53594,Camiguin,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,12.78021931579,15.38328615706,10.561763126079999
+1,All Population,6,Incidence,53586,Biliran,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,9.26483675353,12.40180066514,7.386406711129999
+1,All Population,6,Incidence,53552,Bulacan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,11.61237556488,13.29662406976,9.19698411403
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,6.66667776859,8.29231024252,5.30053048725
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,17.95592044328,21.56016048099,12.08161448492
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,6.49274732137,10.36367561612,5.06370186863
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,1.78385068834,2.71082300077,1.33058883405
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,9.29479057791,11.53099084229,7.665270507220001
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,12.26496436948,13.956706040639999,9.31715887544
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,3.3544477388800003,4.76049406294,2.44368399262
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,8.785933427189999,12.045139261100001,7.0298223802
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,12.219694685270001,13.7364667114,9.863161725649999
+1,All Population,6,Incidence,53573,Antique,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,7.739593354290001,10.76910116526,6.09664757049
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,7.12105455122,10.64453151745,5.55432886654
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,9.28196966809,11.36748594416,7.851656350370001
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,8.570987640830001,11.05056745756,6.96752456443
+1,All Population,6,Incidence,53547,Batanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,15.61208712295,21.00376385994,12.22993327397
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,10.054709115429999,12.534315882560001,8.69624242382
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.25029990387,11.698920872750001,7.42606281997
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,6.62376330988,11.0838419403,4.8823659167799995
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,5.70339270124,8.66382176494,4.32431110022
+1,All Population,6,Incidence,16,Philippines,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.78001623986,11.77494887774,8.70728737541
+1,All Population,6,Incidence,53610,Basilan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,3.6234463845700002,5.58800905294,2.63380917012
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,13.24761863829,15.253246346890002,10.922820759699999
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.0847901224,11.87457660808,7.609440231200001
+1,All Population,6,Incidence,53554,Aurora,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,10.084042336149999,12.37705160009,8.19004177438
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,17.8859046151,21.75430363289,12.970025347990001
+1,All Population,6,Incidence,53580,Siquijor,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,13.27177898122,17.213064316289998,10.63862972668
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.50063276611,12.74629989516,8.247075156140001
+1,All Population,6,Incidence,53568,Albay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,6.23504665357,10.04549002734,4.88975081484
+1,All Population,6,Incidence,53611,Sulu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,2.54698922173,4.27032524053,1.82930220574
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.194720954820001,12.94403343121,7.28939735827
+1,All Population,6,Incidence,53550,Tarlac,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,11.76710332864,13.608388157899999,9.98437050587
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,8.06861540489,10.513882963870001,6.43177675788
+1,All Population,6,Incidence,53559,Quezon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.63196663135,11.54277623982,8.359137609220001
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,6.76888841327,9.41243857588,5.33312171314
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,7.16054548717,8.88321685574,5.73682857896
+1,All Population,6,Incidence,53569,Masbate,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,4.9965880360399995,7.5665206322800005,3.80820712796
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,10.54347767692,12.689353139340001,8.83655413232
+1,All Population,6,Incidence,53545,Isabela,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,12.879918401160001,15.121190622910001,10.03842521013
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.89913110316,12.0672080942,7.341043694180001
+1,All Population,6,Incidence,53538,Kalinga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,10.30611183445,13.24791535926,7.93404812755
+1,All Population,6,Incidence,53564,Marinduque,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,12.13983817696,14.959326507379998,9.7494670485
+1,All Population,6,Incidence,53537,Apayao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,8.92669809885,11.76693547784,6.680680398400001
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,3.41484369464,4.74979299351,2.51268224582
+1,All Population,6,Incidence,53594,Camiguin,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,12.38816985877,14.98446592855,9.9905801352
+1,All Population,6,Incidence,53575,Iloilo,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,11.55885474818,14.1699630512,10.19018923042
+1,All Population,6,Incidence,53555,Rizal,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,7.81507144933,10.84634734631,6.473572057019999
+1,All Population,6,Incidence,53538,Kalinga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,10.552188315619999,13.49836145556,8.274547148409999
+1,All Population,6,Incidence,16,Philippines,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.80427964768,11.48763882231,8.70090375228
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,8.91008751636,10.869645849020001,7.260704770509999
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,6.2741826421699995,10.41632080777,4.5251380582000005
+1,All Population,6,Incidence,53539,La Union,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,14.34635950469,16.78403111951,12.012570587939999
+1,All Population,6,Incidence,53539,La Union,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,15.18706433085,17.873032936279998,12.44985360247
+1,All Population,6,Incidence,53562,Romblon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.491203502760001,11.708913001260001,7.76504687797
+1,All Population,6,Incidence,53546,Quirino,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.48889850634,11.763035864899999,7.234995179649999
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,6.50560915427,10.42745701974,4.960226838660001
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,7.48414041113,11.101549445109999,5.779960169200001
+1,All Population,6,Incidence,53534,Ifugao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,6.76319667029,10.77201455809,4.96228545661
+1,All Population,6,Incidence,53551,Pampanga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,11.66505094815,13.934740458399999,10.17864571263
+1,All Population,6,Incidence,53556,Cavite,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.2103618719,11.76077725698,8.0988139203
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,8.52470270059,10.8529263949,6.99611315686
+1,All Population,6,Incidence,53555,Rizal,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,7.528031477390001,10.5768021602,6.253568709990001
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,3.58974035853,4.75846243007,2.76253464837
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,2.38321881198,3.6581428671300005,1.76224868919
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.19080761639,11.76267122124,7.5696913093000004
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,5.418863286110001,7.831038854960001,4.14822544111
+1,All Population,6,Incidence,53544,Cagayan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,12.60632211034,14.89202282861,9.74843987924
+1,All Population,6,Incidence,53603,Sarangani,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,7.26036156363,9.67791770583,5.6506330167400005
+1,All Population,6,Incidence,53576,Guimaras,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,11.26380325506,14.92197193168,8.545552365339999
+1,All Population,6,Incidence,53535,Benguet,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,10.420746700270001,12.78961892692,8.70598749296
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,6.72321996121,10.71960724269,5.0681043615800005
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,8.31240021102,10.48006769556,6.70621750074
+1,All Population,6,Incidence,53536,Abra,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,14.21874677009,17.52789223956,11.33613476357
+1,All Population,6,Incidence,53578,Cebu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.68262573554,12.114765419260001,8.66129209053
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,5.71857483444,7.89501510842,4.46818470081
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,4.66161318431,8.17417926156,3.33771430818
+1,All Population,6,Incidence,53547,Batanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,15.20774277342,19.93271679954,11.999545433969999
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,7.49689839853,11.0140500978,5.736104076
+1,All Population,6,Incidence,53552,Bulacan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,11.2950604671,12.67025597704,9.489775022329999
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,16.82332149969,20.46786525171,12.57305814529
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,8.53774641185,10.9136561144,7.024555812360001
+1,All Population,6,Incidence,53563,Palawan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,7.17069254251,9.54502747195,5.71160880501
+1,All Population,6,Incidence,53610,Basilan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,3.3179986713900003,5.06455557072,2.40173764553
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,8.71355694285,11.824965291969999,6.79312564437
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,7.29518073036,11.02148748303,5.426224288449999
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,7.822356000020001,10.28308994929,6.27033939303
+1,All Population,6,Incidence,53573,Antique,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,7.72411206573,10.64924034831,6.0927849085600005
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.8754120742,11.924722441410001,7.27355418802
+1,All Population,6,Incidence,53594,Camiguin,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,12.62101472459,15.53972590549,10.02856191924
+1,All Population,6,Incidence,53557,Laguna,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.834612035280001,11.71212695035,8.60561519991
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,6.208999662759999,9.67282550989,4.7491711882
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,18.399016562219998,21.98045065297,12.21868201652
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,12.02399014357,13.80316704068,10.52977764796
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,7.13204002487,10.95490814775,5.52844234367
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2015,1.5510862872399998,2.3925966870799997,1.1538643984399999
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,10.03646367607,12.695327262220001,8.125557117509999
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,11.78420379997,13.17889852592,9.412019492659999
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,7.63955176297,11.13827274519,5.75334749327
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,7.010881307449999,10.71461515255,5.69649722906
+1,All Population,6,Incidence,53564,Marinduque,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,12.3483937055,15.18665566394,9.96768789523
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,5.9569068629699995,8.15996268999,4.721225931469999
+1,All Population,6,Incidence,53611,Sulu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,2.48345800536,4.089769674499999,1.72786743646
+1,All Population,6,Incidence,53558,Batangas,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,13.732286470930001,15.40029010233,10.11642689406
+1,All Population,6,Incidence,53562,Romblon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.33835686047,11.353919681539999,7.77149376008
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,8.541153645069999,11.65674344707,6.623135226970001
+1,All Population,6,Incidence,53579,Bohol,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,8.49340017882,12.36727406171,6.8407130273800005
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2016,12.61375102189,14.094759570219999,10.10013206953
+1,All Population,6,Incidence,53537,Apayao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,10.04450488029,13.21435081517,7.520380652210001
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,8.52793165516,11.772341142250001,6.93390815903
+1,All Population,6,Incidence,53548,Bataan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,13.699315243700001,16.124640710490002,11.19743850907
+1,All Population,6,Incidence,53571,Capiz,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,11.299426503860001,13.94691282527,8.30356155011
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,7.15460196046,11.349268087999999,5.55002198284
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,6.3889154565699995,9.8139722708,4.96702817942
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,10.32814012693,12.39582795621,8.97822853168
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,8.57973521881,11.50453428862,6.98814542452
+1,All Population,6,Incidence,53580,Siquijor,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,12.359710867439999,16.51454149097,9.66079549113
+1,All Population,6,Incidence,53549,Zambales,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,12.83216918917,15.54577347057,10.29639052722
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,4.06181861982,5.33377702829,3.1535751068799995
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,8.30465913948,10.36438942244,6.89079113587
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.57485664714,12.53021096564,8.37966189904
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,8.17513141305,12.2015451832,6.08858004748
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.11040387331,11.64369938147,7.369984929369999
+1,All Population,6,Incidence,53568,Albay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,5.72175471168,9.17939364123,4.44787269542
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.21863950318,12.21002631365,7.414743746859999
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,5.54769723176,8.7876175428,4.119899536479999
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,7.0643112203700005,8.773274160240002,5.68024663628
+1,All Population,6,Incidence,53572,Aklan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,12.6075663596,15.277108470280002,10.66243796304
+1,All Population,6,Incidence,53550,Tarlac,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,12.28525724922,14.230278093199999,10.43006184783
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,8.7384693056,10.5773795479,7.17783080369
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,17.86093829295,21.73569174718,13.1846854283
+1,All Population,6,Incidence,53569,Masbate,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,5.0512835611,7.969863414840001,3.7759417243099995
+1,All Population,6,Incidence,53578,Cebu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,10.14611060471,12.340995735469999,9.07890380795
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,6.80722687537,8.36604215258,5.4553716188
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,2.05165004888,3.12080423166,1.53872550762
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,7.130800621820001,12.30908397424,4.95813226912
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.04728495845,12.173370127890001,7.43858813893
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,17.82037787073,21.21980432856,12.17650153654
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,10.036233893999999,12.46557653204,8.31449551819
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,7.40974441255,10.77960019445,5.695154624070001
+1,All Population,6,Incidence,53554,Aurora,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.9229206551,12.17410281745,8.00687172736
+1,All Population,6,Incidence,53575,Iloilo,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,11.59301758107,13.747787855770001,10.26213268637
+1,All Population,6,Incidence,53545,Isabela,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,12.87405903707,15.149134917469999,10.18603247409
+1,All Population,6,Incidence,53603,Sarangani,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,6.66824531856,8.62585199525,5.319352161119999
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.6269858891,13.822973294379999,7.29146658817
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,12.59212482753,14.404072105580001,10.59591595986
+1,All Population,6,Incidence,53579,Bohol,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.23376878676,13.367940702839999,7.4108891016400005
+1,All Population,6,Incidence,53555,Rizal,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,8.77889997679,12.268937528530001,7.2353948083
+1,All Population,6,Incidence,53585,Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,7.394290119570001,11.03094398765,5.90360984653
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,7.12154502815,10.77368944519,5.68561433528
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,12.141707827749999,13.8730852597,10.40016214973
+1,All Population,6,Incidence,53551,Pampanga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,12.3012272045,14.625922524620002,10.62675804301
+1,All Population,6,Incidence,53545,Isabela,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,13.047016070849999,15.44759614912,10.52342731193
+1,All Population,6,Incidence,53576,Guimaras,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,10.83611234415,14.31463513608,8.5784309615
+1,All Population,6,Incidence,53546,Quirino,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.63348783633,11.92675842998,7.372373577009999
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,10.18103407049,12.466729973080001,8.36982876593
+1,All Population,6,Incidence,53586,Biliran,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.33603225047,12.61142641255,7.56924669743
+1,All Population,6,Incidence,53556,Cavite,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.667283430240001,12.63050746127,8.42746479471
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.14031377908,13.936032302400001,7.166578915210001
+1,All Population,6,Incidence,53559,Quezon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.71972029163,11.88350826251,8.492324157599999
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,12.00650453145,13.678568229629999,10.01712167157
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,8.443061928939999,11.46889971604,6.84802954052
+1,All Population,6,Incidence,53571,Capiz,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,11.52448350529,14.321865185790001,8.68738035592
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,8.3686724301,11.64587413579,6.7552148486900006
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,6.7529626478900004,10.934251701780001,5.220491808589999
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.46304238934,12.02839942591,8.135847320169999
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,6.34808830312,10.43186217723,4.69695716814
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,7.26905076346,10.96156976136,5.84886225807
+1,All Population,6,Incidence,53572,Aklan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,12.74998570841,15.61049091649,10.658348892960001
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,7.51982585912,12.718299875449999,5.29138237153
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2017,9.15488208571,11.52093290599,7.49509548038
+1,All Population,6,Incidence,53555,Rizal,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,8.24447267539,11.525763685829999,6.81417658151
+1,All Population,6,Incidence,16,Philippines,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.82306087408,12.12387912531,8.614210653759999
+1,All Population,6,Incidence,53557,Laguna,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.810485160559999,12.33031797024,8.57116903513
+1,All Population,6,Incidence,53546,Quirino,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,10.01142399769,12.231011476610002,7.80005757385
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,8.91709679281,11.40276221243,7.08379062809
+1,All Population,6,Incidence,53544,Cagayan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,12.420253016340002,14.938128135180001,9.8273424756
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,6.09873122759,9.4928879117,4.59387859448
+1,All Population,6,Incidence,53573,Antique,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,7.72680552382,11.03181240638,5.99195988552
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,10.20741247889,12.44886520265,8.4625796056
+1,All Population,6,Incidence,53556,Cavite,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.35098314708,12.015777531260001,8.13901790622
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.23933246283,12.538015143360001,7.23966644844
+1,All Population,6,Incidence,53571,Capiz,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,11.75802162861,14.584582312570001,8.98037004093
+1,All Population,6,Incidence,53558,Batangas,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,13.82760423013,15.56412263486,10.62983363602
+1,All Population,6,Incidence,53585,Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,7.54934383364,11.74140429365,6.01106909759
+1,All Population,6,Incidence,53544,Cagayan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,12.46517732348,14.857085232880001,9.60292797995
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,7.4484047658699994,9.33402208145,5.97195957843
+1,All Population,6,Incidence,53572,Aklan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,12.92609404313,16.067991850840002,10.75810021683
+1,All Population,6,Incidence,53586,Biliran,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.98020401282,13.75242807786,7.92426051978
+1,All Population,6,Incidence,53557,Laguna,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.753094920299999,11.79398210775,8.502408927629999
+1,All Population,6,Incidence,53547,Batanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,16.43917362945,22.254322223309998,12.806679856110001
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.53673066226,12.95804666943,8.343646887110001
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,8.40064930362,11.13091524336,6.61928246989
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,8.36198774379,12.00588515243,6.5631389622
+1,All Population,6,Incidence,53558,Batangas,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,13.68266136122,15.46696721579,10.39112089536
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,10.15577791543,12.408328772610002,7.6925829743300005
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,8.84967991455,11.431698223969999,7.321572435699999
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,4.55899211861,6.01300486289,3.49344239343
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,7.08054840039,8.65985091061,5.59357428866
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,5.9040330353999995,9.36053257727,4.4213352950500004
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,7.361365909610001,11.28285314768,5.80906991186
+1,All Population,6,Incidence,53562,Romblon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.80013022808,12.3142715384,7.92898330417
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,7.40510240209,9.28410201436,5.90141345731
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,8.47350955297,11.97012960117,6.677825635930001
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.187104086720002,12.15104361329,7.536148235570001
+1,All Population,6,Incidence,53585,Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,7.45525320446,11.35052785703,5.946249965210001
+1,All Population,6,Incidence,53575,Iloilo,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,11.579607434409999,14.46784644701,10.12969681284
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,10.07055275248,13.01249224374,8.10935618754
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,3.58520272904,5.18511853714,2.60951204384
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,4.72554982327,8.68120921933,3.29341279141
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,2.76821292436,4.1920839898999995,2.0297153460899997
+1,All Population,6,Incidence,53586,Biliran,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.55555160476,13.082726070669999,7.66232195506
+1,All Population,6,Incidence,53559,Quezon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.59945033992,11.54553854633,8.43403335006
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.20800041971,11.344885265330001,7.33559659218
+1,All Population,6,Incidence,53552,Bulacan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,11.828890846730001,13.370058313769999,9.56243324335
+1,All Population,6,Incidence,53610,Basilan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,4.11260578686,6.520014602430001,2.99806017588
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.5635128663,12.31239772071,7.72621131802
+1,All Population,6,Incidence,53576,Guimaras,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,11.9544266715,15.84316972587,9.28072787153
+1,All Population,6,Incidence,53603,Sarangani,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,7.93449423002,10.92700893248,6.07475729725
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,11.22917084089,13.46868267849,9.94842193202
+1,All Population,6,Incidence,53534,Ifugao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,6.36273269561,10.10708714767,4.647296856710001
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,8.77239457653,12.20607657635,7.049349728369999
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,4.26202546564,5.6842916896,3.32638629671
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,7.043680434400001,11.98620723154,5.12977755632
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.66166626785,12.289922838490002,7.8359305281200005
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,8.3927526569,11.77858874505,6.67582544524
+1,All Population,6,Incidence,53548,Bataan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,12.81130712987,15.29092251724,10.36003460926
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,18.09023138613,21.74523868557,12.360435069289998
+1,All Population,6,Incidence,53535,Benguet,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,10.16106059481,12.56794479948,8.326012484700001
+1,All Population,6,Incidence,53611,Sulu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,2.58231800188,4.26651129742,1.82884578995
+1,All Population,6,Incidence,16,Philippines,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.39900350458,11.70450302325,8.25303927987
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,12.316690745499999,13.87551415121,9.70547558037
+1,All Population,6,Incidence,53580,Siquijor,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,13.41477322236,17.65703196795,10.65494409976
+1,All Population,6,Incidence,53594,Camiguin,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,13.11556186746,15.95261188313,10.51402723626
+1,All Population,6,Incidence,53549,Zambales,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,12.14961414121,14.676096318810002,9.71617764552
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.211855694699999,13.20211687947,6.8572941136
+1,All Population,6,Incidence,53545,Isabela,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,12.364738623009998,14.63206366943,10.3490017145
+1,All Population,6,Incidence,53546,Quirino,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.73141319087,12.00511444215,7.5458509981
+1,All Population,6,Incidence,53536,Abra,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,13.14459496182,16.18705200757,10.70850858947
+1,All Population,6,Incidence,53563,Palawan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,6.69530956067,9.131954610500001,5.25364414399
+1,All Population,6,Incidence,53573,Antique,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,7.25974115032,10.62781851986,5.56951730648
+1,All Population,6,Incidence,53559,Quezon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.26744848611,11.56385309215,8.08476414969
+1,All Population,6,Incidence,53534,Ifugao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,7.38648519661,11.997163642970001,5.27334506764
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,9.575193212879999,14.11466763402,7.478229750090001
+1,All Population,6,Incidence,53554,Aurora,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,10.37621896074,12.63932811081,8.46938369328
+1,All Population,6,Incidence,53548,Bataan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,14.6597619158,17.626090302650002,11.90562760768
+1,All Population,6,Incidence,53535,Benguet,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,12.02987593758,15.07376903724,9.81052384588
+1,All Population,6,Incidence,53549,Zambales,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,15.54388653632,18.710040529460002,12.82445785621
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,8.36401610712,10.5020062336,6.582168340990001
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.067893745720001,12.37855157397,7.866663336069999
+1,All Population,6,Incidence,53547,Batanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,16.21355749156,22.28575084804,12.64637122924
+1,All Population,6,Incidence,53550,Tarlac,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,14.12794149184,16.488553960850002,12.19343797033
+1,All Population,6,Incidence,53536,Abra,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,14.65688447965,18.03030906352,11.83027613085
+1,All Population,6,Incidence,53563,Palawan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,7.87293516286,10.88280128106,6.04679639287
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,17.26244142343,20.86917324212,12.17754245255
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,6.182212156449999,9.71649267836,4.57502000636
+1,All Population,6,Incidence,53551,Pampanga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,13.728189441220001,16.30053912348,12.055254454910001
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.7155006073,11.98905411358,7.43704361652
+1,All Population,6,Incidence,53555,Rizal,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,8.666024019510001,12.01981006095,7.073307006059999
+1,All Population,6,Incidence,53537,Apayao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,10.260908676609999,14.43250076997,7.56715194524
+1,All Population,6,Incidence,53564,Marinduque,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,14.71094790762,18.01181250336,11.81261157124
+1,All Population,6,Incidence,53538,Kalinga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,11.722465070470001,15.1413123385,8.7880229164
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,9.06404136904,13.45200700822,6.80706092922
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,10.89223483932,13.93739169281,8.7525696926
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,7.4034240460000005,11.99130786551,5.61827928689
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,7.57352701243,10.810436232339999,5.7939567352
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,7.83984874357,10.55194729524,6.15016974327
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,10.8731185199,14.943365596280001,8.299652505120001
+1,All Population,6,Incidence,53539,La Union,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,16.74519108095,19.88700300843,13.83915639245
+1,All Population,6,Incidence,53575,Iloilo,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,10.97653825169,13.768097970349999,9.60814594021
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,11.70169937522,13.39561236612,10.17130744854
+1,All Population,6,Incidence,16,Philippines,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,10.88291241344,13.6377126798,9.56138336922
+1,All Population,6,Incidence,53562,Romblon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.29463334465,11.78043573654,7.5100386952200004
+1,All Population,6,Incidence,53552,Bulacan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,13.1726410725,14.938478592730002,11.08829427017
+1,All Population,6,Incidence,53556,Cavite,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.40086214295,12.495890659170001,8.18785958076
+1,All Population,6,Incidence,53578,Cebu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,10.31609094507,13.022462456660001,9.31826336674
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,15.10474944839,16.901425860139998,12.295003697550001
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,7.575236848,11.88851895688,5.88082285697
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,18.888588195009998,23.10150559299,14.492314296109999
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,8.86938070171,11.67170965223,7.31019437242
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,10.37468795073,13.505588928400002,8.329379782
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.56847540259,11.95697428945,7.75250202453
+1,All Population,6,Incidence,53579,Bohol,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,9.63370947661,14.27560513257,7.711874495600001
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,7.19039507843,9.10006581042,5.73839955865
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,10.523520143179999,14.444487342090001,8.58590001043
+1,All Population,6,Incidence,53576,Guimaras,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,10.83377495118,14.56218479658,8.164815898090001
+1,All Population,6,Incidence,53545,Isabela,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,14.813684935549999,17.35443256884,12.292629335510002
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,10.36997870009,15.04588558846,7.780420390520001
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,7.00336597334,10.60978680929,5.58715524754
+1,All Population,6,Incidence,53554,Aurora,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,12.4057509144,15.251634835319999,10.120470676010001
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,8.090427473630001,13.920479746069999,5.6499090349
+1,All Population,6,Incidence,53580,Siquijor,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,13.48944958652,18.15089513132,10.515331092430001
+1,All Population,6,Incidence,53557,Laguna,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.51163280632,11.97154206526,8.3248411919
+1,All Population,6,Incidence,53559,Quezon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,10.97577151695,13.90240231697,9.604172398280001
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.28743921478,11.53554946233,7.418389210559999
+1,All Population,6,Incidence,53546,Quirino,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,11.5454748046,14.28966233902,9.1025166998
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,7.491299769229999,11.73490358974,5.722152654319999
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,6.32566327454,10.47477846045,4.64044971862
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,10.64330988974,15.96034287826,8.292187002479999
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,8.21649811022,10.37952233349,6.5884548060300006
+1,All Population,6,Incidence,53573,Antique,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,8.8863986492,13.16919677137,6.941650200470001
+1,All Population,6,Incidence,53594,Camiguin,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,15.93225660912,19.74903216347,12.624501664939999
+1,All Population,6,Incidence,53544,Cagayan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,11.73565169489,13.87185933089,9.51516385795
+1,All Population,6,Incidence,53603,Sarangani,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,7.920285808539999,10.93812396524,5.99392076655
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,9.56093950445,12.00438214931,7.39426401971
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,7.43381230264,11.86784778029,5.47902192083
+1,All Population,6,Incidence,53547,Batanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,18.90631719542,25.59324796659,14.57619334915
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,9.65506464184,16.27308960576,6.839009487619999
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,8.195239846789999,12.733170671260002,6.29300000137
+1,All Population,6,Incidence,53571,Capiz,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,10.80438439718,13.38447777277,8.365847304099999
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,3.68750252046,5.31677229975,2.64715946417
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,10.935498998049999,15.183764692959999,9.58271376313
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,9.20195074326,13.72057560441,6.91640623563
+1,All Population,6,Incidence,53558,Batangas,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,13.17582872995,14.58628687278,10.50959891706
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,11.915573516490001,14.51875905326,9.19958415962
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,7.88209594756,11.461018424559999,6.1471573482899995
+1,All Population,6,Incidence,53568,Albay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,7.61882523812,12.53453424337,5.81434708399
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,5.26390739635,9.92584664531,3.7055021921
+1,All Population,6,Incidence,53610,Basilan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,4.54267735167,7.07079028401,3.2746046132199997
+1,All Population,6,Incidence,53572,Aklan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,11.89082179277,14.47505933872,9.800464324590001
+1,All Population,6,Incidence,53562,Romblon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,9.68116125133,12.40688483924,7.7597264804599995
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,8.691740094150001,11.15209905073,6.80775716472
+1,All Population,6,Incidence,53585,Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,7.259776125239999,11.392213799119999,5.71093484801
+1,All Population,6,Incidence,53611,Sulu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,2.87436266938,4.64398526684,2.06212339147
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,9.30490080391,13.812306634610001,6.59351303272
+1,All Population,6,Incidence,53575,Iloilo,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,12.12871554505,15.31058955774,10.5373929152
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,9.289578475739999,12.58301914249,7.22216063942
+1,All Population,6,Incidence,53569,Masbate,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,6.027012093140001,9.659035547770001,4.39404117085
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,4.83577010477,6.229967436960001,3.6890412414799996
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,8.63614438459,11.4877812931,7.14625599662
+1,All Population,6,Incidence,53586,Biliran,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,9.799243025120001,13.468325699360001,7.64796278778
+1,All Population,6,Incidence,53576,Guimaras,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,11.839148045549999,15.768457399819999,8.94354192438
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,12.47191387053,15.45784089748,9.925351053510001
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,10.978900124099999,14.403473328239999,9.41977623964
+1,All Population,6,Incidence,53554,Aurora,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,13.28138209302,16.51204412644,10.40385657192
+1,All Population,6,Incidence,53567,Sorsogon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,7.90238304109,12.50211692274,5.9366582686500005
+1,All Population,6,Incidence,53607,Surigao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,9.98847055641,13.067138781579999,7.79026160238
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,11.1612368705,14.615388883640001,9.21023751749
+1,All Population,6,Incidence,53594,Camiguin,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,16.419452018359998,19.946619943399998,12.695806521189999
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,3.00372887863,4.4800512358799995,2.2231025018499997
+1,All Population,6,Incidence,53581,Southern Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,11.24874573041,16.57166928711,8.50067672527
+1,All Population,6,Incidence,53608,Dinagat Islands,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,8.7103379708,14.82614333949,5.96960291975
+1,All Population,6,Incidence,53568,Albay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,7.82959533001,13.55575895278,5.84790157413
+1,All Population,6,Incidence,53603,Sarangani,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,9.37662141943,12.81766753887,7.28963695317
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,11.25651297357,14.48016101335,9.140348436170001
+1,All Population,6,Incidence,53582,Eastern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,9.69484874622,15.93032045124,6.826740393730001
+1,All Population,6,Incidence,53609,Tawi-Tawi,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,3.20158283903,4.64060071733,2.29063485248
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,10.12288369833,14.50776425135,8.08671489971
+1,All Population,6,Incidence,53595,Davao Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,8.48133980383,12.742751616349999,6.32825202616
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2020,10.58604392804,12.916077270970002,9.50079550426
+1,All Population,6,Incidence,53572,Aklan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,12.38779971103,14.987737141430001,10.05410578888
+1,All Population,6,Incidence,53610,Basilan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,4.19276842714,6.599102439479999,2.94571285852
+1,All Population,6,Incidence,53583,Northern Samar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,5.438559705299999,10.22286582683,3.7116977531199997
+1,All Population,6,Incidence,53569,Masbate,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,5.89974295793,9.40149591928,4.12730821253
+1,All Population,6,Incidence,53596,Davao de Oro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,9.31952585926,13.76372205859,6.678465134830001
+1,All Population,6,Incidence,53534,Ifugao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,7.9222285456799995,13.06377887972,5.62450169178
+1,All Population,6,Incidence,53611,Sulu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,2.5233152080499996,4.05663904613,1.7848962426300001
+1,All Population,6,Incidence,53548,Bataan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,13.4493572822,16.39064459503,10.7868588506
+1,All Population,6,Incidence,53597,Davao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,12.309023813880001,16.35957140747,10.17315995657
+1,All Population,6,Incidence,53563,Palawan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,8.561114824,11.4731625395,6.42639234311
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,8.85124351417,12.799242350780002,6.81461317841
+1,All Population,6,Incidence,53549,Zambales,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,15.4674736791,18.49676800728,12.37722132675
+1,All Population,6,Incidence,53535,Benguet,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,12.05917898145,15.28449196957,9.58740620339
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,5.90017797583,7.76704850694,4.55580874164
+1,All Population,6,Incidence,53586,Biliran,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,10.84674801762,15.21723594996,8.33711629202
+1,All Population,6,Incidence,53564,Marinduque,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,14.95610972933,18.57354929252,11.72422198896
+1,All Population,6,Incidence,53536,Abra,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,14.663518883050001,18.070158604870002,11.50032681955
+1,All Population,6,Incidence,53550,Tarlac,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,12.819265115250001,14.793398969099998,10.70140341849
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,3.8154283794,5.75470209579,2.75712719157
+1,All Population,6,Incidence,53538,Kalinga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,12.333046769449998,16.02020317363,9.23288726338
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,9.98191827244,13.21524694316,8.088320006910001
+1,All Population,6,Incidence,53591,Bukidnon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,7.1528399047199995,9.98412072833,5.45572033884
+1,All Population,6,Incidence,53551,Pampanga,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,12.79819482897,15.09052914911,11.02296562317
+1,All Population,6,Incidence,53577,Negros Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,10.75482634416,13.786729735439998,8.55535562563
+1,All Population,6,Incidence,53565,Catanduanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,7.5900192435500005,11.94101879297,5.70450512124
+1,All Population,6,Incidence,53539,La Union,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,16.16637904988,19.20717474468,13.48580298421
+1,All Population,6,Incidence,53537,Apayao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,11.26840058618,15.201669125410001,8.4235062301
+1,All Population,6,Incidence,53592,Lanao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,7.545952676919999,11.761674995089999,5.7290435508
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,11.10253218368,13.707186277220002,9.934609210420001
+1,All Population,6,Incidence,53578,Cebu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,10.81329223094,13.61365359323,9.51245793451
+1,All Population,6,Incidence,53552,Bulacan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,11.34707314091,12.9874024833,9.51289191098
+1,All Population,6,Incidence,53593,Misamis Oriental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,10.88316395093,15.132870174890002,8.63686997906
+1,All Population,6,Incidence,53605,Agusan Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,8.2111023517,12.44184147676,6.04609926823
+1,All Population,6,Incidence,53540,Ilocos Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,19.38314765234,24.13170704934,14.94355492235
+1,All Population,6,Incidence,53553,Nueva Ecija,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,13.15165359138,15.012016225019998,10.7826384896
+1,All Population,6,Incidence,53579,Bohol,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,9.73151314902,13.91198800573,7.5736742459999995
+1,All Population,6,Incidence,53566,Camarines Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,7.35324814801,11.765875713309999,5.453959273740001
+1,All Population,6,Incidence,53606,Surigao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,10.53357826823,14.461042954569999,8.05958021372
+1,All Population,6,Incidence,53545,Isabela,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,13.27739428785,15.888596888199999,10.67731587388
+1,All Population,6,Incidence,53533,Mountain Province,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,10.873865750230001,15.86620262265,8.08892054355
+1,All Population,6,Incidence,53580,Siquijor,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,13.269221155410001,17.458956647679997,10.03992326554
+1,All Population,6,Incidence,16,Philippines,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,10.3920795123,13.090786626700002,8.99423048494
+1,All Population,6,Incidence,53546,Quirino,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,12.738629534369998,15.58456672617,10.15557743366
+1,All Population,6,Incidence,53559,Quezon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,10.6715627535,13.62167960221,9.12689909344
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,20.84176056725,24.787713344529998,14.90185119736
+1,All Population,6,Incidence,53555,Rizal,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,9.694003930440001,13.35627952119,7.99812657785
+1,All Population,6,Incidence,53573,Antique,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,9.42503744347,13.68560945631,7.125444112539999
+1,All Population,6,Incidence,53560,Occidental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,9.85612028209,12.5617063031,7.50032585123
+1,All Population,6,Incidence,53547,Batanes,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,16.04772490306,21.13375429252,12.15615114509
+1,All Population,6,Incidence,53587,Zamboanga Sibugay,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,7.5626401330699995,11.97368670055,5.43698784622
+1,All Population,6,Incidence,53561,Oriental Mindoro,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,11.30666678031,13.66406595161,8.60465137881
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,14.15697431784,16.005314890959998,12.524981102929999
+1,All Population,6,Incidence,53574,Negros Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,10.45966357532,14.36181846776,8.78620236111
+1,All Population,6,Incidence,53556,Cavite,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,10.426748261210001,13.66162779747,9.04233739824
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,7.958016492,12.07237772903,6.2691230426799995
+1,All Population,6,Incidence,53588,Zamboanga Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,9.15451142335,12.510389386730001,7.00442282833
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,7.284383953589999,12.04123875517,5.24308103905
+1,All Population,6,Incidence,53562,Romblon,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,9.5763381625,12.011768244799999,7.54317670829
+1,All Population,6,Incidence,53601,Sultan Kudarat,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,9.61379817268,12.33371190543,7.35650445242
+1,All Population,6,Incidence,53575,Iloilo,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,12.274404881439999,15.53294008989,10.570059375369999
+1,All Population,6,Incidence,53557,Laguna,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,11.02150179112,13.525839233329998,9.5903969643
+1,All Population,6,Incidence,53589,Zamboanga Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,10.95395419423,14.444174826340001,9.03064254584
+1,All Population,6,Incidence,53576,Guimaras,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,12.46362985653,16.84158182154,9.2246813951
+1,All Population,6,Incidence,53602,Cotabato (North Cotabato),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,12.47828607696,15.83392202867,9.60606270172
+1,All Population,6,Incidence,53590,Misamis Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,10.985351471220001,14.405148481340001,8.68172151183
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,11.94143934505,14.84543245138,9.60223960571
+1,All Population,6,Incidence,53571,Capiz,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,11.89324781855,14.324145411709999,9.31240649853
+1,All Population,6,Incidence,53558,Batangas,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,15.631620844499999,17.33483710203,12.42476732707
+1,All Population,6,Incidence,53585,Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,8.564566338799999,13.47369021059,6.72797750501
+1,All Population,6,Incidence,53544,Cagayan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,13.822314111059999,16.43547354626,11.29188849847
+1,All Population,6,Incidence,53541,Ilocos Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,21.39554344259,25.63514169087,15.2976865461
+1,All Population,6,Incidence,53603,Sarangani,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,9.55634770996,13.107788924160001,7.06989428359
+1,All Population,6,Incidence,53604,Agusan Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,9.8292407301,13.79337145656,7.52128962686
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2021,9.69880223423,12.207647129980002,7.736843220510001
+1,All Population,6,Incidence,53542,Pangasinan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,12.09116064528,14.12279951136,10.49097936986
+1,All Population,6,Incidence,53555,Rizal,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,8.87171965468,12.351957368939999,7.16365727381
+1,All Population,6,Incidence,53543,Nueva Vizcaya,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,12.50419777506,15.20607722542,9.88821573596
+1,All Population,6,Incidence,53556,Cavite,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,9.3796314874,12.442550283869998,8.02308090038
+1,All Population,6,Incidence,53544,Cagayan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,12.68846591665,15.52784515853,10.20732596233
+1,All Population,6,Incidence,53570,Camarines Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,7.58090329065,11.35575176215,5.8630806165300005
+1,All Population,6,Incidence,53557,Laguna,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,9.81016559359,12.15508248128,8.470556785
+1,All Population,6,Incidence,53612,Maguindanao,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,4.80555010783,6.1785428405400005,3.6524442708300002
+1,All Population,6,Incidence,53558,Batangas,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,13.62937248521,15.49391398999,11.375252799030001
+1,All Population,6,Incidence,53598,Davao Occidental,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,10.49232457289,13.246167765140001,8.18955300264
+1,All Population,6,Incidence,53584,Samar (Western Samar),3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,7.8749332922,12.8738649973,5.4903344448
+1,All Population,6,Incidence,53571,Capiz,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,12.36908588231,15.126222457759999,9.4189411004
+1,All Population,6,Incidence,53613,Lanao Del Sur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,3.3665802608699997,5.00631982022,2.46204966691
+1,All Population,6,Incidence,53599,Davao Del Norte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,8.25685835916,11.6060744824,6.209664729350001
+1,All Population,6,Incidence,53585,Leyte,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,8.92312110475,14.013320931610002,6.85185154086
+1,All Population,6,Incidence,53572,Aklan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,12.799723631930002,15.73779241556,10.359746674430001
+1,All Population,6,Incidence,53614,National Capital Region,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,10.29860690646,12.875949474210001,9.05149669185
+1,All Population,6,Incidence,53600,South Cotabato,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,10.18462450555,13.640251875319999,8.03839464897
+1,All Population,6,Incidence,53586,Biliran,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2022,10.959407321310001,15.1383159305,8.38549182706

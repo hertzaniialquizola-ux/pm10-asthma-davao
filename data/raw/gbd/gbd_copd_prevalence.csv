@@ -1,0 +1,831 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,5,Prevalence,53581,Southern Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1863.38246461124,2076.21687465167,1647.28598794687
+1,All Population,5,Prevalence,53534,Ifugao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1110.58473751872,1252.30528880156,961.89304722092
+1,All Population,5,Prevalence,53583,Northern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1309.72342773647,1467.9905465305299,1136.67986531889
+1,All Population,5,Prevalence,53536,Abra,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1737.5668365230201,1920.61475483037,1524.9709612948
+1,All Population,5,Prevalence,53600,South Cotabato,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1209.17357314405,1341.52092783781,1064.65112015872
+1,All Population,5,Prevalence,53553,Nueva Ecija,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,2163.7124977809603,2307.0764943014196,1992.76777654387
+1,All Population,5,Prevalence,53589,Zamboanga Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1178.14470463919,1310.93071963219,1036.9205385979901
+1,All Population,5,Prevalence,53586,Biliran,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1649.09955518216,1815.99609192468,1440.23840496359
+1,All Population,5,Prevalence,53542,Pangasinan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1511.70716665714,1682.9470178924398,1325.47504267106
+1,All Population,5,Prevalence,53602,Cotabato (North Cotabato),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1364.45190740065,1502.13010265594,1202.62520008995
+1,All Population,5,Prevalence,53547,Batanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,2050.30519479315,2282.52526870057,1801.07954605296
+1,All Population,5,Prevalence,53555,Rizal,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1081.56839067443,1230.68055288535,937.0026950421001
+1,All Population,5,Prevalence,53588,Zamboanga Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1472.61724112948,1635.81963388971,1280.7094182773799
+1,All Population,5,Prevalence,53591,Bukidnon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1171.80807120292,1308.2816361004,1017.72882309752
+1,All Population,5,Prevalence,53562,Romblon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1618.81994340479,1792.61752984252,1425.39849700127
+1,All Population,5,Prevalence,53590,Misamis Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1627.83516603771,1809.3257144386198,1418.41429915887
+1,All Population,5,Prevalence,53559,Quezon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1298.55633661116,1448.8959793216002,1133.80886032252
+1,All Population,5,Prevalence,53538,Kalinga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1374.0868909277801,1534.00730770373,1212.3883267296499
+1,All Population,5,Prevalence,53572,Aklan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1728.36076520981,1916.6630524204802,1519.1627178685799
+1,All Population,5,Prevalence,53549,Zambales,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1413.96503834739,1564.6893473691002,1241.73523939418
+1,All Population,5,Prevalence,53570,Camarines Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1253.88223424173,1394.75827629365,1095.7404579542401
+1,All Population,5,Prevalence,53544,Cagayan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1589.4411197649902,1766.43185051653,1392.64541994077
+1,All Population,5,Prevalence,53606,Surigao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1521.14617410517,1688.7259888491799,1328.89805206711
+1,All Population,5,Prevalence,53577,Negros Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1408.52769003144,1570.02197172714,1233.42449235924
+1,All Population,5,Prevalence,53577,Negros Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1404.13437212335,1571.9976991073502,1223.89701947519
+1,All Population,5,Prevalence,53607,Surigao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1334.3710204113002,1499.88638508208,1161.22365769984
+1,All Population,5,Prevalence,53564,Marinduque,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1921.73713795912,2099.63002057455,1708.58611032429
+1,All Population,5,Prevalence,53611,Sulu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,922.18838753535,1023.1251320529201,827.37185033159
+1,All Population,5,Prevalence,53557,Laguna,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1232.2939289962098,1389.3400485364,1069.32721121843
+1,All Population,5,Prevalence,53604,Agusan Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1098.00929455213,1228.4123991506299,956.41732336806
+1,All Population,5,Prevalence,53574,Negros Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1629.54520336131,1791.28874541622,1430.29546796366
+1,All Population,5,Prevalence,53594,Camiguin,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1682.12994687202,1872.51946134649,1482.41850225396
+1,All Population,5,Prevalence,53585,Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1360.69190045898,1525.7381860706998,1187.71600876012
+1,All Population,5,Prevalence,53585,Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1375.19873741915,1542.24976385831,1197.21984874978
+1,All Population,5,Prevalence,16,Philippines,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1382.9598448873498,1524.19467184207,1218.45868415384
+1,All Population,5,Prevalence,53553,Nueva Ecija,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,2178.89754771879,2323.93735970621,2004.5723900344099
+1,All Population,5,Prevalence,53551,Pampanga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1274.98906775134,1424.86042017108,1115.71420195392
+1,All Population,5,Prevalence,53559,Quezon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1315.07330299554,1459.99751658173,1141.2038654831401
+1,All Population,5,Prevalence,53613,Lanao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,907.6622992970299,1008.3489053715699,803.09033322762
+1,All Population,5,Prevalence,53564,Marinduque,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1934.1760179047699,2112.3563996645003,1715.3239450231301
+1,All Population,5,Prevalence,53566,Camarines Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1402.9388488326,1545.62673601089,1234.2853841583399
+1,All Population,5,Prevalence,53596,Davao de Oro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1228.85445004053,1374.37202788128,1075.47343744344
+1,All Population,5,Prevalence,53600,South Cotabato,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1198.10802678543,1329.83412948367,1054.9049772778599
+1,All Population,5,Prevalence,53573,Antique,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1795.7202295542902,1986.01242396986,1599.18977395236
+1,All Population,5,Prevalence,16,Philippines,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1389.87491469237,1529.83329615256,1226.63383792528
+1,All Population,5,Prevalence,53538,Kalinga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1365.67159609054,1516.80101226651,1192.9568109372801
+1,All Population,5,Prevalence,53568,Albay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1314.82516571897,1469.1636381323901,1142.3156160902302
+1,All Population,5,Prevalence,53606,Surigao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1518.2384459964298,1687.38335927533,1326.7938259929
+1,All Population,5,Prevalence,53592,Lanao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1079.70939940164,1222.2169855239,943.19564640515
+1,All Population,5,Prevalence,53598,Davao Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1036.12776697001,1160.3923206760699,901.79162741068
+1,All Population,5,Prevalence,53540,Ilocos Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1796.3630768931298,1990.8676691652302,1566.05153147399
+1,All Population,5,Prevalence,53612,Maguindanao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,943.3143330111299,1045.2802410833199,832.4073768571101
+1,All Population,5,Prevalence,53534,Ifugao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1103.59011157801,1249.04540128987,957.4836175022401
+1,All Population,5,Prevalence,53535,Benguet,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,851.2881044111799,967.2201931644701,736.8006126816
+1,All Population,5,Prevalence,53614,National Capital Region,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1677.32848852975,1808.7424871150602,1518.6336143595302
+1,All Population,5,Prevalence,53537,Apayao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1471.70007447589,1633.03767326809,1290.87892576332
+1,All Population,5,Prevalence,53592,Lanao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1073.39319953165,1227.25120981615,932.43802376369
+1,All Population,5,Prevalence,53579,Bohol,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1588.63095574009,1774.37189767176,1397.09160117081
+1,All Population,5,Prevalence,53570,Camarines Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1242.01805731881,1385.749858582,1086.37206847981
+1,All Population,5,Prevalence,53575,Iloilo,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1676.2868091171001,1842.1763636581798,1478.55874837557
+1,All Population,5,Prevalence,53609,Tawi-Tawi,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1034.18628333122,1160.40285744722,918.5764259102299
+1,All Population,5,Prevalence,53555,Rizal,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1077.10956445862,1230.87464444643,927.40760311387
+1,All Population,5,Prevalence,53607,Surigao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1321.55911062561,1490.34042874964,1149.1694562837502
+1,All Population,5,Prevalence,53578,Cebu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1086.66560153062,1220.73072349662,960.20604275379
+1,All Population,5,Prevalence,53587,Zamboanga Sibugay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1263.11763883223,1407.75569489975,1106.59137811131
+1,All Population,5,Prevalence,53595,Davao Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1226.10467065846,1384.53335286532,1087.57880359128
+1,All Population,5,Prevalence,53582,Eastern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1436.5874210316701,1616.9741441609701,1249.80515052764
+1,All Population,5,Prevalence,53565,Catanduanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1383.0986579790201,1546.13886333056,1212.11908312958
+1,All Population,5,Prevalence,53539,La Union,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1671.82597509935,1845.65344479412,1463.20771744841
+1,All Population,5,Prevalence,53548,Bataan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1462.18357109897,1610.02566255764,1287.6961810601301
+1,All Population,5,Prevalence,53599,Davao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1303.58742068536,1456.22075242137,1147.52446076242
+1,All Population,5,Prevalence,53554,Aurora,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1617.85519267745,1768.8849999113102,1453.05346923719
+1,All Population,5,Prevalence,53580,Siquijor,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1873.75645130201,2106.58749902078,1639.0260247365202
+1,All Population,5,Prevalence,53550,Tarlac,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1581.2984695669802,1736.87640377907,1408.9591793821999
+1,All Population,5,Prevalence,53579,Bohol,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1599.06322273071,1779.17081302375,1409.33872725078
+1,All Population,5,Prevalence,53547,Batanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,2012.1099678314501,2249.20302669373,1759.50290054578
+1,All Population,5,Prevalence,53566,Camarines Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1406.03744493253,1547.71236931771,1236.50092616951
+1,All Population,5,Prevalence,53567,Sorsogon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1360.94185465899,1515.1641528489502,1189.6451641246201
+1,All Population,5,Prevalence,53608,Dinagat Islands,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1539.1784373905,1739.3012745691299,1324.46589387857
+1,All Population,5,Prevalence,53597,Davao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,897.5322862312,1023.10918407246,781.12526186685
+1,All Population,5,Prevalence,53552,Bulacan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1376.31991346045,1527.93031735768,1202.31502852258
+1,All Population,5,Prevalence,53582,Eastern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1443.91074295985,1629.44255051619,1255.09535375362
+1,All Population,5,Prevalence,53541,Ilocos Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1780.02416352811,1981.6001077402698,1564.98975903063
+1,All Population,5,Prevalence,53569,Masbate,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1305.3805914801999,1444.5663968598599,1142.2227337709
+1,All Population,5,Prevalence,53546,Quirino,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1568.77741662397,1724.1630644991699,1378.2362648333701
+1,All Population,5,Prevalence,53593,Misamis Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1080.38391834778,1219.30906742316,933.73933234076
+1,All Population,5,Prevalence,53576,Guimaras,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1645.8295776232399,1813.4362844762002,1448.93826896555
+1,All Population,5,Prevalence,53546,Quirino,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1559.86899643397,1711.1812834151801,1377.82369584942
+1,All Population,5,Prevalence,53561,Oriental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1495.6337198818,1650.5809647432802,1325.05963505607
+1,All Population,5,Prevalence,53543,Nueva Vizcaya,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1574.3752626273,1740.1297786203597,1378.37788344836
+1,All Population,5,Prevalence,53602,Cotabato (North Cotabato),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1379.82289275432,1520.39994280016,1218.86833399754
+1,All Population,5,Prevalence,53545,Isabela,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1550.404919914,1708.25853103355,1366.44233162316
+1,All Population,5,Prevalence,53601,Sultan Kudarat,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1329.12056748304,1453.24855011289,1188.69217128174
+1,All Population,5,Prevalence,53545,Isabela,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1552.7766259550401,1709.0617493555,1370.76221138632
+1,All Population,5,Prevalence,53584,Samar (Western Samar),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1376.02758029983,1527.05773009429,1200.74732866574
+1,All Population,5,Prevalence,16,Philippines,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1383.53434034426,1527.83553062541,1218.83237414709
+1,All Population,5,Prevalence,53533,Mountain Province,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1347.75117249581,1508.2973083659501,1182.8528888979802
+1,All Population,5,Prevalence,53542,Pangasinan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1494.46710991861,1663.5799759509198,1317.9485762946501
+1,All Population,5,Prevalence,53534,Ifugao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1103.90711568695,1258.9359361821,957.1011671573501
+1,All Population,5,Prevalence,53556,Cavite,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1172.21598510487,1320.4447049037299,1025.62928505716
+1,All Population,5,Prevalence,53608,Dinagat Islands,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1538.9815976033,1729.6816043367799,1323.97109229541
+1,All Population,5,Prevalence,53603,Sarangani,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1172.61993878575,1314.65197390239,1025.3688283994
+1,All Population,5,Prevalence,53558,Batangas,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1324.5715297366798,1487.02479637997,1152.19228171875
+1,All Population,5,Prevalence,53576,Guimaras,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1649.0744292939103,1822.71309076893,1461.70706181769
+1,All Population,5,Prevalence,53599,Davao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1295.6937665139899,1454.84173043602,1136.90126153529
+1,All Population,5,Prevalence,53593,Misamis Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1104.3762384262,1243.47300565091,960.73645204005
+1,All Population,5,Prevalence,53533,Mountain Province,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1331.85571279432,1490.81050973731,1165.8889325268099
+1,All Population,5,Prevalence,53592,Lanao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1072.03625906249,1231.31268129443,925.58033121039
+1,All Population,5,Prevalence,53581,Southern Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1838.7015799512,2048.51803382079,1617.59025832501
+1,All Population,5,Prevalence,53610,Basilan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,995.02140801616,1111.63855582203,878.58999042594
+1,All Population,5,Prevalence,53561,Oriental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1498.24919457568,1648.6734641809799,1328.03684780109
+1,All Population,5,Prevalence,53557,Laguna,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1229.7620619520999,1381.8072033613398,1066.9035402782802
+1,All Population,5,Prevalence,53533,Mountain Province,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1327.3578033906501,1491.80349510993,1156.6468503491901
+1,All Population,5,Prevalence,53560,Occidental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1376.09969463794,1503.07367847048,1216.23258803519
+1,All Population,5,Prevalence,53563,Palawan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1131.27884606928,1269.8495318074,995.2078859259999
+1,All Population,5,Prevalence,53572,Aklan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1744.5045023967602,1936.44777486757,1537.36154780626
+1,All Population,5,Prevalence,53569,Masbate,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1310.72379294073,1449.33736162462,1146.30528511708
+1,All Population,5,Prevalence,53584,Samar (Western Samar),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1379.00315657458,1534.8957082311,1202.4534838618401
+1,All Population,5,Prevalence,53573,Antique,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1785.07439452155,1965.99625165007,1579.83532768357
+1,All Population,5,Prevalence,53539,La Union,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1658.11469576484,1827.3788079731698,1448.37124751313
+1,All Population,5,Prevalence,53554,Aurora,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1625.44876557713,1772.02807294107,1462.07953732136
+1,All Population,5,Prevalence,53546,Quirino,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1580.82278491694,1736.28250575711,1380.84159606245
+1,All Population,5,Prevalence,53603,Sarangani,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1161.94664889821,1296.3199112561902,1019.25935546422
+1,All Population,5,Prevalence,53539,La Union,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1655.61797138909,1828.8923078435298,1443.5005097611102
+1,All Population,5,Prevalence,53599,Davao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1293.73840048245,1454.46059133741,1132.41116218989
+1,All Population,5,Prevalence,53586,Biliran,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1649.63584034335,1822.02754432095,1445.93305330701
+1,All Population,5,Prevalence,53553,Nueva Ecija,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,2198.56672433348,2348.52314959295,2017.29443479591
+1,All Population,5,Prevalence,53600,South Cotabato,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1193.8335695076,1325.20717312403,1049.64762909056
+1,All Population,5,Prevalence,53541,Ilocos Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1760.19773834504,1954.56169156306,1553.67600234142
+1,All Population,5,Prevalence,53535,Benguet,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,865.07213047469,980.6299691878,749.69374805752
+1,All Population,5,Prevalence,53612,Maguindanao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,972.3017948091399,1075.3082723651598,852.73616019063
+1,All Population,5,Prevalence,53605,Agusan Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1294.25814762336,1419.40361010117,1133.0799157535
+1,All Population,5,Prevalence,53552,Bulacan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1379.08741960862,1534.52334021925,1203.22871504005
+1,All Population,5,Prevalence,53604,Agusan Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1076.70918938443,1211.77785489434,941.3266419677101
+1,All Population,5,Prevalence,53589,Zamboanga Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1160.64162867063,1301.1691874379699,1005.7039925772599
+1,All Population,5,Prevalence,53571,Capiz,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1656.6354557733898,1825.0448902097298,1461.0787426244601
+1,All Population,5,Prevalence,53589,Zamboanga Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1165.03102253269,1299.73999500261,1013.04019862718
+1,All Population,5,Prevalence,53543,Nueva Vizcaya,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1576.5692350890902,1749.44108664367,1374.52826216723
+1,All Population,5,Prevalence,53562,Romblon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1614.77912447546,1790.79347060359,1425.76391379961
+1,All Population,5,Prevalence,53611,Sulu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,939.98913851122,1042.85564204762,837.4661772113301
+1,All Population,5,Prevalence,53581,Southern Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1844.9058029790601,2058.65463920635,1625.5632466818802
+1,All Population,5,Prevalence,53568,Albay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1334.93084647238,1491.6493685749099,1155.76763005032
+1,All Population,5,Prevalence,53547,Batanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1980.71448917207,2229.17703431879,1738.93494269435
+1,All Population,5,Prevalence,53545,Isabela,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1555.95245473994,1716.6857674564599,1367.60369755434
+1,All Population,5,Prevalence,53607,Surigao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1315.47957562069,1486.42295435453,1141.41745288925
+1,All Population,5,Prevalence,53583,Northern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1302.76200632571,1456.62906510175,1134.31567416388
+1,All Population,5,Prevalence,53613,Lanao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,909.67882864092,1009.9845615811699,802.92094835325
+1,All Population,5,Prevalence,53536,Abra,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1724.78268545869,1910.5786004843198,1517.40892299895
+1,All Population,5,Prevalence,53590,Misamis Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1619.94432251286,1809.64830740474,1414.30301226095
+1,All Population,5,Prevalence,53584,Samar (Western Samar),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1406.32050793175,1567.59011227555,1223.65572502957
+1,All Population,5,Prevalence,53554,Aurora,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1636.68315926516,1782.95538238419,1473.3147633578299
+1,All Population,5,Prevalence,53540,Ilocos Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1817.49377198566,2014.33612532635,1590.3172147225998
+1,All Population,5,Prevalence,53587,Zamboanga Sibugay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1256.8545573112801,1398.90024267251,1100.1822100546499
+1,All Population,5,Prevalence,53544,Cagayan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1575.3982923122098,1755.4725611380402,1379.7721728761699
+1,All Population,5,Prevalence,53542,Pangasinan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1487.58725491813,1662.3727815270302,1318.8031340800399
+1,All Population,5,Prevalence,53562,Romblon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1618.5255025465399,1803.79103722059,1427.03471242402
+1,All Population,5,Prevalence,16,Philippines,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1391.7897936337502,1536.46065416182,1226.40577723169
+1,All Population,5,Prevalence,53565,Catanduanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1354.31107658873,1535.40648960641,1180.82424073576
+1,All Population,5,Prevalence,53578,Cebu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1054.33818941708,1192.19075292704,924.37936638041
+1,All Population,5,Prevalence,53576,Guimaras,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1657.4631389206702,1837.35467374214,1476.9658934900099
+1,All Population,5,Prevalence,53574,Negros Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1642.4323109860197,1801.4077958224298,1445.36240908631
+1,All Population,5,Prevalence,53586,Biliran,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1646.4065087699198,1817.5427411162002,1441.95155891862
+1,All Population,5,Prevalence,53569,Masbate,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1321.17152245556,1468.5385238661802,1150.885667071
+1,All Population,5,Prevalence,53603,Sarangani,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1201.12076833793,1346.49101843215,1044.5395488576
+1,All Population,5,Prevalence,53571,Capiz,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1648.4997545830101,1816.4681840003,1446.49065711825
+1,All Population,5,Prevalence,53556,Cavite,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1191.4277010426501,1344.1646237802402,1037.98437215389
+1,All Population,5,Prevalence,53565,Catanduanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1363.8327429327499,1530.04243575534,1191.16726356721
+1,All Population,5,Prevalence,53534,Ifugao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1112.38211784521,1266.47634398767,966.0815442081499
+1,All Population,5,Prevalence,53549,Zambales,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1396.56126538259,1546.96788723554,1219.89582148335
+1,All Population,5,Prevalence,53538,Kalinga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1386.48458946089,1554.09200916217,1221.3472899430099
+1,All Population,5,Prevalence,53573,Antique,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1787.09799804024,1969.3943680955201,1586.25586368594
+1,All Population,5,Prevalence,53591,Bukidnon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1178.36176597304,1317.34310738311,1025.14069726296
+1,All Population,5,Prevalence,53570,Camarines Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1238.74577433741,1387.17187891972,1073.99096710243
+1,All Population,5,Prevalence,53575,Iloilo,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1654.5263195633001,1820.55991312726,1455.1583889174499
+1,All Population,5,Prevalence,53543,Nueva Vizcaya,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1589.5624827175402,1759.10847540088,1387.63205282447
+1,All Population,5,Prevalence,53593,Misamis Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1068.58918035575,1208.0338004585499,917.93132308875
+1,All Population,5,Prevalence,53593,Misamis Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1069.34592677383,1207.1887529948199,917.84547228023
+1,All Population,5,Prevalence,53612,Maguindanao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,960.34584063112,1063.12568152355,845.33753303135
+1,All Population,5,Prevalence,53605,Agusan Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1308.9962234817501,1436.72088649954,1151.81806279743
+1,All Population,5,Prevalence,53556,Cavite,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1176.13040899842,1327.3628404519302,1028.80971526384
+1,All Population,5,Prevalence,53577,Negros Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1406.01688326911,1583.21265851795,1223.59154959895
+1,All Population,5,Prevalence,53547,Batanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1959.77534471637,2193.10447973917,1722.89147791113
+1,All Population,5,Prevalence,53541,Ilocos Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1764.6875284304801,1961.1154530875099,1552.67973003059
+1,All Population,5,Prevalence,53556,Cavite,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1177.32102273171,1332.1875615184,1026.17752398516
+1,All Population,5,Prevalence,53588,Zamboanga Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1481.32032084148,1648.74505287456,1292.86892536595
+1,All Population,5,Prevalence,53601,Sultan Kudarat,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1343.03918476865,1466.32369982938,1199.15970457902
+1,All Population,5,Prevalence,53609,Tawi-Tawi,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1043.06474340127,1172.55978057785,929.67558759494
+1,All Population,5,Prevalence,53598,Davao Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1002.0141549133899,1129.15561290106,870.5752864748299
+1,All Population,5,Prevalence,53611,Sulu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,931.73733267618,1032.6598321056601,835.59597849311
+1,All Population,5,Prevalence,53537,Apayao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1459.67677465098,1614.2062800092199,1282.36646770852
+1,All Population,5,Prevalence,53576,Guimaras,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1673.20811785102,1853.59578593242,1488.23481255451
+1,All Population,5,Prevalence,53588,Zamboanga Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1493.47247447843,1661.68011693873,1303.4379396163301
+1,All Population,5,Prevalence,53601,Sultan Kudarat,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1359.46402408589,1485.78975530516,1211.34651016101
+1,All Population,5,Prevalence,53585,Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1357.99324873475,1532.35935027741,1188.30055004424
+1,All Population,5,Prevalence,53594,Camiguin,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1668.9745099918,1860.9443561532098,1472.15402218963
+1,All Population,5,Prevalence,53582,Eastern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1454.18535985692,1634.9764478428099,1261.04280913659
+1,All Population,5,Prevalence,53561,Oriental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1505.5719661472501,1657.21486591646,1329.0542409167201
+1,All Population,5,Prevalence,53546,Quirino,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1594.7075589126398,1754.7971190998298,1396.5413728255298
+1,All Population,5,Prevalence,53548,Bataan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1465.23190911181,1610.40047055949,1291.13681327882
+1,All Population,5,Prevalence,53610,Basilan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,995.11539577939,1112.01039150242,874.87563908436
+1,All Population,5,Prevalence,53608,Dinagat Islands,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1543.19135257772,1749.7917566303302,1324.07429612541
+1,All Population,5,Prevalence,53592,Lanao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1074.60223914861,1229.85817201443,930.4203762576
+1,All Population,5,Prevalence,53577,Negros Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1413.82461206672,1584.93694897658,1233.46816607447
+1,All Population,5,Prevalence,53536,Abra,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1718.55466762612,1911.7022466785202,1512.7517662389
+1,All Population,5,Prevalence,53551,Pampanga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1279.6215760209,1436.36209748392,1111.17625173149
+1,All Population,5,Prevalence,53559,Quezon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1297.96724470609,1451.74390176864,1138.25506375031
+1,All Population,5,Prevalence,53600,South Cotabato,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1202.48567419889,1338.94722373341,1056.95376522531
+1,All Population,5,Prevalence,53555,Rizal,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1081.0135291444801,1237.85508835409,926.5538196965999
+1,All Population,5,Prevalence,53608,Dinagat Islands,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1552.2157799962501,1757.62869741609,1335.5239852990298
+1,All Population,5,Prevalence,53580,Siquijor,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1853.4955579374498,2091.97499974076,1615.21025983057
+1,All Population,5,Prevalence,53564,Marinduque,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1938.3664493832603,2118.72034553379,1722.3854050361
+1,All Population,5,Prevalence,53606,Surigao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1542.16362723269,1709.59337870096,1354.8493234652599
+1,All Population,5,Prevalence,53535,Benguet,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,869.1252077054301,990.49297210875,753.60804784625
+1,All Population,5,Prevalence,53569,Masbate,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1335.0657890882999,1483.833429113,1162.5072371649799
+1,All Population,5,Prevalence,53575,Iloilo,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1644.9933211677699,1813.6640151825397,1438.8637275982398
+1,All Population,5,Prevalence,53534,Ifugao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1120.4231914529798,1273.5062580245199,970.5506871478401
+1,All Population,5,Prevalence,53594,Camiguin,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1663.28678342378,1860.33182970615,1470.7951212301
+1,All Population,5,Prevalence,53567,Sorsogon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1349.94422694179,1505.85873824537,1175.18534770117
+1,All Population,5,Prevalence,53583,Northern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1308.23715507813,1464.40949064039,1140.86822614977
+1,All Population,5,Prevalence,53533,Mountain Province,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1338.12610215207,1501.5058321931601,1168.5110046415
+1,All Population,5,Prevalence,53558,Batangas,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1341.26175711718,1506.28763883181,1165.36723348241
+1,All Population,5,Prevalence,53568,Albay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1304.12866570302,1456.9892869451999,1138.33300587473
+1,All Population,5,Prevalence,53535,Benguet,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,852.91580836216,973.5812586458001,735.09654133838
+1,All Population,5,Prevalence,53563,Palawan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1129.22483533356,1265.43826055093,988.88746873511
+1,All Population,5,Prevalence,16,Philippines,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1401.84152461492,1547.50095437966,1236.87424352057
+1,All Population,5,Prevalence,53609,Tawi-Tawi,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1058.95140060276,1175.753963503,945.45093664993
+1,All Population,5,Prevalence,53602,Cotabato (North Cotabato),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1397.94732470063,1538.81645573397,1235.80284826974
+1,All Population,5,Prevalence,53614,National Capital Region,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1687.70906941487,1827.7310424914199,1525.55602632234
+1,All Population,5,Prevalence,53591,Bukidnon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1187.01165065658,1327.28059561947,1033.9444493984
+1,All Population,5,Prevalence,53570,Camarines Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1243.47295826139,1391.9799407789699,1083.48758525947
+1,All Population,5,Prevalence,53595,Davao Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1222.08494641112,1375.98813682744,1079.37054199714
+1,All Population,5,Prevalence,53548,Bataan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1464.6384023564199,1614.80427648295,1289.9147401872501
+1,All Population,5,Prevalence,53538,Kalinga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1412.89261283888,1571.04903342477,1240.9643210873598
+1,All Population,5,Prevalence,53543,Nueva Vizcaya,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1616.65179596398,1785.5360511562099,1420.35233903902
+1,All Population,5,Prevalence,53556,Cavite,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1229.9087910932499,1385.6349350065,1067.32892361852
+1,All Population,5,Prevalence,53539,La Union,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1669.82588542163,1843.94539026974,1457.00354013097
+1,All Population,5,Prevalence,53584,Samar (Western Samar),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1423.23827641753,1586.6064061901102,1236.02372064255
+1,All Population,5,Prevalence,53561,Oriental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1498.1974414256101,1656.66158437585,1321.18765960048
+1,All Population,5,Prevalence,53549,Zambales,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1391.58107057527,1547.1702702500202,1213.97297098377
+1,All Population,5,Prevalence,53610,Basilan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,993.0052995591101,1112.51722653431,878.3319447450399
+1,All Population,5,Prevalence,53550,Tarlac,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1586.8452047731198,1743.68020250327,1411.85988741867
+1,All Population,5,Prevalence,53558,Batangas,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1318.6922351539,1480.39114036034,1143.2483007907101
+1,All Population,5,Prevalence,53590,Misamis Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1616.79883831198,1800.94776339024,1413.85623009687
+1,All Population,5,Prevalence,53539,La Union,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1687.88158636802,1861.89327993951,1473.99694009159
+1,All Population,5,Prevalence,53544,Cagayan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1571.65359908743,1753.5861452080198,1373.62965017049
+1,All Population,5,Prevalence,53538,Kalinga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1401.66984752871,1563.3024535650497,1234.3120314345301
+1,All Population,5,Prevalence,53590,Misamis Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1634.5599383053097,1821.8284953653401,1421.26444459748
+1,All Population,5,Prevalence,53573,Antique,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1805.7563068937197,1978.79487099145,1599.34211732813
+1,All Population,5,Prevalence,53603,Sarangani,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1225.1093650960602,1362.88877644218,1066.0981063864
+1,All Population,5,Prevalence,53609,Tawi-Tawi,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1049.92150330561,1184.48301157872,931.94146249289
+1,All Population,5,Prevalence,53581,Southern Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1855.26353275709,2070.35281626228,1644.4416611396898
+1,All Population,5,Prevalence,53598,Davao Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1038.79951760124,1164.99805791977,911.29121654526
+1,All Population,5,Prevalence,53596,Davao de Oro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1237.62818200675,1384.1715129523,1079.91565776689
+1,All Population,5,Prevalence,53536,Abra,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1723.9151673579202,1918.08026011163,1516.3296297121801
+1,All Population,5,Prevalence,53551,Pampanga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1267.45054396205,1420.8624756807098,1103.00384661352
+1,All Population,5,Prevalence,53599,Davao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1296.18754592377,1447.63038003196,1131.05654213962
+1,All Population,5,Prevalence,53586,Biliran,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1659.23574351999,1832.2886759883797,1454.82225774513
+1,All Population,5,Prevalence,53571,Capiz,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1648.8850769423898,1822.4952056038999,1441.90248956684
+1,All Population,5,Prevalence,53569,Masbate,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1349.79763022783,1496.07409164417,1174.39176236499
+1,All Population,5,Prevalence,53600,South Cotabato,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1197.3459337121901,1331.02731152194,1052.52599036945
+1,All Population,5,Prevalence,53585,Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1365.43462533098,1537.31874278437,1193.67491871308
+1,All Population,5,Prevalence,53540,Ilocos Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1813.46967856447,2020.1726054243,1578.7301503910298
+1,All Population,5,Prevalence,16,Philippines,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1429.89638430326,1577.29500562004,1263.5430309989201
+1,All Population,5,Prevalence,53587,Zamboanga Sibugay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1309.77938615162,1454.0913061748402,1147.07648636566
+1,All Population,5,Prevalence,53553,Nueva Ecija,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,2257.5634079189,2407.08599066831,2082.31863909088
+1,All Population,5,Prevalence,16,Philippines,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1414.44667610048,1562.0243579517,1249.0734769875098
+1,All Population,5,Prevalence,53540,Ilocos Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1788.18920811885,1986.10846729767,1545.90393051037
+1,All Population,5,Prevalence,53557,Laguna,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1275.2354650571601,1427.94233838592,1105.98476701265
+1,All Population,5,Prevalence,53572,Aklan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1720.12015899958,1907.18642028043,1508.34032641774
+1,All Population,5,Prevalence,53547,Batanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1919.87984779741,2131.7837222092203,1690.8105441882901
+1,All Population,5,Prevalence,53577,Negros Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1430.84877741776,1604.28839803777,1253.5414703659
+1,All Population,5,Prevalence,53562,Romblon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1643.50981691576,1819.05224905674,1447.30192197437
+1,All Population,5,Prevalence,53552,Bulacan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1405.35533595334,1559.58360489096,1227.52391436507
+1,All Population,5,Prevalence,53546,Quirino,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1606.6307047985101,1768.46000742919,1409.56345798354
+1,All Population,5,Prevalence,53567,Sorsogon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1348.39506320954,1511.21126417499,1176.09826184208
+1,All Population,5,Prevalence,53614,National Capital Region,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1700.50972314375,1846.43771670615,1533.5015287454999
+1,All Population,5,Prevalence,53576,Guimaras,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1685.79550523134,1866.32855806558,1500.2486434893501
+1,All Population,5,Prevalence,53547,Batanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1937.4905348920402,2156.81793492868,1705.7838587289198
+1,All Population,5,Prevalence,53549,Zambales,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1399.62313908122,1552.99411450198,1220.6910781214701
+1,All Population,5,Prevalence,53538,Kalinga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1421.6846256974,1581.5246348477401,1247.86732448934
+1,All Population,5,Prevalence,53553,Nueva Ecija,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,2226.7071370487097,2373.85719110516,2048.56216650744
+1,All Population,5,Prevalence,53570,Camarines Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1250.63962153684,1403.72155091016,1082.81397817338
+1,All Population,5,Prevalence,53585,Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1375.34324192293,1542.03557109587,1201.8694155136
+1,All Population,5,Prevalence,53604,Agusan Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1076.84492409488,1209.4305042623998,938.66289993378
+1,All Population,5,Prevalence,53560,Occidental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1367.0492091779302,1495.8838489666,1208.11856427683
+1,All Population,5,Prevalence,53558,Batangas,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1324.86218524684,1484.91211912891,1157.1199392194
+1,All Population,5,Prevalence,53605,Agusan Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1347.00996837887,1480.3455157425399,1187.9389316122001
+1,All Population,5,Prevalence,53578,Cebu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1037.58250574011,1180.44091238179,903.21698529349
+1,All Population,5,Prevalence,53593,Misamis Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1073.25926495051,1212.42223299381,923.23946236088
+1,All Population,5,Prevalence,53563,Palawan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1156.49597190435,1292.61757293032,1013.43094234129
+1,All Population,5,Prevalence,53553,Nueva Ecija,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,2290.57680005289,2447.5714321801,2111.39998605008
+1,All Population,5,Prevalence,16,Philippines,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1443.47801385947,1592.64211106436,1276.4865176117198
+1,All Population,5,Prevalence,53564,Marinduque,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1921.5670400298802,2108.6525936142802,1705.92761910379
+1,All Population,5,Prevalence,53592,Lanao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1075.96870810223,1227.40516023855,926.52400376962
+1,All Population,5,Prevalence,53579,Bohol,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1585.51080797367,1772.56191468315,1388.10261973661
+1,All Population,5,Prevalence,53595,Davao Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1247.69573804489,1410.01548486294,1107.3206218130601
+1,All Population,5,Prevalence,53597,Davao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,922.27635499369,1050.44650317873,803.3160315898199
+1,All Population,5,Prevalence,53546,Quirino,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1618.53154646746,1784.25065181133,1422.19341607267
+1,All Population,5,Prevalence,53595,Davao Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1235.12846866366,1390.78465483548,1095.42333594278
+1,All Population,5,Prevalence,53533,Mountain Province,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1353.85857134023,1521.02168925524,1177.92441935053
+1,All Population,5,Prevalence,53587,Zamboanga Sibugay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1274.58800642523,1424.52594454536,1116.50399296993
+1,All Population,5,Prevalence,53599,Davao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1300.03574865023,1454.58160867479,1134.44381116506
+1,All Population,5,Prevalence,53545,Isabela,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1569.15969523557,1726.7804060984101,1383.76838986651
+1,All Population,5,Prevalence,53585,Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1402.7000173681101,1581.72593816013,1225.9856732385801
+1,All Population,5,Prevalence,53562,Romblon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1652.90375023939,1821.87390310086,1451.95943271812
+1,All Population,5,Prevalence,53554,Aurora,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1664.84347949832,1821.18717423429,1499.04231308328
+1,All Population,5,Prevalence,53608,Dinagat Islands,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1558.2796958407898,1762.7192565241398,1343.56472577372
+1,All Population,5,Prevalence,53576,Guimaras,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1696.1330229200498,1874.88386443639,1503.6449196266901
+1,All Population,5,Prevalence,53578,Cebu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1034.76211462153,1175.9533338403598,901.2249403411
+1,All Population,5,Prevalence,53612,Maguindanao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,971.09895418729,1075.1687788581,858.2048318905499
+1,All Population,5,Prevalence,53544,Cagayan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1641.41429987105,1817.8821125856298,1440.30481323745
+1,All Population,5,Prevalence,53539,La Union,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1708.77732593777,1878.80314486276,1493.53284118049
+1,All Population,5,Prevalence,53599,Davao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1308.26441420753,1464.78451043378,1140.46648028538
+1,All Population,5,Prevalence,53607,Surigao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1314.93233691099,1485.04367313181,1144.35477189081
+1,All Population,5,Prevalence,53592,Lanao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1076.87079382647,1224.55120206234,922.7563902378799
+1,All Population,5,Prevalence,53590,Misamis Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1613.98103447721,1799.52709098454,1413.6902251184301
+1,All Population,5,Prevalence,53603,Sarangani,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1185.41333664099,1332.5558403323,1033.2768961496702
+1,All Population,5,Prevalence,53560,Occidental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1387.87617760468,1521.0322394129,1223.60580400666
+1,All Population,5,Prevalence,53554,Aurora,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1684.51864078817,1848.61801392718,1521.5283118718
+1,All Population,5,Prevalence,53543,Nueva Vizcaya,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1572.56462963168,1736.89625576859,1372.95203871516
+1,All Population,5,Prevalence,53539,La Union,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1733.20090902412,1908.1587267550499,1511.51761860233
+1,All Population,5,Prevalence,53533,Mountain Province,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1348.23611077373,1510.0821035189401,1175.57680239363
+1,All Population,5,Prevalence,53552,Bulacan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1382.5303929465001,1532.14521189044,1212.94884525108
+1,All Population,5,Prevalence,53570,Camarines Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1261.14900919571,1412.0396580286902,1094.5969525221901
+1,All Population,5,Prevalence,53600,South Cotabato,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1208.74086918377,1344.39924384103,1065.94049083824
+1,All Population,5,Prevalence,16,Philippines,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1447.20962504741,1601.54562938277,1282.40001335579
+1,All Population,5,Prevalence,53549,Zambales,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1462.58965822362,1621.8565298017702,1283.49132785154
+1,All Population,5,Prevalence,53534,Ifugao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1128.85431125764,1277.64037474309,976.3118284913099
+1,All Population,5,Prevalence,53610,Basilan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,995.53307228112,1111.04668364351,882.2122041954201
+1,All Population,5,Prevalence,53563,Palawan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1146.83540564114,1285.0846102816,1006.7206650398499
+1,All Population,5,Prevalence,53548,Bataan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1476.10382144842,1625.3867232307598,1300.62409466546
+1,All Population,5,Prevalence,53607,Surigao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1314.76519745017,1483.49664837544,1142.86691145505
+1,All Population,5,Prevalence,53554,Aurora,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1693.7744702865398,1869.5963356151399,1529.69542530098
+1,All Population,5,Prevalence,53584,Samar (Western Samar),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1438.3646858288498,1597.65526578807,1247.54356754166
+1,All Population,5,Prevalence,53605,Agusan Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1388.8215302427,1530.5646308243,1221.86419259122
+1,All Population,5,Prevalence,53569,Masbate,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1366.4170657642198,1515.52127231773,1187.8274946444
+1,All Population,5,Prevalence,53571,Capiz,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1670.32799739006,1848.99216046916,1468.45529633086
+1,All Population,5,Prevalence,53543,Nueva Vizcaya,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1645.28202194744,1821.47226251309,1439.92466765376
+1,All Population,5,Prevalence,53569,Masbate,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1398.15287505288,1557.59406000898,1218.25063672248
+1,All Population,5,Prevalence,53599,Davao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1320.67044638332,1474.4139688782,1148.3432594277501
+1,All Population,5,Prevalence,53566,Camarines Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1414.7734172839,1560.77131567418,1243.16077656685
+1,All Population,5,Prevalence,53613,Lanao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,905.9095113524501,1005.44673692365,803.99082248004
+1,All Population,5,Prevalence,53598,Davao Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2014,1011.06884606211,1136.0389596499401,876.73571531319
+1,All Population,5,Prevalence,53547,Batanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1908.3110201085399,2128.97333005399,1678.0152904047202
+1,All Population,5,Prevalence,53609,Tawi-Tawi,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1054.67057885154,1171.38955761695,937.0047378758101
+1,All Population,5,Prevalence,53596,Davao de Oro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1349.08334823976,1511.61582296133,1185.47602610322
+1,All Population,5,Prevalence,53594,Camiguin,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1663.9850328565499,1856.0099733400102,1464.73378392922
+1,All Population,5,Prevalence,53557,Laguna,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1234.03056132952,1390.56402321681,1065.10556494759
+1,All Population,5,Prevalence,53602,Cotabato (North Cotabato),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1440.5272105003,1580.12509645477,1265.89983622481
+1,All Population,5,Prevalence,53610,Basilan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,995.7657271931901,1113.1642644299102,882.2400009662799
+1,All Population,5,Prevalence,53537,Apayao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1510.16406046594,1674.9627046148598,1321.40113266981
+1,All Population,5,Prevalence,53576,Guimaras,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1709.32200130983,1894.28170291778,1511.36918035859
+1,All Population,5,Prevalence,53539,La Union,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1751.3301635998998,1934.5487566290599,1530.4910110908502
+1,All Population,5,Prevalence,53585,Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1387.62700810448,1555.56233388679,1213.0252783911
+1,All Population,5,Prevalence,53538,Kalinga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1438.34700325574,1605.3990713628798,1266.64910604068
+1,All Population,5,Prevalence,53604,Agusan Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1067.13708074903,1204.66941570085,924.8973348244999
+1,All Population,5,Prevalence,53562,Romblon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1631.62219250663,1811.6799153786,1437.41592617517
+1,All Population,5,Prevalence,53596,Davao de Oro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1249.81135266365,1406.09558921919,1088.76753883284
+1,All Population,5,Prevalence,53592,Lanao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1080.65042842173,1227.35772506733,921.39644712103
+1,All Population,5,Prevalence,53579,Bohol,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1589.98000393847,1776.58658713876,1395.81753924758
+1,All Population,5,Prevalence,53551,Pampanga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1308.65213207827,1472.66028790005,1145.15945143778
+1,All Population,5,Prevalence,53534,Ifugao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1138.36893734857,1288.55337177653,983.2515410208599
+1,All Population,5,Prevalence,53536,Abra,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1726.85411003463,1913.60448905376,1518.67216350299
+1,All Population,5,Prevalence,53593,Misamis Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1080.0875337262,1219.25786074221,929.34251098926
+1,All Population,5,Prevalence,53580,Siquijor,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1875.75364181688,2101.6071956737396,1633.9175385220499
+1,All Population,5,Prevalence,53557,Laguna,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1309.52599934811,1465.8711175114802,1136.79145691337
+1,All Population,5,Prevalence,53591,Bukidnon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1231.8612451199401,1375.97692782406,1072.89140189881
+1,All Population,5,Prevalence,53537,Apayao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1488.2133154809599,1659.15876382533,1299.95778936781
+1,All Population,5,Prevalence,53594,Camiguin,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1661.76450295557,1849.3234475934,1462.10687455691
+1,All Population,5,Prevalence,53608,Dinagat Islands,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1561.50902556034,1770.97054699253,1346.66312278254
+1,All Population,5,Prevalence,53597,Davao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,910.27904623119,1034.31238808919,794.20953951897
+1,All Population,5,Prevalence,53561,Oriental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1527.2371655382901,1681.73070086068,1349.64603614333
+1,All Population,5,Prevalence,53546,Quirino,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1632.5148798581001,1803.53431916878,1441.14108998705
+1,All Population,5,Prevalence,53614,National Capital Region,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1733.8241469911898,1878.79334748818,1570.5425005838
+1,All Population,5,Prevalence,53577,Negros Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1421.87578576659,1593.057054127,1243.05446383724
+1,All Population,5,Prevalence,53561,Oriental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1563.10152413917,1725.6885776686102,1383.3932660466
+1,All Population,5,Prevalence,53572,Aklan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1722.74532079987,1902.11709599364,1511.4505347137401
+1,All Population,5,Prevalence,53589,Zamboanga Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1174.89189684018,1315.19986178541,1026.0402197614499
+1,All Population,5,Prevalence,53574,Negros Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1624.6809745864202,1791.86157002589,1419.74011526003
+1,All Population,5,Prevalence,53585,Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1416.75329199161,1599.05520597906,1234.71824035233
+1,All Population,5,Prevalence,53556,Cavite,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1209.18001082969,1358.7900003495,1054.0280249785599
+1,All Population,5,Prevalence,53600,South Cotabato,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1220.1892187498001,1360.40243393198,1076.9442495916
+1,All Population,5,Prevalence,53540,Ilocos Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1798.79311879485,1996.97156204857,1555.03603372436
+1,All Population,5,Prevalence,53573,Antique,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1869.59711604334,2048.45809701687,1660.5450015781498
+1,All Population,5,Prevalence,53571,Capiz,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1658.63630061143,1833.91868463055,1452.26680776296
+1,All Population,5,Prevalence,53590,Misamis Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1655.18164549667,1867.30771825671,1425.58515570133
+1,All Population,5,Prevalence,53538,Kalinga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1445.4803311831001,1617.5357253796399,1260.63686433572
+1,All Population,5,Prevalence,16,Philippines,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1450.51201414651,1607.31782557064,1285.01128293508
+1,All Population,5,Prevalence,53602,Cotabato (North Cotabato),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1495.40727265727,1650.96437777078,1328.77964397406
+1,All Population,5,Prevalence,53538,Kalinga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1431.12000960848,1596.78620871324,1258.77718067374
+1,All Population,5,Prevalence,53553,Nueva Ecija,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,2327.38186281768,2503.26355313866,2139.9785606541
+1,All Population,5,Prevalence,53601,Sultan Kudarat,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1408.07883547337,1545.5749780221,1256.45283943271
+1,All Population,5,Prevalence,53534,Ifugao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1153.5930562915898,1302.1688901178,995.79774492143
+1,All Population,5,Prevalence,53609,Tawi-Tawi,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1058.48877143356,1180.72681972717,946.58503713776
+1,All Population,5,Prevalence,53584,Samar (Western Samar),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1466.89453334012,1632.1062272531901,1276.0372591084001
+1,All Population,5,Prevalence,53556,Cavite,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1252.52317677509,1416.38346969645,1081.32090625453
+1,All Population,5,Prevalence,53550,Tarlac,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1582.14147948028,1741.00941896807,1402.1181430689599
+1,All Population,5,Prevalence,53546,Quirino,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1644.9097634874101,1823.8143324016,1449.97781388167
+1,All Population,5,Prevalence,53562,Romblon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1663.76924829829,1836.57675638669,1459.9459551663601
+1,All Population,5,Prevalence,53607,Surigao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1333.9868697843199,1504.5455986773,1160.0226368275598
+1,All Population,5,Prevalence,53547,Batanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1913.22984437348,2128.02332812364,1689.9571799023902
+1,All Population,5,Prevalence,53592,Lanao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1079.4836524313798,1222.22681731129,934.35020896434
+1,All Population,5,Prevalence,53611,Sulu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,965.35990755545,1071.55623881843,862.4282452602799
+1,All Population,5,Prevalence,53577,Negros Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1454.99874931966,1625.5904572874101,1273.05400859834
+1,All Population,5,Prevalence,53614,National Capital Region,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1824.4642124986499,1994.6464456237,1660.97624797875
+1,All Population,5,Prevalence,53587,Zamboanga Sibugay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1291.63158625592,1435.29908375471,1131.9412443041201
+1,All Population,5,Prevalence,53570,Camarines Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1274.6663232038,1427.11476802108,1106.69021341049
+1,All Population,5,Prevalence,53541,Ilocos Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1771.84464134587,1978.7543462801802,1561.28052623322
+1,All Population,5,Prevalence,53541,Ilocos Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1830.0523700646402,2064.71118852666,1614.71893055341
+1,All Population,5,Prevalence,53584,Samar (Western Samar),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1389.80434263744,1556.3084187172299,1211.10964814588
+1,All Population,5,Prevalence,53574,Negros Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1650.0774447427102,1822.78597149651,1456.51247247686
+1,All Population,5,Prevalence,53558,Batangas,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1345.71063555855,1508.31397362298,1182.23560447749
+1,All Population,5,Prevalence,53599,Davao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1338.53979103238,1500.5139520525902,1170.0528873237402
+1,All Population,5,Prevalence,53545,Isabela,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1599.19231270182,1758.6361913169,1412.17385434561
+1,All Population,5,Prevalence,53555,Rizal,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1107.38173565373,1260.2008788804599,952.25731446768
+1,All Population,5,Prevalence,53559,Quezon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1316.31809095842,1467.7444823957298,1155.9164606997101
+1,All Population,5,Prevalence,53563,Palawan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1184.7818024193,1323.52731800891,1032.74483704226
+1,All Population,5,Prevalence,53533,Mountain Province,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1360.8670911238498,1529.46925256081,1179.43809617879
+1,All Population,5,Prevalence,53601,Sultan Kudarat,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1441.3924724291398,1586.51288724151,1274.42929624007
+1,All Population,5,Prevalence,53545,Isabela,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1638.20015611595,1804.59743751623,1440.03580272092
+1,All Population,5,Prevalence,53541,Ilocos Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1787.1342285749902,2004.8846159209302,1575.6443934844801
+1,All Population,5,Prevalence,53569,Masbate,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1383.76466657984,1533.29850562595,1204.82416948799
+1,All Population,5,Prevalence,53548,Bataan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1489.26852331505,1637.53142925312,1317.0386343805599
+1,All Population,5,Prevalence,53537,Apayao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1611.22153068394,1786.4027078678,1411.0351343042
+1,All Population,5,Prevalence,53550,Tarlac,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1636.25211350877,1802.34096464985,1440.37189449468
+1,All Population,5,Prevalence,53533,Mountain Province,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1366.3453083557001,1535.67500047152,1189.16946115167
+1,All Population,5,Prevalence,53583,Northern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1341.11580130477,1490.5867485235701,1175.79570981298
+1,All Population,5,Prevalence,53562,Romblon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1673.06022600932,1855.91609020276,1470.2290884905701
+1,All Population,5,Prevalence,53607,Surigao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1319.23474759102,1487.76722672369,1146.6602819060101
+1,All Population,5,Prevalence,53551,Pampanga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1268.83184270273,1428.32708605899,1098.20406977214
+1,All Population,5,Prevalence,53611,Sulu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,920.88034136519,1024.19401658519,826.79436297116
+1,All Population,5,Prevalence,53568,Albay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1329.58925867394,1491.433074475,1175.05379504322
+1,All Population,5,Prevalence,53547,Batanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1917.4470172467002,2153.43232089105,1673.23060747144
+1,All Population,5,Prevalence,53542,Pangasinan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1501.04183048533,1676.12672256889,1325.71174902029
+1,All Population,5,Prevalence,53555,Rizal,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1092.63878689105,1251.49430502975,939.19411994353
+1,All Population,5,Prevalence,53607,Surigao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1326.54412022104,1496.13316081283,1151.31985974659
+1,All Population,5,Prevalence,53553,Nueva Ecija,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,2370.47628231504,2550.36302777914,2170.70264860311
+1,All Population,5,Prevalence,53540,Ilocos Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1832.0102190148998,2043.43793888663,1600.87212586432
+1,All Population,5,Prevalence,53588,Zamboanga Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1509.71869587599,1677.6525492604899,1322.80233766068
+1,All Population,5,Prevalence,53575,Iloilo,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1659.9590342971899,1823.0480869301302,1457.31861184632
+1,All Population,5,Prevalence,53586,Biliran,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1667.8850726052901,1842.5435848495001,1460.5158072510199
+1,All Population,5,Prevalence,53584,Samar (Western Samar),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1453.25332859098,1615.70831394123,1255.66879198961
+1,All Population,5,Prevalence,53602,Cotabato (North Cotabato),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1419.45219492294,1562.40452298489,1251.11950818498
+1,All Population,5,Prevalence,53578,Cebu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1036.6389569846199,1176.61960602276,903.33397301279
+1,All Population,5,Prevalence,53572,Aklan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1725.78486621814,1899.9841241788201,1512.68742759053
+1,All Population,5,Prevalence,53561,Oriental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1513.96114288051,1663.78170061923,1337.15796052569
+1,All Population,5,Prevalence,53608,Dinagat Islands,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1563.7685461456601,1784.77936395895,1343.58390286688
+1,All Population,5,Prevalence,53601,Sultan Kudarat,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1376.06371433633,1504.17537878912,1227.4285511467901
+1,All Population,5,Prevalence,53541,Ilocos Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1846.5482256829198,2096.88589868621,1628.3329016147902
+1,All Population,5,Prevalence,53573,Antique,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1842.43244981348,2023.9157687570098,1636.93131801012
+1,All Population,5,Prevalence,53600,South Cotabato,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1216.00184187891,1359.9735536486,1067.4270004498999
+1,All Population,5,Prevalence,53570,Camarines Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1287.3454549902199,1447.64514820885,1112.8774120171202
+1,All Population,5,Prevalence,53564,Marinduque,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1958.10248062715,2137.02715528079,1741.66729129898
+1,All Population,5,Prevalence,53534,Ifugao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1145.60275289861,1297.9172722726798,985.3340321410199
+1,All Population,5,Prevalence,53606,Surigao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1556.37496549507,1722.28245760037,1368.19098648179
+1,All Population,5,Prevalence,53549,Zambales,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1428.55821750161,1578.7656750562699,1254.85038390506
+1,All Population,5,Prevalence,53596,Davao de Oro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1281.6638284529201,1435.13820967399,1117.72898915708
+1,All Population,5,Prevalence,53563,Palawan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1137.5148186030901,1277.37829505062,1000.3074902146
+1,All Population,5,Prevalence,53550,Tarlac,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1640.9051073798,1822.9466850797698,1453.60451188604
+1,All Population,5,Prevalence,53565,Catanduanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1355.50517641992,1513.5638770237501,1188.86372596981
+1,All Population,5,Prevalence,53611,Sulu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,947.8624756055,1050.8777451979702,850.76134192003
+1,All Population,5,Prevalence,53549,Zambales,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1412.29105096839,1564.83877815826,1236.8801406873
+1,All Population,5,Prevalence,53533,Mountain Province,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1359.38210210088,1522.28180625376,1181.04986664289
+1,All Population,5,Prevalence,53561,Oriental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1573.27864875845,1732.1131228252798,1392.17974126739
+1,All Population,5,Prevalence,53593,Misamis Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1089.11671567263,1229.8634274982198,939.92461066526
+1,All Population,5,Prevalence,53605,Agusan Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1326.84137557105,1464.59239963816,1169.54338146239
+1,All Population,5,Prevalence,53558,Batangas,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1359.43742257775,1524.84914533264,1196.44480196541
+1,All Population,5,Prevalence,53585,Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1425.01379281433,1608.56314152036,1241.15846281609
+1,All Population,5,Prevalence,53570,Camarines Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1292.32859894378,1445.31315663592,1135.33056264979
+1,All Population,5,Prevalence,53601,Sultan Kudarat,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1391.92279180389,1526.27822927708,1244.33025129551
+1,All Population,5,Prevalence,53558,Batangas,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1334.09474411574,1495.45416067247,1169.57282200639
+1,All Population,5,Prevalence,53555,Rizal,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1125.41694533157,1279.71592763149,968.2292306737099
+1,All Population,5,Prevalence,53584,Samar (Western Samar),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1465.78896433542,1635.6711863949,1262.05759497031
+1,All Population,5,Prevalence,53574,Negros Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1657.33640740624,1835.58326772344,1468.21898769619
+1,All Population,5,Prevalence,53568,Albay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1316.80731100886,1473.37936859823,1158.14880338367
+1,All Population,5,Prevalence,53610,Basilan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,981.2359910434601,1095.65072452113,864.19007017611
+1,All Population,5,Prevalence,53595,Davao Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1259.51915903037,1423.28921989099,1117.75311133971
+1,All Population,5,Prevalence,53587,Zamboanga Sibugay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1349.75289650914,1498.87164228144,1179.13982054135
+1,All Population,5,Prevalence,53562,Romblon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1681.52233377513,1872.5876871499702,1465.13963865815
+1,All Population,5,Prevalence,53579,Bohol,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1631.78868455621,1842.7949036878101,1418.5401912490602
+1,All Population,5,Prevalence,53576,Guimaras,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1744.2725665792198,1932.87985350956,1540.26670233184
+1,All Population,5,Prevalence,53535,Benguet,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,916.6300802078,1044.38851386682,801.78767486329
+1,All Population,5,Prevalence,53597,Davao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,888.60251326889,1015.02459916001,773.96688786315
+1,All Population,5,Prevalence,53597,Davao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,887.00517085196,1011.4381119192901,767.32186169916
+1,All Population,5,Prevalence,53580,Siquijor,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1847.70889142617,2087.34153115909,1603.6210881568602
+1,All Population,5,Prevalence,53541,Ilocos Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1806.1819125716702,2021.43209055654,1587.3440844483998
+1,All Population,5,Prevalence,53554,Aurora,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1652.29783698599,1803.6736267669498,1489.79115336104
+1,All Population,5,Prevalence,53543,Nueva Vizcaya,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1632.29283866199,1808.66604891804,1429.11484237447
+1,All Population,5,Prevalence,53560,Occidental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1404.11189813643,1533.80791347671,1245.0258548545798
+1,All Population,5,Prevalence,53539,La Union,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1757.71727211146,1944.80065896592,1552.3016428464
+1,All Population,5,Prevalence,53548,Bataan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1502.2710179567698,1649.73016566058,1332.22873877471
+1,All Population,5,Prevalence,53580,Siquijor,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1854.57520916768,2080.06687649283,1609.73245157599
+1,All Population,5,Prevalence,53535,Benguet,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,890.5090524341699,1014.3664576086901,775.26320165811
+1,All Population,5,Prevalence,53584,Samar (Western Samar),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1462.0227628166701,1632.95843697838,1286.07770393644
+1,All Population,5,Prevalence,53554,Aurora,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1691.4156467938399,1847.52787818051,1503.11882758653
+1,All Population,5,Prevalence,53566,Camarines Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1406.01767532128,1553.31902856904,1235.05240765812
+1,All Population,5,Prevalence,53579,Bohol,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1597.13547666923,1793.7608822896598,1398.64415999444
+1,All Population,5,Prevalence,53559,Quezon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1292.66959516418,1448.4162848241901,1131.3541459548399
+1,All Population,5,Prevalence,53535,Benguet,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,991.5493818297999,1134.12470843339,869.4817357927801
+1,All Population,5,Prevalence,53578,Cebu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1043.05265560456,1182.69100293013,911.7370800479399
+1,All Population,5,Prevalence,53569,Masbate,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1394.73495603913,1541.3662344847799,1226.75450949999
+1,All Population,5,Prevalence,53593,Misamis Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1096.93250333319,1239.72720104725,948.7827733965601
+1,All Population,5,Prevalence,53535,Benguet,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,973.81096110123,1112.70652712425,849.4018240160699
+1,All Population,5,Prevalence,53550,Tarlac,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1593.520254341,1749.35488953881,1417.44195771711
+1,All Population,5,Prevalence,53536,Abra,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1726.81068035495,1914.47288004759,1515.02192414609
+1,All Population,5,Prevalence,53564,Marinduque,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1976.60432211706,2156.7719643280298,1760.03186179034
+1,All Population,5,Prevalence,53592,Lanao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1078.7334076303,1227.1812581700399,922.5713810934001
+1,All Population,5,Prevalence,53592,Lanao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1078.18368494928,1223.50323229762,933.6204143916
+1,All Population,5,Prevalence,53596,Davao de Oro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1385.88179693894,1558.5571588865498,1209.62195139809
+1,All Population,5,Prevalence,53601,Sultan Kudarat,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1446.53402022244,1586.1583175391,1264.90217992995
+1,All Population,5,Prevalence,53556,Cavite,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1272.25360287672,1444.70184657509,1093.33057005168
+1,All Population,5,Prevalence,53601,Sultan Kudarat,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1425.5414130599202,1566.8633674352,1264.7912462041
+1,All Population,5,Prevalence,53553,Nueva Ecija,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,2360.34828924447,2552.9561463815,2163.4478946018403
+1,All Population,5,Prevalence,53604,Agusan Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1070.9066948370698,1201.2518419243502,935.7733811004799
+1,All Population,5,Prevalence,53606,Surigao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1528.85283791446,1696.4637832093,1335.47649692336
+1,All Population,5,Prevalence,53591,Bukidnon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1240.31459941332,1384.3422844865102,1084.30065232131
+1,All Population,5,Prevalence,53571,Capiz,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1685.68223552037,1864.78685615564,1481.9894675850899
+1,All Population,5,Prevalence,53540,Ilocos Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1869.51023846394,2086.06942772821,1617.44749014193
+1,All Population,5,Prevalence,53587,Zamboanga Sibugay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1329.13794487309,1475.68409580668,1161.35037011913
+1,All Population,5,Prevalence,53602,Cotabato (North Cotabato),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1459.04573160191,1601.2592250687699,1287.24034245733
+1,All Population,5,Prevalence,53585,Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1431.809823568,1611.52161381668,1244.64023657511
+1,All Population,5,Prevalence,53538,Kalinga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1447.31773490294,1622.87548861444,1251.07499605367
+1,All Population,5,Prevalence,53555,Rizal,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1179.26753607,1332.70075063587,1012.56142375118
+1,All Population,5,Prevalence,53602,Cotabato (North Cotabato),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1508.68718457144,1656.67711774908,1308.85193497866
+1,All Population,5,Prevalence,53572,Aklan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1729.8519888246499,1907.5260039650402,1519.99531940926
+1,All Population,5,Prevalence,53534,Ifugao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1156.01193060638,1301.16199047778,1003.92228254389
+1,All Population,5,Prevalence,53611,Sulu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,994.98379692291,1101.07226796373,878.6574495341599
+1,All Population,5,Prevalence,53609,Tawi-Tawi,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1055.5103127167001,1183.3786957644,942.77892924269
+1,All Population,5,Prevalence,53560,Occidental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1464.49574547891,1616.54943995541,1310.6564791574
+1,All Population,5,Prevalence,53586,Biliran,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1675.5707764539202,1849.5519885489202,1466.25910869639
+1,All Population,5,Prevalence,53565,Catanduanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1354.4256504267,1526.83177410081,1178.34807981418
+1,All Population,5,Prevalence,53546,Quirino,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1649.9914349517499,1817.89266032824,1449.2858350625
+1,All Population,5,Prevalence,53612,Maguindanao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,975.3556227034801,1076.66858237796,858.32503118312
+1,All Population,5,Prevalence,53539,La Union,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1758.99934650618,1962.7186151026501,1549.2830955290099
+1,All Population,5,Prevalence,53571,Capiz,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1721.57474451131,1908.50522715856,1512.49541411285
+1,All Population,5,Prevalence,53560,Occidental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1418.99400371451,1548.00593869716,1263.43231629187
+1,All Population,5,Prevalence,53559,Quezon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1340.39433691346,1502.98981182647,1166.19250057949
+1,All Population,5,Prevalence,53544,Cagayan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1675.89912690376,1869.5945847633197,1459.05966640353
+1,All Population,5,Prevalence,53552,Bulacan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1458.78371971889,1619.7816661878799,1275.02319459186
+1,All Population,5,Prevalence,53563,Palawan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1207.42376924928,1352.4768170681,1052.051869986
+1,All Population,5,Prevalence,53582,Eastern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1485.48969317939,1662.2355562639398,1284.18202717539
+1,All Population,5,Prevalence,53551,Pampanga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1340.87807431089,1512.0724968802,1180.1749983033699
+1,All Population,5,Prevalence,53581,Southern Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1845.90337228623,2055.13672547038,1630.08872312893
+1,All Population,5,Prevalence,53598,Davao Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,998.5867809404899,1128.45453800518,864.2310162375
+1,All Population,5,Prevalence,53596,Davao de Oro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1264.9650327655602,1417.55737547936,1102.40790364496
+1,All Population,5,Prevalence,53594,Camiguin,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1658.1135477645,1838.71716517267,1453.06980305022
+1,All Population,5,Prevalence,53549,Zambales,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1451.37569748427,1624.16223842623,1270.18729719846
+1,All Population,5,Prevalence,53568,Albay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1303.04064956682,1458.43485408467,1130.99422858562
+1,All Population,5,Prevalence,53599,Davao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1333.78663429215,1497.91950805057,1155.73212492876
+1,All Population,5,Prevalence,53575,Iloilo,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1710.5581006895297,1895.7733023185701,1500.3406842787601
+1,All Population,5,Prevalence,53560,Occidental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1445.99244356031,1588.72707469457,1290.88646287877
+1,All Population,5,Prevalence,53542,Pangasinan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1492.8372018761,1670.30675121152,1321.20117778106
+1,All Population,5,Prevalence,53591,Bukidnon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1203.96751959076,1342.2251564099,1045.38377636334
+1,All Population,5,Prevalence,53574,Negros Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1627.57609281536,1785.6071088728,1432.8029144239702
+1,All Population,5,Prevalence,53578,Cebu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1052.0673251534,1193.52431126149,921.82181940824
+1,All Population,5,Prevalence,53595,Davao Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1271.01767381905,1430.71275127894,1122.4908222515
+1,All Population,5,Prevalence,53600,South Cotabato,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1222.37726467272,1372.91768698125,1061.64597166125
+1,All Population,5,Prevalence,53598,Davao Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1016.20181115201,1141.71073036596,889.14478195059
+1,All Population,5,Prevalence,53613,Lanao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,905.95018551369,1004.8786606930499,805.90526240244
+1,All Population,5,Prevalence,53536,Abra,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1728.4612913277201,1917.81579576648,1513.08938782356
+1,All Population,5,Prevalence,53598,Davao Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1091.7614982196599,1221.61253308408,957.93640227909
+1,All Population,5,Prevalence,53594,Camiguin,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1658.9845993317701,1856.1568047361698,1441.99975961797
+1,All Population,5,Prevalence,53543,Nueva Vizcaya,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1656.53477282795,1832.07743001917,1435.48173063656
+1,All Population,5,Prevalence,53573,Antique,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1794.00661133184,1974.2213625154398,1586.33861244242
+1,All Population,5,Prevalence,53548,Bataan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1516.45958210339,1666.17990514135,1341.9822565589
+1,All Population,5,Prevalence,53578,Cebu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1055.06339949316,1194.49052594721,910.17702790149
+1,All Population,5,Prevalence,53572,Aklan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1738.27133656404,1921.9420714701298,1530.88768018078
+1,All Population,5,Prevalence,53540,Ilocos Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1873.74334516771,2096.18893819235,1640.48895369533
+1,All Population,5,Prevalence,53555,Rizal,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1145.50167085313,1297.1136402582902,986.2140354462
+1,All Population,5,Prevalence,53540,Ilocos Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1855.26055238942,2070.1427471735997,1616.2372346985198
+1,All Population,5,Prevalence,53602,Cotabato (North Cotabato),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1504.9276615865701,1650.51090878503,1329.46186111827
+1,All Population,5,Prevalence,53570,Camarines Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1297.24824534387,1465.31195185663,1135.3097918746898
+1,All Population,5,Prevalence,53587,Zamboanga Sibugay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1368.5265787989001,1524.3319419817399,1191.31165261218
+1,All Population,5,Prevalence,53545,Isabela,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1618.1708016194,1780.9397595738799,1422.74881348928
+1,All Population,5,Prevalence,53586,Biliran,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1690.18818443296,1873.3240670033802,1492.81521326323
+1,All Population,5,Prevalence,53601,Sultan Kudarat,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1446.4361018003601,1588.56604514781,1275.17587361552
+1,All Population,5,Prevalence,53590,Misamis Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1653.76897798216,1843.2994480739699,1444.31339621722
+1,All Population,5,Prevalence,53543,Nueva Vizcaya,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1602.9925983200899,1774.45504726164,1405.33883494195
+1,All Population,5,Prevalence,53562,Romblon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1685.1234548929099,1886.5323698854,1452.51682224721
+1,All Population,5,Prevalence,53577,Negros Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1464.80699424285,1650.79335724535,1274.99876702096
+1,All Population,5,Prevalence,53606,Surigao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1552.1504804769402,1717.6099360764902,1361.49652866664
+1,All Population,5,Prevalence,53589,Zamboanga Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1166.62653689864,1303.62607623126,1015.40724037289
+1,All Population,5,Prevalence,53604,Agusan Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1094.57141918667,1233.84947454999,959.44133358669
+1,All Population,5,Prevalence,53536,Abra,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1724.88471941053,1920.3459374412298,1512.7524310194901
+1,All Population,5,Prevalence,53563,Palawan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1199.21876287944,1336.4278480008002,1040.25574175582
+1,All Population,5,Prevalence,53580,Siquijor,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1904.1617104310599,2128.9619466734603,1659.5555859826898
+1,All Population,5,Prevalence,53548,Bataan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1528.2060245047,1687.51921686905,1352.9499965787
+1,All Population,5,Prevalence,53563,Palawan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1169.41882444921,1305.3149252882,1023.04428334112
+1,All Population,5,Prevalence,53610,Basilan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,987.70727404885,1104.03325493577,871.53200332381
+1,All Population,5,Prevalence,53567,Sorsogon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1397.97222148011,1578.63533212972,1222.27660467705
+1,All Population,5,Prevalence,53560,Occidental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1432.36555770175,1566.58570216766,1277.54174785395
+1,All Population,5,Prevalence,53554,Aurora,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1694.03044994659,1854.83037290505,1514.74189658459
+1,All Population,5,Prevalence,53575,Iloilo,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1688.4864958423298,1861.4035429274902,1482.36695948993
+1,All Population,5,Prevalence,53609,Tawi-Tawi,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1043.19801137505,1154.4720502028601,925.76221852001
+1,All Population,5,Prevalence,53564,Marinduque,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1997.79635692733,2186.3144497079998,1774.02789030822
+1,All Population,5,Prevalence,53579,Bohol,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1593.1452993137598,1787.76059227512,1396.18935396099
+1,All Population,5,Prevalence,53549,Zambales,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1447.2755514114901,1598.18761205116,1269.13278394194
+1,All Population,5,Prevalence,53544,Cagayan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1589.14789505003,1774.5988477894398,1404.95663050015
+1,All Population,5,Prevalence,53554,Aurora,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1674.3598561707,1835.40247074165,1510.06126775113
+1,All Population,5,Prevalence,53567,Sorsogon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1417.57076958577,1579.45455301368,1230.21301070603
+1,All Population,5,Prevalence,53588,Zamboanga Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1523.2789007645201,1689.3975864279,1330.4584703884
+1,All Population,5,Prevalence,53571,Capiz,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1704.8194477921102,1888.8998964127697,1500.9879341097499
+1,All Population,5,Prevalence,53578,Cebu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1054.3195532526302,1190.0798070143499,905.1122200639301
+1,All Population,5,Prevalence,53557,Laguna,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1245.29659307138,1399.57446708829,1081.72321654879
+1,All Population,5,Prevalence,53555,Rizal,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1170.5745924152,1325.66554197707,1008.6952702886899
+1,All Population,5,Prevalence,53542,Pangasinan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1511.90944021207,1688.50304233738,1332.3687380220301
+1,All Population,5,Prevalence,53574,Negros Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1632.0560560247902,1790.35465575587,1437.62424531756
+1,All Population,5,Prevalence,53557,Laguna,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1258.82046495328,1415.6404289076,1092.15061454575
+1,All Population,5,Prevalence,53537,Apayao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1584.87458728019,1763.0971916678998,1382.05002595563
+1,All Population,5,Prevalence,53586,Biliran,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1690.79606639548,1878.8689707455599,1473.6093993846598
+1,All Population,5,Prevalence,53586,Biliran,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1684.3788911264999,1859.15908449114,1471.48420497365
+1,All Population,5,Prevalence,53603,Sarangani,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1245.00030794812,1385.13085815099,1088.04587116532
+1,All Population,5,Prevalence,53594,Camiguin,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1653.92245631914,1851.95206121005,1446.3613780539
+1,All Population,5,Prevalence,53549,Zambales,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1456.87410906225,1616.77192964253,1283.5581666417102
+1,All Population,5,Prevalence,53613,Lanao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,905.6359494313699,1004.2983006355,807.27865981839
+1,All Population,5,Prevalence,53579,Bohol,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1606.0333339651502,1811.0506051206899,1404.6134956619298
+1,All Population,5,Prevalence,53604,Agusan Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1067.89272642142,1202.18343993837,932.43797633079
+1,All Population,5,Prevalence,53572,Aklan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1745.63286520002,1940.9518096578302,1534.60949999582
+1,All Population,5,Prevalence,53546,Quirino,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1652.3208189712,1829.8394347075302,1439.88363171287
+1,All Population,5,Prevalence,53565,Catanduanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1362.46107725413,1522.90776876981,1199.24463121645
+1,All Population,5,Prevalence,53533,Mountain Province,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1363.42956058436,1545.21758519982,1184.53823286478
+1,All Population,5,Prevalence,53552,Bulacan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1441.64114184609,1600.9536892386802,1261.3139704824
+1,All Population,5,Prevalence,53556,Cavite,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1278.21444354958,1449.7462169154599,1123.9760565894499
+1,All Population,5,Prevalence,53586,Biliran,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1686.55429856232,1878.49574186413,1480.2940066066801
+1,All Population,5,Prevalence,53571,Capiz,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1732.51638528732,1917.94395297522,1521.1692292426098
+1,All Population,5,Prevalence,53603,Sarangani,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1214.61747069854,1355.8874439744102,1057.0412156646798
+1,All Population,5,Prevalence,53610,Basilan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,971.9618506169401,1087.37350171725,853.6958556074301
+1,All Population,5,Prevalence,53550,Tarlac,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1606.70954356971,1769.3698880364097,1431.6057908209
+1,All Population,5,Prevalence,53608,Dinagat Islands,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1564.80725752393,1779.9412155269802,1347.68184793158
+1,All Population,5,Prevalence,53548,Bataan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1527.1846324686899,1689.7458704002,1347.1095483560998
+1,All Population,5,Prevalence,53561,Oriental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1582.22720181414,1755.2354708227701,1393.2587251647199
+1,All Population,5,Prevalence,53541,Ilocos Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1856.6126411979699,2079.60079017514,1628.76664532399
+1,All Population,5,Prevalence,53602,Cotabato (North Cotabato),3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1477.86149548745,1624.45002640001,1308.60557256521
+1,All Population,5,Prevalence,53589,Zamboanga Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1193.36729755765,1336.30607578049,1049.8045961421599
+1,All Population,5,Prevalence,53572,Aklan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1756.4614992500199,1937.3166892611,1552.48058642849
+1,All Population,5,Prevalence,53587,Zamboanga Sibugay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1378.72641559091,1536.05038960964,1204.5432299369402
+1,All Population,5,Prevalence,53564,Marinduque,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,2018.6185194211898,2207.74993073635,1786.8659982978202
+1,All Population,5,Prevalence,53609,Tawi-Tawi,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1057.94275261799,1173.36198390711,942.45314590416
+1,All Population,5,Prevalence,53564,Marinduque,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,2033.0152807049099,2224.9183796503603,1798.9921753745903
+1,All Population,5,Prevalence,53579,Bohol,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1616.21558193779,1827.4142105070002,1404.4096959418
+1,All Population,5,Prevalence,53613,Lanao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,905.7874067565899,1006.14341831424,798.8089854939699
+1,All Population,5,Prevalence,53580,Siquijor,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1863.8377331070901,2090.6113941235803,1623.18527926661
+1,All Population,5,Prevalence,53565,Catanduanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1373.3250046449,1528.38921378591,1206.66981654803
+1,All Population,5,Prevalence,53567,Sorsogon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1364.4001782360501,1528.55382200814,1191.39508006828
+1,All Population,5,Prevalence,53558,Batangas,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1369.1043930194198,1534.9116432979,1206.56668256407
+1,All Population,5,Prevalence,53573,Antique,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1821.84154272374,2000.5536875252299,1618.42427947947
+1,All Population,5,Prevalence,53542,Pangasinan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1537.28411763187,1722.86798924825,1347.24558623644
+1,All Population,5,Prevalence,53604,Agusan Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1105.6926190924,1261.90695058313,958.63204892706
+1,All Population,5,Prevalence,53577,Negros Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1463.18143151669,1639.73100897891,1281.19320255596
+1,All Population,5,Prevalence,53557,Laguna,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1309.16480970437,1477.64238040285,1141.3115004572398
+1,All Population,5,Prevalence,53587,Zamboanga Sibugay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1386.63509756785,1549.47510931205,1218.53889552537
+1,All Population,5,Prevalence,53603,Sarangani,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1235.29981496496,1371.4875305188,1076.69111030923
+1,All Population,5,Prevalence,53553,Nueva Ecija,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,2374.9474807873703,2554.17595524379,2161.40895351377
+1,All Population,5,Prevalence,53569,Masbate,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1398.4349230120201,1549.51557213417,1224.9287262937798
+1,All Population,5,Prevalence,53603,Sarangani,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1259.4506613829499,1411.95344631989,1105.21072964678
+1,All Population,5,Prevalence,53582,Eastern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1440.77055064608,1622.4758377020898,1253.1547200465
+1,All Population,5,Prevalence,53541,Ilocos Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1855.4462593807198,2076.3631896072498,1627.69639861527
+1,All Population,5,Prevalence,53537,Apayao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1545.7651538852099,1713.2089951680598,1353.5696056332401
+1,All Population,5,Prevalence,53580,Siquijor,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1908.7034351578402,2125.58789479592,1666.47466945594
+1,All Population,5,Prevalence,53588,Zamboanga Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1532.37093899327,1700.3077933577902,1339.15247534215
+1,All Population,5,Prevalence,53573,Antique,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1859.2624364476899,2037.1171087583,1650.48611785829
+1,All Population,5,Prevalence,53588,Zamboanga Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1552.4983577284202,1722.9395912009602,1357.11958100148
+1,All Population,5,Prevalence,53575,Iloilo,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1650.80888280668,1817.5949781599602,1447.40790017462
+1,All Population,5,Prevalence,53545,Isabela,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1667.62179514056,1849.53387491923,1460.1909268240502
+1,All Population,5,Prevalence,53599,Davao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1344.76148935302,1511.25253337475,1172.36821419046
+1,All Population,5,Prevalence,53535,Benguet,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,945.8732549979801,1078.76882802561,825.9804929271701
+1,All Population,5,Prevalence,53612,Maguindanao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,954.85599227121,1055.1303371998101,846.4901005035899
+1,All Population,5,Prevalence,53536,Abra,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1724.66733225975,1921.09291230994,1510.50161023078
+1,All Population,5,Prevalence,53566,Camarines Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1423.24668678834,1571.40598442508,1246.2257849811301
+1,All Population,5,Prevalence,53595,Davao Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1284.08224525136,1449.32935691414,1128.00082998199
+1,All Population,5,Prevalence,53608,Dinagat Islands,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1544.64382831442,1739.59802704649,1351.23802416486
+1,All Population,5,Prevalence,53540,Ilocos Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1865.13903134487,2095.0040510724602,1631.49737632548
+1,All Population,5,Prevalence,53555,Rizal,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1163.91139344078,1320.41214406011,1002.92873111371
+1,All Population,5,Prevalence,53589,Zamboanga Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1183.81152716493,1326.93202081422,1036.53985764599
+1,All Population,5,Prevalence,53574,Negros Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1639.49577417245,1808.83557377226,1442.09430872445
+1,All Population,5,Prevalence,53600,South Cotabato,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1221.85484193311,1375.79932522067,1077.591229775
+1,All Population,5,Prevalence,53537,Apayao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1529.09108004835,1694.21539695155,1338.7532486173
+1,All Population,5,Prevalence,53545,Isabela,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1583.40608305981,1743.40832777212,1398.41152846887
+1,All Population,5,Prevalence,53607,Surigao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1336.5993178951799,1511.13609363819,1156.8183423137
+1,All Population,5,Prevalence,53550,Tarlac,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1620.9007473623499,1786.47229212519,1436.39292453794
+1,All Population,5,Prevalence,53576,Guimaras,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1756.78641433617,1948.1920225452798,1543.41652987468
+1,All Population,5,Prevalence,53552,Bulacan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1390.84741615917,1548.1357852702902,1215.2026150944
+1,All Population,5,Prevalence,53556,Cavite,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1274.2484005838098,1450.3487525388,1110.72946216413
+1,All Population,5,Prevalence,53595,Davao Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1298.31147557275,1465.1583248423901,1139.21385689285
+1,All Population,5,Prevalence,53572,Aklan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1762.22603164252,1951.274998734,1560.70359327765
+1,All Population,5,Prevalence,53589,Zamboanga Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1200.38747631041,1347.99112632411,1053.85020716937
+1,All Population,5,Prevalence,53604,Agusan Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1099.41918940057,1243.30640439449,959.59284714813
+1,All Population,5,Prevalence,53542,Pangasinan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1526.13128450816,1712.26008625382,1341.90214481658
+1,All Population,5,Prevalence,53544,Cagayan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1579.1798253049099,1764.68273235655,1383.50081925252
+1,All Population,5,Prevalence,53542,Pangasinan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1537.18422117612,1725.70117561134,1351.44868551612
+1,All Population,5,Prevalence,53557,Laguna,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1293.61782013933,1451.87879340124,1120.6151546291799
+1,All Population,5,Prevalence,53606,Surigao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1566.5464747558199,1736.77614224889,1380.8186224514
+1,All Population,5,Prevalence,53591,Bukidnon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1196.42122585712,1336.07944009838,1039.2303597190598
+1,All Population,5,Prevalence,53544,Cagayan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1602.33590830266,1777.94034587434,1416.64463125855
+1,All Population,5,Prevalence,53597,Davao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,892.89895072135,1022.30434448783,779.3626916506901
+1,All Population,5,Prevalence,53551,Pampanga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1293.20739191588,1447.90810506611,1127.29378485968
+1,All Population,5,Prevalence,53568,Albay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2015,1304.1983810821598,1460.8352687401,1129.10413610538
+1,All Population,5,Prevalence,53593,Misamis Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1098.79305195448,1241.92312397404,955.37305789755
+1,All Population,5,Prevalence,53614,National Capital Region,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1870.91316415886,2059.15305622373,1687.2150725165202
+1,All Population,5,Prevalence,53603,Sarangani,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1253.53560204347,1394.1693301195899,1108.51393102084
+1,All Population,5,Prevalence,53605,Agusan Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1432.24620765078,1579.4827512725099,1254.82835619383
+1,All Population,5,Prevalence,53551,Pampanga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1340.39192532975,1507.9906268844,1171.50984571304
+1,All Population,5,Prevalence,53581,Southern Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1913.03211498931,2133.6588857805,1683.1853012051
+1,All Population,5,Prevalence,53590,Misamis Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1626.4089979465798,1812.82684200316,1419.25183647922
+1,All Population,5,Prevalence,53557,Laguna,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1308.30609474222,1463.72670885947,1143.00095787628
+1,All Population,5,Prevalence,53588,Zamboanga Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1549.22769600749,1715.74805749959,1342.2653126774
+1,All Population,5,Prevalence,53563,Palawan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1212.7744350071,1368.2884466620098,1067.4991153490698
+1,All Population,5,Prevalence,53589,Zamboanga Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1198.22221801806,1352.81433787498,1059.7619464192799
+1,All Population,5,Prevalence,53567,Sorsogon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1355.94049809519,1517.56475790844,1180.59335374267
+1,All Population,5,Prevalence,53597,Davao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,923.09696700906,1054.0864692607101,802.1952132154499
+1,All Population,5,Prevalence,53593,Misamis Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1096.92798335715,1230.20596782108,947.42359784211
+1,All Population,5,Prevalence,53567,Sorsogon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1409.2564014869001,1574.74166573057,1231.20298569801
+1,All Population,5,Prevalence,53559,Quezon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1305.9506340640598,1456.90827482451,1146.1623875541
+1,All Population,5,Prevalence,53608,Dinagat Islands,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1558.03504253539,1763.85426531275,1347.22458820046
+1,All Population,5,Prevalence,53543,Nueva Vizcaya,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1653.0052964732902,1826.0047698281799,1439.8038493850202
+1,All Population,5,Prevalence,53558,Batangas,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1361.87752696528,1542.31119003349,1191.36465679187
+1,All Population,5,Prevalence,53588,Zamboanga Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1541.09801020626,1705.4595922853098,1339.65856149366
+1,All Population,5,Prevalence,53573,Antique,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1869.31538239518,2060.57978605428,1661.5013671349402
+1,All Population,5,Prevalence,53605,Agusan Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1367.47272778964,1505.85245531847,1203.08167937382
+1,All Population,5,Prevalence,53547,Batanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1916.4918888756,2143.98360236342,1659.7444653376401
+1,All Population,5,Prevalence,53588,Zamboanga Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1551.03189592186,1727.26452663375,1354.5085559481
+1,All Population,5,Prevalence,53560,Occidental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1457.60565682643,1607.23687920649,1301.5385522147
+1,All Population,5,Prevalence,53605,Agusan Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1411.49119027917,1558.37621109421,1239.1053374356102
+1,All Population,5,Prevalence,53590,Misamis Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1656.50702627195,1851.53582483366,1439.28515967709
+1,All Population,5,Prevalence,53577,Negros Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1442.77236472404,1612.14751403671,1265.67307173066
+1,All Population,5,Prevalence,53594,Camiguin,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1642.05703373928,1853.95958235189,1439.96935478829
+1,All Population,5,Prevalence,53565,Catanduanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1367.00589468374,1531.24654080775,1198.12902797103
+1,All Population,5,Prevalence,53594,Camiguin,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1657.75127430384,1841.6378134061802,1446.77235421155
+1,All Population,5,Prevalence,53598,Davao Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1107.71765768701,1232.5895118536,970.2621043733799
+1,All Population,5,Prevalence,53614,National Capital Region,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1715.7606912397798,1863.35193663563,1551.14162235654
+1,All Population,5,Prevalence,53582,Eastern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1515.72924480646,1707.65207353821,1299.68178630056
+1,All Population,5,Prevalence,53581,Southern Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1867.4519649816802,2087.07126996646,1651.72656946963
+1,All Population,5,Prevalence,53574,Negros Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1659.79428306431,1841.67112771613,1458.19992008745
+1,All Population,5,Prevalence,53604,Agusan Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1085.42832992159,1220.8785048367802,948.7733231450701
+1,All Population,5,Prevalence,53571,Capiz,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1729.0100759618801,1917.6901993171898,1521.8734598221702
+1,All Population,5,Prevalence,53559,Quezon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1345.4769645722001,1507.04761981907,1178.70515906384
+1,All Population,5,Prevalence,53575,Iloilo,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1672.16983862048,1838.6009434171801,1464.63385938784
+1,All Population,5,Prevalence,53575,Iloilo,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1702.0353500348601,1886.8797319498701,1491.48270881253
+1,All Population,5,Prevalence,53605,Agusan Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1442.8317896643898,1607.4048019594798,1260.2097984576
+1,All Population,5,Prevalence,53558,Batangas,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1365.79537705412,1531.49796584134,1201.08012065724
+1,All Population,5,Prevalence,53580,Siquijor,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1891.7935291621,2109.29199683345,1653.19924338275
+1,All Population,5,Prevalence,53582,Eastern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1519.1015866482298,1718.49003892376,1315.46800904765
+1,All Population,5,Prevalence,53580,Siquijor,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1902.1427098180302,2135.34117253335,1659.3583860360197
+1,All Population,5,Prevalence,53550,Tarlac,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1646.45325999709,1825.28669393347,1439.14290951874
+1,All Population,5,Prevalence,53612,Maguindanao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,963.0105925193999,1064.0899835436999,852.3608305160701
+1,All Population,5,Prevalence,53559,Quezon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1328.9505247443199,1481.99669431809,1165.33819735901
+1,All Population,5,Prevalence,53566,Camarines Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1456.14355823842,1604.6757656118502,1271.16632443862
+1,All Population,5,Prevalence,53579,Bohol,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1639.97849901286,1835.50605833574,1434.6644988676899
+1,All Population,5,Prevalence,53574,Negros Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1655.50031158089,1839.19749049348,1447.41981385583
+1,All Population,5,Prevalence,53606,Surigao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1569.60141527357,1746.41655038599,1381.4779331494199
+1,All Population,5,Prevalence,53544,Cagayan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1621.06139297947,1791.62461595563,1426.55635652919
+1,All Population,5,Prevalence,53589,Zamboanga Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1197.9996214978,1357.48369477861,1063.3299807285
+1,All Population,5,Prevalence,53591,Bukidnon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1221.56024118094,1356.48670456911,1066.08597815142
+1,All Population,5,Prevalence,53606,Surigao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1569.6197320066601,1734.53186287553,1386.6575382753101
+1,All Population,5,Prevalence,53542,Pangasinan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1535.2463838926699,1718.59706395987,1334.2419432275499
+1,All Population,5,Prevalence,53544,Cagayan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1659.92602294766,1845.27862199634,1448.82639244872
+1,All Population,5,Prevalence,53560,Occidental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1468.10647653372,1630.87594918601,1302.7242788392
+1,All Population,5,Prevalence,53605,Agusan Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1438.49591563399,1590.6458760031198,1265.42522700572
+1,All Population,5,Prevalence,53559,Quezon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1342.0459027822899,1503.9624351314499,1176.82762411229
+1,All Population,5,Prevalence,53591,Bukidnon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1211.90518887326,1347.99048025056,1054.80038772473
+1,All Population,5,Prevalence,53590,Misamis Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1645.64691461064,1842.2689452506702,1426.36922953425
+1,All Population,5,Prevalence,53575,Iloilo,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1714.83356543685,1905.39490660167,1509.16115871099
+1,All Population,5,Prevalence,53566,Camarines Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1431.68807936584,1582.01023310192,1247.00810433593
+1,All Population,5,Prevalence,53565,Catanduanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1376.1943443473401,1546.81615183099,1202.0150033821799
+1,All Population,5,Prevalence,53576,Guimaras,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1723.06871336024,1913.11852040517,1514.64315567685
+1,All Population,5,Prevalence,53545,Isabela,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1652.58884187618,1820.18714138286,1457.68066289103
+1,All Population,5,Prevalence,53567,Sorsogon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1385.53514257077,1558.01950574539,1209.49272327896
+1,All Population,5,Prevalence,53612,Maguindanao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,947.45716346867,1048.9334660776701,841.15518734498
+1,All Population,5,Prevalence,53565,Catanduanes,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1357.43874733188,1513.5377373768802,1198.17526518337
+1,All Population,5,Prevalence,53597,Davao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,900.3815010343801,1027.6962524453002,784.32073625737
+1,All Population,5,Prevalence,53591,Bukidnon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1237.13811343732,1374.41007132639,1091.63131980413
+1,All Population,5,Prevalence,53606,Surigao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1560.56263682761,1728.34454329466,1372.68713283601
+1,All Population,5,Prevalence,53536,Abra,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1716.24191007844,1926.5812937322198,1505.4081174447
+1,All Population,5,Prevalence,53548,Bataan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1528.25542267937,1714.2576874628799,1330.50025262551
+1,All Population,5,Prevalence,53613,Lanao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,902.24522128607,1001.42367929035,801.15676439664
+1,All Population,5,Prevalence,53535,Benguet,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1007.58188665067,1148.38951279869,874.7274956327799
+1,All Population,5,Prevalence,53582,Eastern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2017,1469.63792984062,1651.62114759523,1274.0829384838698
+1,All Population,5,Prevalence,53561,Oriental Mindoro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1545.37835209906,1700.2875639813699,1367.2305475185
+1,All Population,5,Prevalence,53596,Davao de Oro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1302.0773621271899,1458.2556472588199,1138.2050999370201
+1,All Population,5,Prevalence,53607,Surigao Del Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1332.8902017498701,1503.5092649317,1154.70490055807
+1,All Population,5,Prevalence,53551,Pampanga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1339.79095539654,1511.8695741716801,1161.41917219271
+1,All Population,5,Prevalence,53537,Apayao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1564.86752581463,1736.78607401133,1370.47525026928
+1,All Population,5,Prevalence,53552,Bulacan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1422.40136075039,1577.94604633428,1243.7456785679
+1,All Population,5,Prevalence,53566,Camarines Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1441.7886766929,1597.27385293018,1254.46291250723
+1,All Population,5,Prevalence,53583,Northern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2016,1323.32035076888,1474.4793359330602,1157.82884360145
+1,All Population,5,Prevalence,53597,Davao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,920.16704133846,1045.74815574929,803.294223023
+1,All Population,5,Prevalence,53610,Basilan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,941.95113641454,1057.8716121254402,826.8110622628
+1,All Population,5,Prevalence,53614,National Capital Region,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1793.1698536027898,1957.11387879174,1629.70580963686
+1,All Population,5,Prevalence,53595,Davao Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1310.70734318424,1477.63725351899,1148.54715363442
+1,All Population,5,Prevalence,53564,Marinduque,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,2043.7898091614702,2250.23140360986,1793.8775975191502
+1,All Population,5,Prevalence,53552,Bulacan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1458.6746498499601,1618.80350438343,1273.6473658699401
+1,All Population,5,Prevalence,53582,Eastern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1502.42428771659,1688.36191970691,1294.48908590886
+1,All Population,5,Prevalence,53582,Eastern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1515.6752399746501,1725.48005213357,1308.4725699818898
+1,All Population,5,Prevalence,53610,Basilan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,956.08359158288,1067.97850778171,841.93534232991
+1,All Population,5,Prevalence,53595,Davao Oriental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1320.51928030129,1485.8450570191299,1151.81128913354
+1,All Population,5,Prevalence,53581,Southern Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1884.0949885034702,2102.79246475269,1667.92512911022
+1,All Population,5,Prevalence,53614,National Capital Region,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1759.9419336423503,1911.4692271850802,1596.61281771935
+1,All Population,5,Prevalence,53567,Sorsogon,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1373.56693158972,1540.32639160861,1198.80335720324
+1,All Population,5,Prevalence,53537,Apayao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1628.97941674022,1826.4810801815,1426.86731723097
+1,All Population,5,Prevalence,53578,Cebu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1059.15902656347,1200.9730879982699,929.5476367022
+1,All Population,5,Prevalence,53550,Tarlac,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1635.8545112636302,1815.2434840769001,1439.3297078875
+1,All Population,5,Prevalence,53551,Pampanga,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1326.04052874627,1496.5370538819,1163.78635641216
+1,All Population,5,Prevalence,53612,Maguindanao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,918.51861053409,1025.16172858463,804.7297026541601
+1,All Population,5,Prevalence,53611,Sulu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,992.00703524891,1094.84029124834,881.52625785174
+1,All Population,5,Prevalence,53612,Maguindanao,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,932.5753813418501,1035.0579991802301,825.86517277851
+1,All Population,5,Prevalence,53597,Davao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,928.1890068426901,1068.0279994457,803.71053757477
+1,All Population,5,Prevalence,53552,Bulacan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1459.90313995433,1632.59390321214,1273.11028642596
+1,All Population,5,Prevalence,53614,National Capital Region,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1845.35126153917,2026.2238187838702,1673.0828165532698
+1,All Population,5,Prevalence,53596,Davao de Oro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1368.8541394399401,1532.9446266976602,1201.58130755538
+1,All Population,5,Prevalence,53611,Sulu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,983.77041859998,1087.00458957627,873.6080539731
+1,All Population,5,Prevalence,53581,Southern Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1900.17698732062,2124.4992914293803,1677.46709599902
+1,All Population,5,Prevalence,53566,Camarines Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1451.59119374755,1607.42879096829,1262.58757010242
+1,All Population,5,Prevalence,53581,Southern Leyte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1919.5674003420202,2140.99995597585,1670.71021595061
+1,All Population,5,Prevalence,53566,Camarines Norte,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1459.98674123837,1623.25434224336,1273.3470255774
+1,All Population,5,Prevalence,53583,Northern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1358.83800096937,1509.54268745066,1185.38738330748
+1,All Population,5,Prevalence,53583,Northern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1397.3606478937002,1555.07206080791,1210.6900801639902
+1,All Population,5,Prevalence,53568,Albay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2018,1308.33238159917,1463.18586119194,1143.71099760815
+1,All Population,5,Prevalence,53596,Davao de Oro,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1325.7294459081702,1484.80468291612,1165.8911338839
+1,All Population,5,Prevalence,53583,Northern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1376.8954212657202,1531.4428869000699,1196.9691818789502
+1,All Population,5,Prevalence,53613,Lanao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,891.497646166,986.12841643274,788.89099691316
+1,All Population,5,Prevalence,53583,Northern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1400.7529837351601,1571.82829625294,1213.56700876137
+1,All Population,5,Prevalence,53568,Albay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1326.05231719204,1485.18251069232,1170.71652552086
+1,All Population,5,Prevalence,53583,Northern Samar,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2020,1392.16376076031,1554.61119902658,1212.69065337039
+1,All Population,5,Prevalence,53568,Albay,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1330.32710454266,1496.57677530965,1164.19667944769
+1,All Population,5,Prevalence,53613,Lanao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,906.12832503022,1003.1428778208401,804.3281659826699
+1,All Population,5,Prevalence,53598,Davao Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2019,1066.37665183934,1194.66131681403,934.72734732884
+1,All Population,5,Prevalence,53598,Davao Occidental,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2021,1101.38317297386,1225.09261584274,967.1131947953199
+1,All Population,5,Prevalence,53609,Tawi-Tawi,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,1035.38004396986,1148.1820305383699,909.6820549636999
+1,All Population,5,Prevalence,53611,Sulu,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,991.3092400918999,1094.59611509123,891.2485273246101
+1,All Population,5,Prevalence,53613,Lanao Del Sur,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2022,874.95048219905,971.83610072773,766.66716392097
