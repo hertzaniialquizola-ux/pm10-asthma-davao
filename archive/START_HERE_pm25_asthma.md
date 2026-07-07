@@ -1,3 +1,17 @@
+> **⚠️ SUPERSEDED — DO NOT READ AS CURRENT STATUS.** This file describes an earlier,
+> abandoned project design: a national-level (n=10, Philippines only) correlation
+> analysis using GBD's PM2.5 Summary Exposure Value (SEV) index, with no subnational
+> panel and no fixed-effects regression. That design was superseded by the current
+> **subnational ecological panel** (17 Philippine regions × 10 years = 170
+> region-year observations, ACAG satellite PM2.5 in µg/m³, two-way fixed-effects
+> regression with region + year effects, a 5-outcome extension, and a Davao City
+> ground-station validation layer). See `README.md` for the current design and
+> `outputs/paper/PM25_Pediatric_Asthma_Philippines_REFORMATTED.docx` for the current
+> manuscript. This file is retained for historical record only and moved to
+> `archive/` on 2026-07-07. Do not use it to orient a new session.
+
+---
+
 # START HERE — PM2.5 & Pediatric Asthma Project (Status v5)
 
 _Project memory file. Read RESEARCH_INSTRUCTIONS.md first, then this. This supersedes all
