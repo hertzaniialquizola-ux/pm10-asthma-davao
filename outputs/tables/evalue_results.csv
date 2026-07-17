@@ -1,0 +1,5 @@
+quantity,value,caveat
+pooled_pearson_r,0.887,n/a
+standardized_effect_size_d,0.887,"d = r directly (standardized bivariate slope), NOT a point-biserial conversion -- corrected 2026-07-16, see script docstring"
+risk_ratio_approx,2.2415554002237763,"VanderWeele & Ding (2017) Table 2 approximation RR~=exp(0.91*d); the paper notes modest error for typical effect sizes, more for very large ones (r=0.887 is very large)"
+e_value_approx,3.909792557239708,"APPROXIMATION ONLY, not a precise bound -- computed on the pooled/confounded r=+0.887, not on the FE-adjusted null result (which has no correlation coefficient to convert)"

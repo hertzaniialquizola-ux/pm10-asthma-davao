@@ -1,0 +1,2 @@
+check,observed_beta,observed_se_clustered,observed_t,n_bootstrap_reps,wcr_bootstrap_p_value,clustered_se_p_value_for_comparison,null_t_mean,null_t_sd
+"Wild cluster bootstrap (WCR, Rademacher weights)",-2.5541464430799232,0.8248379241801083,-3.0965434156276865,5000,0.0362,0.0024,-0.003803357749264061,1.7127769073496997

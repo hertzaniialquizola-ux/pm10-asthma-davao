@@ -1,0 +1,15 @@
+quantity,value
+"beta_FE (pm25, two-way FE / FE-with-dummies, matched)",-2.5541464430799197
+"beta_RE (pm25, Swamy-Arora RE)",-2.125937678991823
+Hausman H (full vector: pm25 + 9 year dummies),-0.6961050540961053
+Hausman df (full vector),10
+Hausman p-value (full vector),1.0
+V(diff) positive-definite (full vector),False
+Hausman H (pm25 coefficient only),
+Hausman p-value (pm25 coefficient only),
+theta (RE quasi-demeaning weight),0.977828809501151
+"sigma_e^2 (within/idiosyncratic variance, RE)",118.23186369584106
+"sigma_u^2 (between/region variance, RE)",24040.47107279354
+"[context only] one-way beta_FE (pm25, no year effects)",0.9338384919778043
+"[context only] one-way beta_RE (pm25, no year effects)",13.407634078171833
+[context only] one-way Var(b_FE)-Var(b_RE),-6.209219570556722

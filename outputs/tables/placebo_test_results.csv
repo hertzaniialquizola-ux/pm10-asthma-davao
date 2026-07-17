@@ -1,0 +1,2 @@
+outcome,outcome_slug,value_col,beta,se,t_stat,p_value,within_r2,n,n_degenerate_provinces_check,gbd_source_file
+Low back pain,placebo_lowbackpain,placebo_lowbackpain_rate_per100k,-0.1801,0.4136,-0.4353,0.664,0.003,170,0,data/raw/gbd/IHME-GBD_2023_DATA-fb1be876-1.csv

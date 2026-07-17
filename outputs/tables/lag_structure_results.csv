@@ -1,0 +1,6 @@
+spec,exposure_var,years_used,n_years,n_regions,n_obs,panel_balanced,beta,se,t_stat,p_value,within_r2
+"Lag 0 (same-year, primary spec)",pm25,2013-2022,10,17,170,True,-2.5541,0.8248,-3.0965,0.0024,0.0802
+Lag 1 year,pm25_lag1,2014-2022,9,17,153,True,-2.1558,0.7371,-2.9248,0.0041,0.0623
+Lag 2 years,pm25_lag2,2015-2022,8,17,136,True,-2.1683,1.1112,-1.9512,0.0535,0.0776
+Lag 3 years,pm25_lag3,2016-2022,7,17,119,True,-1.6268,1.1247,-1.4464,0.1514,0.04
+3-year trailing rolling mean,pm25_roll3,2015-2022,8,17,136,True,-6.0401,1.1097,-5.4432,0.0,0.2043

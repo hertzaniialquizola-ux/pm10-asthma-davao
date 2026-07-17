@@ -1,0 +1,10 @@
+quantity,value
+morans_i_observed,-0.0016873757076833035
+expected_i_under_no_autocorrelation,-0.0625
+n_regions,17.0
+k_neighbors,4.0
+n_permutations,5000.0
+permutation_p_two_sided,0.9942
+permutation_p_one_sided_positive,0.292
+null_mean,-0.06259936556425291
+null_sd,0.14229337647334375

@@ -1,0 +1,3 @@
+specification,years,beta,se,t_stat,p_value,within_r2,n_obs
+Full sample (2013-2022),"[np.int64(2013), np.int64(2014), np.int64(2015), np.int64(2016), np.int64(2017), np.int64(2018), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022)]",-2.5541,0.8248,-3.0965,0.0024,0.0802,170
+"Excluding 2020-2021 (2013-2019, 2022)","[np.int64(2013), np.int64(2014), np.int64(2015), np.int64(2016), np.int64(2017), np.int64(2018), np.int64(2019), np.int64(2022)]",-2.1126,1.2254,-1.724,0.0875,0.0556,136
