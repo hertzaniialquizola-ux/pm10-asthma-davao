@@ -1,0 +1,171 @@
+region,year,biomass_fuel_pct,data_source
+BARMM,2013,75.8,composite_2013
+BARMM,2014,79.51666666666667,interpolated
+BARMM,2015,83.23333333333333,interpolated
+BARMM,2016,86.95,interpolated
+BARMM,2017,90.66666666666667,real_2017
+BARMM,2018,90.15333333333334,interpolated
+BARMM,2019,89.64,interpolated
+BARMM,2020,89.12666666666667,interpolated
+BARMM,2021,88.61333333333333,interpolated
+BARMM,2022,88.1,real_2022
+CAR,2013,69.18560000000001,composite_2013
+CAR,2014,66.12253333333334,interpolated
+CAR,2015,63.05946666666667,interpolated
+CAR,2016,59.99640000000001,interpolated
+CAR,2017,56.93333333333334,real_2017
+CAR,2018,50.42666666666667,interpolated
+CAR,2019,43.92,interpolated
+CAR,2020,37.413333333333334,interpolated
+CAR,2021,30.906666666666666,interpolated
+CAR,2022,24.4,real_2022
+NCR,2013,38.7,composite_2013
+NCR,2014,30.025000000000002,interpolated
+NCR,2015,21.35,interpolated
+NCR,2016,12.675,interpolated
+NCR,2017,4.0,real_2017
+NCR,2018,3.44,interpolated
+NCR,2019,2.88,interpolated
+NCR,2020,2.3200000000000003,interpolated
+NCR,2021,1.7600000000000002,interpolated
+NCR,2022,1.2,real_2022
+Region I,2013,75.7152,composite_2013
+Region I,2014,69.48015,interpolated
+Region I,2015,63.245099999999994,interpolated
+Region I,2016,57.01005,interpolated
+Region I,2017,50.775,real_2017
+Region I,2018,49.22,interpolated
+Region I,2019,47.665,interpolated
+Region I,2020,46.11,interpolated
+Region I,2021,44.555,interpolated
+Region I,2022,43.0,real_2022
+Region II,2013,76.1392,composite_2013
+Region II,2014,73.07315,interpolated
+Region II,2015,70.00710000000001,interpolated
+Region II,2016,66.94105,interpolated
+Region II,2017,63.875,real_2017
+Region II,2018,60.78,interpolated
+Region II,2019,57.685,interpolated
+Region II,2020,54.59,interpolated
+Region II,2021,51.495,interpolated
+Region II,2022,48.4,real_2022
+Region III,2013,59.179199999999994,composite_2013
+Region III,2014,53.130828571428566,interpolated
+Region III,2015,47.08245714285714,interpolated
+Region III,2016,41.034085714285716,interpolated
+Region III,2017,34.98571428571429,real_2017
+Region III,2018,30.68857142857143,interpolated
+Region III,2019,26.391428571428573,interpolated
+Region III,2020,22.094285714285718,interpolated
+Region III,2021,17.79714285714286,interpolated
+Region III,2022,13.5,real_2022
+Region IV-A,2013,55.40559999999999,composite_2013
+Region IV-A,2014,48.834199999999996,interpolated
+Region IV-A,2015,42.2628,interpolated
+Region IV-A,2016,35.691399999999994,interpolated
+Region IV-A,2017,29.119999999999997,real_2017
+Region IV-A,2018,26.395999999999997,interpolated
+Region IV-A,2019,23.671999999999997,interpolated
+Region IV-A,2020,20.948,interpolated
+Region IV-A,2021,18.224,interpolated
+Region IV-A,2022,15.5,real_2022
+Region IV-B,2013,71.56,composite_2013
+Region IV-B,2014,73.285,interpolated
+Region IV-B,2015,75.01,interpolated
+Region IV-B,2016,76.73500000000001,interpolated
+Region IV-B,2017,78.46000000000001,real_2017
+Region IV-B,2018,76.94800000000001,interpolated
+Region IV-B,2019,75.436,interpolated
+Region IV-B,2020,73.924,interpolated
+Region IV-B,2021,72.412,interpolated
+Region IV-B,2022,70.9,real_2022
+Region IX,2013,66.6416,composite_2013
+Region IX,2014,71.68953333333333,interpolated
+Region IX,2015,76.73746666666666,interpolated
+Region IX,2016,81.7854,interpolated
+Region IX,2017,86.83333333333333,real_2017
+Region IX,2018,85.58666666666666,interpolated
+Region IX,2019,84.33999999999999,interpolated
+Region IX,2020,83.09333333333333,interpolated
+Region IX,2021,81.84666666666666,interpolated
+Region IX,2022,80.6,real_2022
+Region V,2013,74.57039999999999,composite_2013
+Region V,2014,74.39446666666666,interpolated
+Region V,2015,74.21853333333334,interpolated
+Region V,2016,74.04260000000001,interpolated
+Region V,2017,73.86666666666667,real_2017
+Region V,2018,71.79333333333334,interpolated
+Region V,2019,69.72,interpolated
+Region V,2020,67.64666666666668,interpolated
+Region V,2021,65.57333333333334,interpolated
+Region V,2022,63.5,real_2022
+Region VI,2013,66.1752,composite_2013
+Region VI,2014,71.07306666666668,interpolated
+Region VI,2015,75.97093333333333,interpolated
+Region VI,2016,80.8688,interpolated
+Region VI,2017,85.76666666666667,real_2017
+Region VI,2018,82.89333333333333,interpolated
+Region VI,2019,80.02,interpolated
+Region VI,2020,77.14666666666668,interpolated
+Region VI,2021,74.27333333333334,interpolated
+Region VI,2022,71.4,real_2022
+Region VII,2013,62.232,composite_2013
+Region VII,2014,65.774,interpolated
+Region VII,2015,69.316,interpolated
+Region VII,2016,72.858,interpolated
+Region VII,2017,76.4,real_2017
+Region VII,2018,70.04,interpolated
+Region VII,2019,63.68000000000001,interpolated
+Region VII,2020,57.32,interpolated
+Region VII,2021,50.96,interpolated
+Region VII,2022,44.6,real_2022
+Region VIII,2013,77.4112,composite_2013
+Region VIII,2014,77.44173333333333,interpolated
+Region VIII,2015,77.47226666666666,interpolated
+Region VIII,2016,77.5028,interpolated
+Region VIII,2017,77.53333333333333,real_2017
+Region VIII,2018,73.10666666666667,interpolated
+Region VIII,2019,68.67999999999999,interpolated
+Region VIII,2020,64.25333333333333,interpolated
+Region VIII,2021,59.82666666666667,interpolated
+Region VIII,2022,55.4,real_2022
+Region X,2013,63.292,composite_2013
+Region X,2014,67.514,interpolated
+Region X,2015,71.73599999999999,interpolated
+Region X,2016,75.958,interpolated
+Region X,2017,80.17999999999999,real_2017
+Region X,2018,77.904,interpolated
+Region X,2019,75.628,interpolated
+Region X,2020,73.35199999999999,interpolated
+Region X,2021,71.076,interpolated
+Region X,2022,68.8,real_2022
+Region XI,2013,55.872,composite_2013
+Region XI,2014,61.247749999999996,interpolated
+Region XI,2015,66.6235,interpolated
+Region XI,2016,71.99925,interpolated
+Region XI,2017,77.375,real_2017
+Region XI,2018,72.94,interpolated
+Region XI,2019,68.505,interpolated
+Region XI,2020,64.07,interpolated
+Region XI,2021,59.635000000000005,interpolated
+Region XI,2022,55.2,real_2022
+Region XII,2013,61.3416,composite_2013
+Region XII,2014,67.9062,interpolated
+Region XII,2015,74.4708,interpolated
+Region XII,2016,81.0354,interpolated
+Region XII,2017,87.6,real_2017
+Region XII,2018,84.64,interpolated
+Region XII,2019,81.67999999999999,interpolated
+Region XII,2020,78.72,interpolated
+Region XII,2021,75.75999999999999,interpolated
+Region XII,2022,72.8,real_2022
+Region XIII,2013,69.3552,composite_2013
+Region XIII,2014,71.87639999999999,interpolated
+Region XIII,2015,74.3976,interpolated
+Region XIII,2016,76.9188,interpolated
+Region XIII,2017,79.44,real_2017
+Region XIII,2018,77.05199999999999,interpolated
+Region XIII,2019,74.664,interpolated
+Region XIII,2020,72.276,interpolated
+Region XIII,2021,69.888,interpolated
+Region XIII,2022,67.5,real_2022

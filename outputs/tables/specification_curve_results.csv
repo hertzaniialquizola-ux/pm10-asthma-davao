@@ -1,0 +1,27 @@
+label,group,exposure,sample,covariate,trend,beta,se,p,significant_05,rank
+3-yr rolling mean (cumulative),headline,3-yr rolling mean (cumulative),full (smaller balanced panel),none,region+year FE,-6.0401,1.1097,0.0,True,1.0
+Excl. Region I,jackknife,same-year,excl. Region I,none,region+year FE,-2.8116,0.7788,0.0004,True,2.0
+Excl. Region IV-A,jackknife,same-year,excl. Region IV-A,none,region+year FE,-2.7748,0.6762,0.0001,True,3.0
+Excl. Region III,jackknife,same-year,excl. Region III,none,region+year FE,-2.7111,0.8949,0.0029,True,4.0
+Excl. Region X,jackknife,same-year,excl. Region X,none,region+year FE,-2.6866,0.8217,0.0014,True,5.0
+Excl. Region XIII,jackknife,same-year,excl. Region XIII,none,region+year FE,-2.6603,0.8193,0.0015,True,6.0
+Excl. BARMM,jackknife,same-year,excl. BARMM,none,region+year FE,-2.6357,0.8615,0.0027,True,7.0
+Excl. Region VII,jackknife,same-year,excl. Region VII,none,region+year FE,-2.6248,0.7923,0.0012,True,8.0
+Excl. Region VI,jackknife,same-year,excl. Region VI,none,region+year FE,-2.6156,0.8237,0.0019,True,9.0
+Primary (same-year),headline,same-year,full (17 regions x 10 yrs),none,region+year FE,-2.5541,0.8247,0.0024,True,10.0
+Excl. Region II,jackknife,same-year,excl. Region II,none,region+year FE,-2.5486,0.9472,0.008,True,11.0
+Excl. Region V,jackknife,same-year,excl. Region V,none,region+year FE,-2.52,0.8306,0.0029,True,12.0
+Excl. Region XII,jackknife,same-year,excl. Region XII,none,region+year FE,-2.518,0.845,0.0034,True,13.0
+Excl. Region IX,jackknife,same-year,excl. Region IX,none,region+year FE,-2.5161,0.8509,0.0037,True,14.0
+Excl. Region IV-B,jackknife,same-year,excl. Region IV-B,none,region+year FE,-2.5078,0.8514,0.0038,True,15.0
+Excl. CAR,jackknife,same-year,excl. CAR,none,region+year FE,-2.5069,0.8975,0.006,True,16.0
+Excl. Region XI,jackknife,same-year,excl. Region XI,none,region+year FE,-2.4758,0.8967,0.0066,True,17.0
+Excl. Region VIII,jackknife,same-year,excl. Region VIII,none,region+year FE,-2.4565,0.7809,0.002,True,18.0
+2-year lag,headline,2-year lag,full (smaller balanced panel),none,region+year FE,-2.1683,1.1112,0.0535,False,19.0
+1-year lag,headline,1-year lag,full (smaller balanced panel),none,region+year FE,-2.1558,0.7371,0.0041,True,20.0
+Excl. COVID years (2020-21),headline,same-year,excl. 2020-2021,none,region+year FE,-2.1126,1.2254,0.0875,False,21.0
++ biomass-fuel covariate,headline,same-year,full,biomass-fuel-use %,region+year FE,-2.0955,0.8733,0.0177,True,22.0
+3-year lag,headline,3-year lag,full (smaller balanced panel),none,region+year FE,-1.6268,1.1247,0.1514,False,23.0
+Excl. NCR,jackknife,same-year,excl. NCR,none,region+year FE,-1.4157,0.699,0.0448,True,24.0
++ region-specific trends,headline,same-year,full,none,region+year FE + 17 region trends,-0.9373,0.4463,0.0377,True,25.0
+"Log-log (diff. units, not pooled)",not_comparable,same-year,full,none,region+year FE,-0.0046,0.0017,0.0078,True,

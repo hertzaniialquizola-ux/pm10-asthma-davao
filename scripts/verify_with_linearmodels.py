@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 verify_with_linearmodels.py
 =============================
@@ -58,6 +59,14 @@ print("\n" + "=" * 78)
 print("1. WILD CLUSTER BOOTSTRAP (WCR), real PanelOLS refits each draw")
 print("=" * 78)
 print("(compare to outputs/tables/wild_bootstrap_results.csv: p=0.0362)")
+print("NOTE: an earlier run of this section used N_BOOT=1000 (vs. the sandbox's 5000) purely")
+print("for runtime reasons, and got p=0.0420 -- this is NOT a disagreement between stats_lite.py")
+print("and real linearmodels. Re-running the sandbox's own closed-form formula (same seed=42) at")
+print("N_BOOT=1000/5000/20000/100000 gives p=0.0420/0.0362/0.0347/0.0345 -- i.e. 1000 reps")
+print("reproduces 0.0420 EXACTLY regardless of which implementation computes it, and the true")
+print("bootstrap p-value is converging toward ~0.034-0.035 as reps increase. The manuscript's")
+print("5000-rep number (0.036) is the better-converged estimate, not the less-verified one. This")
+print("section now uses N_BOOT=5000 to match the manuscript exactly rather than re-litigating this.")
 regions = sorted(df["region"].unique())
 years = sorted(df["year"].unique())
 Y = df.pivot(index="region", columns="year", values="asthma_rate_per100k").loc[regions, years].to_numpy()
@@ -70,7 +79,7 @@ base_fit = fit_fe(df, "pm25", "asthma_rate_per100k")
 t_obs = base_fit[0] / base_fit[1]
 
 rng = np.random.default_rng(42)
-N_BOOT = 1000  # fewer than the sandbox's 5000 since each draw refits real PanelOLS (slower)
+N_BOOT = 5000  # matched to the sandbox's N_BOOT so this reproduces the manuscript's number exactly
 t_boot = np.empty(N_BOOT)
 for b_i in range(N_BOOT):
     w = rng.choice([-1.0, 1.0], size=(len(regions), 1))
@@ -172,5 +181,73 @@ try:
 except FileNotFoundError:
     print(f"Could not find {placebo_path} -- run scripts/robustness_placebo.py first "
           "(it writes this file as part of the aggregation step).")
+
+print("\n" + "=" * 78)
+print("7. BIOMASS-FUEL-USE MEDIATOR CHECK (real PanelOLS, multi-regressor)")
+print("=" * 78)
+print("(compare to outputs/tables/mediator_biomass_fuel_results.csv)")
+biomass_path = "data/processed/biomass_fuel_pm25_asthma_merged.csv"
+try:
+    dfb = pd.read_csv(biomass_path)
+    b0, se0, p0, r20, n0 = fit_fe(dfb, "pm25", "asthma_rate_per100k")
+    print(f"WITHOUT covariate: beta={b0:.4f} (reported -2.5541), se={se0:.4f}, p={p0:.4f}")
+
+    panel = dfb.set_index(["region", "year"])
+    mod = PanelOLS.from_formula(
+        "asthma_rate_per100k ~ pm25 + biomass_fuel_pct + EntityEffects + TimeEffects", data=panel)
+    res = mod.fit(cov_type="clustered", cluster_entity=True)
+    print(f"WITH covariate:    beta_pm25={res.params['pm25']:.4f} "
+          f"(reported -2.0955), se={res.std_errors['pm25']:.4f}, p={res.pvalues['pm25']:.4f}")
+    print(f"                   beta_biomass_fuel={res.params['biomass_fuel_pct']:.4f} "
+          f"(reported 0.3671), se={res.std_errors['biomass_fuel_pct']:.4f}, "
+          f"p={res.pvalues['biomass_fuel_pct']:.4f}")
+
+    region_means = dfb.groupby("region")[["biomass_fuel_pct", "pm25"]].mean()
+    r_between = region_means["biomass_fuel_pct"].corr(region_means["pm25"])
+    print(f"Between-region correlation = {r_between:.4f} (reported -0.7257)")
+
+    print("\nNOTE: NCR is a highly influential single point in this correlation and in the")
+    print("covariate-adjusted beta (see outputs/tables/mediator_biomass_fuel_results.csv rows")
+    print("'drop_NCR_*') -- dropping NCR alone drops the between-region r from -0.73 to -0.42 and")
+    print("makes beta_pm25(+covariate) non-significant (p=0.15). This mirrors the already-known")
+    print("NCR sensitivity of the PRIMARY model itself (see section 2 above / jackknife_results.csv:")
+    print("dropping NCR from the primary model alone already weakens it from p=0.0024 to p=0.0448),")
+    print("so this is a known, previously-disclosed feature of the dataset's NCR row, not a new")
+    print("problem introduced by the mediator check.")
+except FileNotFoundError:
+    print(f"Could not find {biomass_path} -- run scripts/task3_mediator_analysis.py first.")
+
+print("\n" + "=" * 78)
+print("8. REGION-SPECIFIC LINEAR TIME TRENDS (real PanelOLS, 17 extra trend regressors)")
+print("=" * 78)
+print("(compare to outputs/tables/region_specific_trends_results.csv)")
+print("This is the peer-review-flagged identification check: does the primary result survive")
+print("once each region is allowed its own linear trajectory, not just its own level?")
+dft = df.sort_values(["region", "year"]).reset_index(drop=True).copy()
+dft["t_idx"] = dft.groupby("region").cumcount()  # 0..9 in year order, same convention as the
+                                                   # sandbox's fe_fit_with_region_trends (explicit
+                                                   # sorted-year index, not raw file row order)
+for region in sorted(dft["region"].unique()):
+    dft[f"trend_{region}"] = dft["t_idx"] * (dft["region"] == region).astype(float)
+trend_cols = [c for c in dft.columns if c.startswith("trend_")]
+panel = dft.set_index(["region", "year"])
+formula = "asthma_rate_per100k ~ pm25 + " + " + ".join(trend_cols) + " + EntityEffects + TimeEffects"
+mod = PanelOLS.from_formula(formula, data=panel)
+res = mod.fit(cov_type="clustered", cluster_entity=True)
+print(f"beta_pm25={res.params['pm25']:.4f} (reported -0.9373), se={res.std_errors['pm25']:.4f} "
+      f"(reported 0.4463), p={res.pvalues['pm25']:.4f} (reported 0.0377)")
+print(f"within_r2={res.rsquared:.4f} (reported 0.7908)")
+primary_beta = -2.5541  # hardcoded, not the reused `b` variable above (which by this point in
+                         # the script holds the placebo/jackknife/lag section's last value, not
+                         # the primary pm25 coefficient)
+pct_change = 100.0 * (res.params["pm25"] - primary_beta) / primary_beta
+print(f"Change from primary beta ({b:.4f}): {pct_change:+.1f}%")
+if res.pvalues["pm25"] >= 0.05:
+    print("Does NOT survive at conventional 5% significance here -- if this differs from the")
+    print("sandbox's p=0.0377, TRUST THIS (real linearmodels) result.")
+else:
+    print("Survives at conventional 5% significance, consistent with the sandbox result -- but note")
+    print("the point estimate shrinks substantially and this is a demanding 18-parameter/170-obs")
+    print("specification (see script docstring in scripts/robustness_region_trends.py).")
 
 print("\nDONE. Compare every number above to the corresponding outputs/tables/*.csv file.")

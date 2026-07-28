@@ -301,6 +301,171 @@ def fe_fit(df, entity_col, time_col, x_col, y_col, n_params=1):
     }
 
 
+def fe_fit_multi(df, entity_col, time_col, x_cols, y_col):
+    """
+    Multi-regressor generalization of fe_fit(), added for the biomass-fuel
+    mediator check (task3_mediator_analysis.py) -- everything upstream of
+    this file only ever needed a single regressor (pm25), so this wasn't
+    built until a covariate-adjusted model was actually needed.
+
+    Two-way (entity+time) demeaning is applied separately to Y and to EACH
+    column of X (two_way_demean is linear, so demeaning each regressor
+    independently and then running OLS on the demeaned block is the
+    standard Frisch-Waugh-Lovell equivalent of two-way FE with multiple
+    regressors -- same logic as the single-regressor case in fe_fit(),
+    just with an OLS solve instead of a single sum-ratio). Reduces exactly
+    to fe_fit()'s beta/se/p when x_cols has length 1 (checked in this
+    file's __main__ self-test block below).
+
+    Cluster-robust (by entity) sandwich SE generalizes the single-regressor
+    formula in cluster_robust_se() to the standard multivariate sandwich
+    Var(beta) = (Xt'Xt)^-1 [sum_g Xt_g' e_g e_g' Xt_g] (Xt'Xt)^-1, with the
+    same small-sample correction factor G/(G-1) * (N-1)/(N-K-1), K = n_entities
+    + n_params, that fe_fit()/cluster_robust_se() already use and that was
+    reverse-engineered against the repo's reported single-regressor SE.
+    """
+    entities = sorted(df[entity_col].unique())
+    times = sorted(df[time_col].unique())
+    n_entities, n_time = len(entities), len(times)
+    n_params = len(x_cols)
+
+    Y, _, _ = build_matrix(df, entity_col, time_col, y_col)
+    Yt = two_way_demean(Y)
+
+    Xt_list = []
+    for xc in x_cols:
+        Xraw, _, _ = build_matrix(df, entity_col, time_col, xc)
+        Xt_list.append(two_way_demean(Xraw))
+
+    # Stack into (n_entities*n_time, n_params) design matrix, row-major to
+    # match Yt.reshape(-1) below (row = entity, col = time).
+    Xt_stack = np.column_stack([Xt.reshape(-1) for Xt in Xt_list])
+    y_stack = Yt.reshape(-1)
+
+    XtX = Xt_stack.T @ Xt_stack
+    XtX_inv = np.linalg.inv(XtX)
+    beta = XtX_inv @ (Xt_stack.T @ y_stack)
+    resid_stack = y_stack - Xt_stack @ beta
+    within_r2 = 1.0 - np.sum(resid_stack ** 2) / np.sum(y_stack ** 2)
+
+    # Cluster (by entity/row) sandwich.
+    resid_mat = resid_stack.reshape(n_entities, n_time)
+    meat = np.zeros((n_params, n_params))
+    for g in range(n_entities):
+        Xg = np.column_stack([Xt[g, :] for Xt in Xt_list])  # (n_time, n_params)
+        eg = resid_mat[g, :]                                 # (n_time,)
+        score_g = Xg.T @ eg                                  # (n_params,)
+        meat += np.outer(score_g, score_g)
+    vcov = XtX_inv @ meat @ XtX_inv
+    G = n_entities
+    N = n_entities * n_time
+    K = n_entities + n_params
+    corr = (G / (G - 1.0)) * ((N - 1.0) / (N - K - 1.0))
+    vcov *= corr
+    se = np.sqrt(np.diag(vcov))
+
+    df_t = n_entities * n_time - n_entities - n_time + 1 - n_params
+    t_stat = beta / se
+    p_value = t_sf_twosided(t_stat, df_t)
+
+    return {
+        "x_cols": x_cols, "beta": beta, "se": se, "t_stat": t_stat, "p_value": p_value,
+        "df_t": df_t, "within_r2": within_r2, "n_entities": n_entities, "n_time": n_time,
+        "n_obs": n_entities * n_time, "entities": entities, "times": times, "vcov": vcov,
+    }
+
+
+def fe_fit_with_region_trends(df, entity_col, time_col, x_col, y_col):
+    """
+    Two-way FE + REGION-SPECIFIC LINEAR TIME TRENDS: y_it = beta*x_it +
+    alpha_i (entity FE) + gamma_t (time FE) + delta_i * t_i (one linear
+    trend slope per entity) + e_it.
+
+    Added for the peer-review-flagged identification check: the existing
+    8 robustness checks (permutation, WCR bootstrap, jackknife, COVID
+    exclusion, lag structure, Hausman, Moran's I, placebo) all interrogate
+    whether the STANDARD ERROR on beta is trustworthy given only 17
+    clusters; none of them test whether beta ITSELF is confounded by a
+    differential regional TRAJECTORY (e.g. staggered health-system
+    capacity rollout) rather than a differential regional LEVEL (which
+    entity FE already absorbs). This is the standard fix for that specific
+    threat in the panel-econometrics literature (region/state-specific
+    linear trends alongside two-way FE; e.g. Wolfers 2006).
+
+    Implementation: build one (n_entities x n_time) "trend" regressor
+    matrix per entity -- nonzero (= 0,1,...,n_time-1) only in that
+    entity's own row, zero elsewhere -- then two-way demean EVERYTHING
+    (y, x, and all n_entities trend regressors) and run multivariate OLS
+    on the demeaned system. This is a direct application of fe_fit_multi's
+    existing Frisch-Waugh-Lovell logic (two-way demeaning + one joint OLS
+    solve): demeaning is a linear projection onto the entity+time-dummy
+    column space, so adding more (already-demeaned) regressors to that
+    same OLS solve is exactly equivalent to a single combined regression
+    with entity dummies + time dummies + all n_entities trend terms
+    together. Reuses fe_fit_multi's cluster-robust sandwich machinery,
+    with n_params = 1 (pm25) + n_entities (one trend slope per region).
+    """
+    entities = sorted(df[entity_col].unique())
+    times = sorted(df[time_col].unique())
+    n_entities, n_time = len(entities), len(times)
+    t_index = {t: i for i, t in enumerate(times)}  # 0..n_time-1, linear trend units
+
+    Y, _, _ = build_matrix(df, entity_col, time_col, y_col)
+    Xmain, _, _ = build_matrix(df, entity_col, time_col, x_col)
+
+    Yt = two_way_demean(Y)
+    Xt_list = [two_way_demean(Xmain)]
+    x_col_names = [x_col]
+    for e_idx, ent in enumerate(entities):
+        trend_mat = np.zeros((n_entities, n_time))
+        trend_mat[e_idx, :] = [t_index[t] for t in times]
+        Xt_list.append(two_way_demean(trend_mat))
+        x_col_names.append(f"trend_{ent}")
+
+    n_params = len(Xt_list)
+    Xt_stack = np.column_stack([Xt.reshape(-1) for Xt in Xt_list])
+    y_stack = Yt.reshape(-1)
+
+    XtX = Xt_stack.T @ Xt_stack
+    XtX_inv = np.linalg.inv(XtX)
+    beta = XtX_inv @ (Xt_stack.T @ y_stack)
+    resid_stack = y_stack - Xt_stack @ beta
+    within_r2 = 1.0 - np.sum(resid_stack ** 2) / np.sum(y_stack ** 2)
+
+    resid_mat = resid_stack.reshape(n_entities, n_time)
+    meat = np.zeros((n_params, n_params))
+    for g in range(n_entities):
+        Xg = np.column_stack([Xt[g, :] for Xt in Xt_list])
+        eg = resid_mat[g, :]
+        score_g = Xg.T @ eg
+        meat += np.outer(score_g, score_g)
+    vcov = XtX_inv @ meat @ XtX_inv
+    G = n_entities
+    N = n_entities * n_time
+    K = n_entities + n_params
+    dof_resid = N - K - 1
+    if dof_resid <= 0:
+        # Too many parameters for cluster df-correction to be meaningful;
+        # report uncorrected sandwich SE and flag it rather than dividing
+        # by a non-positive number.
+        se_pm25 = math.sqrt(vcov[0, 0])
+        p_pm25 = float("nan")
+        df_t = None
+    else:
+        corr = (G / (G - 1.0)) * ((N - 1.0) / dof_resid)
+        vcov_corrected = vcov * corr
+        se_pm25 = math.sqrt(vcov_corrected[0, 0])
+        df_t = n_entities * n_time - n_entities - n_time + 1 - n_params
+        t_stat = beta[0] / se_pm25
+        p_pm25 = float(t_sf_twosided(t_stat, df_t)) if df_t > 0 else float("nan")
+
+    return {
+        "x_cols": x_col_names, "beta_pm25": beta[0], "se_pm25": se_pm25, "p_pm25": p_pm25,
+        "beta_all": beta, "df_t": df_t, "within_r2": within_r2, "n_entities": n_entities,
+        "n_time": n_time, "n_obs": n_entities * n_time, "n_params": n_params,
+    }
+
+
 # ─────────────────────────────────────────────────────────────────────────
 # 4. SWAMY-ARORA BALANCED ONE-WAY RANDOM EFFECTS (for the Hausman test)
 # ─────────────────────────────────────────────────────────────────────────
@@ -430,3 +595,13 @@ if __name__ == "__main__":
     print("\nbeta and within-R^2 match to reported precision. SE/p compared for approximate")
     print("agreement with linearmodels' clustered SE (formula/df-adjustment need not be")
     print("bit-identical for downstream nonparametric checks, which don't rely on this SE).")
+
+    print("\n── fe_fit_multi() self-check: single-regressor case must reduce to fe_fit() ──")
+    fit_multi = fe_fit_multi(panel, "region", "year", ["pm25"], "asthma_rate_per100k")
+    p_multi = np.atleast_1d(fit_multi["p_value"])[0]
+    print(f"fe_fit_multi beta = {fit_multi['beta'][0]:.6f}  (fe_fit beta = {fit['beta']:.6f})")
+    print(f"fe_fit_multi se   = {fit_multi['se'][0]:.6f}  (fe_fit se   = {fit['se']:.6f})")
+    print(f"fe_fit_multi p    = {p_multi:.6f}  (fe_fit p    = {fit['p_value']:.6f})")
+    assert abs(fit_multi["beta"][0] - fit["beta"]) < 1e-8, "fe_fit_multi does not reduce to fe_fit!"
+    assert abs(fit_multi["se"][0] - fit["se"]) < 1e-6, "fe_fit_multi SE does not reduce to fe_fit SE!"
+    print("MATCH -- fe_fit_multi() is a valid generalization of fe_fit().")

@@ -1,0 +1,21 @@
+check,value,n,se,p
+first_stage_pooled_correlation,-0.6337,170.0,,
+first_stage_between_region_correlation,-0.7257,17.0,,
+beta_pm25_without_covariate,-2.5541,170.0,0.8248,0.0024
+beta_pm25_with_biomass_covariate,-2.0955,170.0,0.8733,0.0177
+beta_biomass_fuel_covariate,0.3671,170.0,0.2649,0.1679
+pct_change_in_beta_pm25,-17.9551,,,
+drop_NCR_between_region_correlation,-0.4234,16.0,,
+drop_NCR_beta_pm25_with_covariate,-0.9296,160.0,0.642,0.15
+drop_Region IV-A_between_region_correlation,-0.7735,16.0,,
+drop_Region IV-A_beta_pm25_with_covariate,-2.1154,160.0,0.7517,0.0056
+drop_Region I_between_region_correlation,-0.724,16.0,,
+drop_Region I_beta_pm25_with_covariate,-2.4277,160.0,0.817,0.0035
+drop_Region III_between_region_correlation,-0.7559,16.0,,
+drop_Region III_beta_pm25_with_covariate,-2.3863,160.0,0.8859,0.008
+drop_Region IX_between_region_correlation,-0.7253,16.0,,
+drop_Region IX_beta_pm25_with_covariate,-2.1473,160.0,0.892,0.0174
+drop_Region XI_between_region_correlation,-0.7252,16.0,,
+drop_Region XI_beta_pm25_with_covariate,-2.0482,160.0,0.9539,0.0336
+drop_Region XII_between_region_correlation,-0.7406,16.0,,
+drop_Region XII_beta_pm25_with_covariate,-2.07,160.0,0.9186,0.0259

@@ -3,7 +3,9 @@
 Satellite-Derived PM2.5 Exposure and Pediatric Asthma Prevalence Across Philippine Regions, 2013–2022: A Subnational Ecological Panel Analysis
 
 Hertzan D. Alquizola II — Lee County High School, Leesburg, GA
-Independent research targeting Regeneron Science Talent Search + peer-reviewed publication
+Independent research prepared for peer-reviewed journal submission.
+(A separate, from-scratch project is being built for Regeneron Science Talent Search;
+it is not a continuation of this manuscript and lives in its own repo once created.)
 
 
 ## What this study does
